@@ -1,7 +1,7 @@
 #TITLE=anti-AD
-#VER=20210331101819
+#VER=20210404102907
 #URL=https://github.com/privacy-protection-tools/anti-AD
-#TOTAL_LINES=46762
+#TOTAL_LINES=46757
 ip dns static add address=127.0.0.1 name=00-gov.cn
 ip dns static add address=127.0.0.1 name=kwcdn.000dn.com
 ip dns static add address=127.0.0.1 name=kwcscdn.000dn.com
@@ -43,6 +43,7 @@ ip dns static add address=127.0.0.1 name=0202.com.tw
 ip dns static add address=127.0.0.1 name=www.0202.com.tw
 ip dns static add address=127.0.0.1 name=020wujin.cn
 ip dns static add address=127.0.0.1 name=0217qpineuxbcdhopswkvf.xyz
+ip dns static add address=127.0.0.1 name=weldc1.021ye.com
 ip dns static add address=127.0.0.1 name=0224fqpowiuxybnmvdfghj.xyz
 ip dns static add address=127.0.0.1 name=022aifang.com
 ip dns static add address=127.0.0.1 name=025suyu.com
@@ -337,7 +338,6 @@ ip dns static add address=127.0.0.1 name=m.12365chia.com
 ip dns static add address=127.0.0.1 name=mob.12365chia.com
 ip dns static add address=127.0.0.1 name=ref.12365chia.com
 ip dns static add address=127.0.0.1 name=12381236.com
-ip dns static add address=127.0.0.1 name=x.12381236.com
 ip dns static add address=127.0.0.1 name=123advertising.nl
 ip dns static add address=127.0.0.1 name=greenxfs.down.123ch.cn
 ip dns static add address=127.0.0.1 name=123compteur.com
@@ -648,7 +648,6 @@ ip dns static add address=127.0.0.1 name=1empiredirect.com
 ip dns static add address=127.0.0.1 name=1ex4oemg99mv.com
 ip dns static add address=127.0.0.1 name=1f58098dd54.com
 ip dns static add address=127.0.0.1 name=1f7de8569ea97f0614.com
-ip dns static add address=127.0.0.1 name=1f7wwaex9rbh.com
 ip dns static add address=127.0.0.1 name=adhome.1fangchan.com
 ip dns static add address=127.0.0.1 name=1freecounter.com
 ip dns static add address=127.0.0.1 name=1fwjpdwguvqs.com
@@ -932,7 +931,6 @@ ip dns static add address=127.0.0.1 name=wap.2f.com
 ip dns static add address=127.0.0.1 name=2f5a1f1fab21a56.com
 ip dns static add address=127.0.0.1 name=2g2h.com
 ip dns static add address=127.0.0.1 name=2g6gj3aojcrj.com
-ip dns static add address=127.0.0.1 name=2giga.download
 ip dns static add address=127.0.0.1 name=2giga.link
 ip dns static add address=127.0.0.1 name=stat.api.2gis.ru
 ip dns static add address=127.0.0.1 name=2gok8g15p2.com
@@ -1374,7 +1372,6 @@ ip dns static add address=127.0.0.1 name=3ue2j83u33.monster
 ip dns static add address=127.0.0.1 name=3vlm.com
 ip dns static add address=127.0.0.1 name=3vn52l.cn
 ip dns static add address=127.0.0.1 name=3wdf4.xyz
-ip dns static add address=127.0.0.1 name=3wnp9.ru
 ip dns static add address=127.0.0.1 name=3wr110.net
 ip dns static add address=127.0.0.1 name=3wr110.xyz
 ip dns static add address=127.0.0.1 name=3wtuan.com
@@ -1391,7 +1388,6 @@ ip dns static add address=127.0.0.1 name=jc.4006825178.com
 ip dns static add address=127.0.0.1 name=4008813318.com.cn
 ip dns static add address=127.0.0.1 name=4009997658.com
 ip dns static add address=127.0.0.1 name=www.4009997658.com
-ip dns static add address=127.0.0.1 name=40253b3e67b8.com
 ip dns static add address=127.0.0.1 name=402v.com
 ip dns static add address=127.0.0.1 name=404tracker.com
 ip dns static add address=127.0.0.1 name=407433bfc441.com
@@ -1401,7 +1397,6 @@ ip dns static add address=127.0.0.1 name=40ic.cn
 ip dns static add address=127.0.0.1 name=eo.40ic.cn
 ip dns static add address=127.0.0.1 name=mo.40ic.cn
 ip dns static add address=127.0.0.1 name=40nuggets.com
-ip dns static add address=127.0.0.1 name=41274223720.com
 ip dns static add address=127.0.0.1 name=4135.com
 ip dns static add address=127.0.0.1 name=41df76c67812005c.com
 ip dns static add address=127.0.0.1 name=41msl.cn
@@ -1456,7 +1451,6 @@ ip dns static add address=127.0.0.1 name=game.466.com
 ip dns static add address=127.0.0.1 name=466128.com
 ip dns static add address=127.0.0.1 name=467.red
 ip dns static add address=127.0.0.1 name=4690y10pvpq8.com
-ip dns static add address=127.0.0.1 name=46c404ccde27.com
 ip dns static add address=127.0.0.1 name=46sg.com
 ip dns static add address=127.0.0.1 name=4702fb341ddf276d.com
 ip dns static add address=127.0.0.1 name=473863a8ef28.com
@@ -1753,7 +1747,6 @@ ip dns static add address=127.0.0.1 name=5269120.com
 ip dns static add address=127.0.0.1 name=526d.com
 ip dns static add address=127.0.0.1 name=5293.com
 ip dns static add address=127.0.0.1 name=www.5293.com
-ip dns static add address=127.0.0.1 name=529e573b99.com
 ip dns static add address=127.0.0.1 name=52aan.cn
 ip dns static add address=127.0.0.1 name=x1.52aoteman.com
 ip dns static add address=127.0.0.1 name=ad.52av.one
@@ -1878,7 +1871,6 @@ ip dns static add address=127.0.0.1 name=www.588yw.com
 ip dns static add address=127.0.0.1 name=58ar.com
 ip dns static add address=127.0.0.1 name=58b14921719ec.com
 ip dns static add address=127.0.0.1 name=58b291f917728a2.com
-ip dns static add address=127.0.0.1 name=58c30e7b29e.com
 ip dns static add address=127.0.0.1 name=58f7c1ff30eb.com
 ip dns static add address=127.0.0.1 name=58isg.cn
 ip dns static add address=127.0.0.1 name=58lm.vip
@@ -2163,6 +2155,7 @@ ip dns static add address=127.0.0.1 name=ee.6x53p.cn
 ip dns static add address=127.0.0.1 name=6yag4bmwyhs4.com
 ip dns static add address=127.0.0.1 name=6ye.com.cn
 ip dns static add address=127.0.0.1 name=6yfory7f0njw.com
+ip dns static add address=127.0.0.1 name=xtsk.6yush.cn
 ip dns static add address=127.0.0.1 name=6yw7j.cn
 ip dns static add address=127.0.0.1 name=m.6z1gf.cn
 ip dns static add address=127.0.0.1 name=6zw2rcfd.com
@@ -2235,7 +2228,6 @@ ip dns static add address=127.0.0.1 name=get.766.com
 ip dns static add address=127.0.0.1 name=stats.766.com
 ip dns static add address=127.0.0.1 name=7667bab1751ff777.com
 ip dns static add address=127.0.0.1 name=7676.com
-ip dns static add address=127.0.0.1 name=v.76768hwj.cn
 ip dns static add address=127.0.0.1 name=www.76802.net
 ip dns static add address=127.0.0.1 name=76aede7d9af.com
 ip dns static add address=127.0.0.1 name=76e.org
@@ -2357,7 +2349,6 @@ ip dns static add address=127.0.0.1 name=7pud.com
 ip dns static add address=127.0.0.1 name=7search.com
 ip dns static add address=127.0.0.1 name=7shang9xia.com
 ip dns static add address=127.0.0.1 name=7ssw.cn
-ip dns static add address=127.0.0.1 name=7t15ny0f4f.top
 ip dns static add address=127.0.0.1 name=7t955.com
 ip dns static add address=127.0.0.1 name=7tpfnjn03b32.com
 ip dns static add address=127.0.0.1 name=7v4f.cn
@@ -2417,8 +2408,6 @@ ip dns static add address=127.0.0.1 name=827fa7c868b4b.com
 ip dns static add address=127.0.0.1 name=zdwwtt.82plus.co.kr
 ip dns static add address=127.0.0.1 name=8315.cn
 ip dns static add address=127.0.0.1 name=832698.xyz
-ip dns static add address=127.0.0.1 name=8368661.com
-ip dns static add address=127.0.0.1 name=qq.8368661.com
 ip dns static add address=127.0.0.1 name=www.83692.com
 ip dns static add address=127.0.0.1 name=84232.com
 ip dns static add address=127.0.0.1 name=84544232a4185d6.com
@@ -2530,7 +2519,6 @@ ip dns static add address=127.0.0.1 name=8cnd.com
 ip dns static add address=127.0.0.1 name=8d6lbsvg3qkl.com
 ip dns static add address=127.0.0.1 name=8dfaa2dc76855.com
 ip dns static add address=127.0.0.1 name=8dp.net
-ip dns static add address=127.0.0.1 name=8e26ad24b3.com
 ip dns static add address=127.0.0.1 name=p.8es.net
 ip dns static add address=127.0.0.1 name=8ff01bde37db289d5.com
 ip dns static add address=127.0.0.1 name=8fiv9a.cn
@@ -2786,7 +2774,6 @@ ip dns static add address=127.0.0.1 name=9e5420f6be48ccc.com
 ip dns static add address=127.0.0.1 name=9e7gb.cn
 ip dns static add address=127.0.0.1 name=9ead.com
 ip dns static add address=127.0.0.1 name=9eb10b7a3d04a.com
-ip dns static add address=127.0.0.1 name=9ee5a075e6.com
 ip dns static add address=127.0.0.1 name=9egiyiyt1o18.com
 ip dns static add address=127.0.0.1 name=9ehy8a8u6b.com
 ip dns static add address=127.0.0.1 name=9f38cd012c83.com
@@ -3031,7 +3018,6 @@ ip dns static add address=127.0.0.1 name=abie18.top
 ip dns static add address=127.0.0.1 name=abie25.top
 ip dns static add address=127.0.0.1 name=abie9.top
 ip dns static add address=127.0.0.1 name=ablehed.pro
-ip dns static add address=127.0.0.1 name=ablen10.tk
 ip dns static add address=127.0.0.1 name=ablenctionalle.info
 ip dns static add address=127.0.0.1 name=ablerivetdoubted.com
 ip dns static add address=127.0.0.1 name=ablida.net
@@ -3054,6 +3040,7 @@ ip dns static add address=127.0.0.1 name=hwwjsi.aboutyou.pl
 ip dns static add address=127.0.0.1 name=ykqapk.aboutyou.si
 ip dns static add address=127.0.0.1 name=aboybvnm.com
 ip dns static add address=127.0.0.1 name=abridgeinputcontraceptive.com
+ip dns static add address=127.0.0.1 name=abrjsiuuhet.com
 ip dns static add address=127.0.0.1 name=abroadlynijiz.site
 ip dns static add address=127.0.0.1 name=abrsamar.com
 ip dns static add address=127.0.0.1 name=abserv123.com
@@ -3153,7 +3140,6 @@ ip dns static add address=127.0.0.1 name=achilles-ena.com
 ip dns static add address=127.0.0.1 name=achinahdh.club
 ip dns static add address=127.0.0.1 name=m.achuc.com
 ip dns static add address=127.0.0.1 name=acidpigs.com
-ip dns static add address=127.0.0.1 name=acinfxei.com
 ip dns static add address=127.0.0.1 name=acint.net
 ip dns static add address=127.0.0.1 name=www.acint.net
 ip dns static add address=127.0.0.1 name=acirtpkh.com
@@ -3174,7 +3160,6 @@ ip dns static add address=127.0.0.1 name=acpprograms.org
 ip dns static add address=127.0.0.1 name=acptkgp.com
 ip dns static add address=127.0.0.1 name=acq.io
 ip dns static add address=127.0.0.1 name=lift.acquia.com
-ip dns static add address=127.0.0.1 name=acrabakasaka.com
 ip dns static add address=127.0.0.1 name=acrhuqzewrius.com
 ip dns static add address=127.0.0.1 name=acridtwist.com
 ip dns static add address=127.0.0.1 name=acrmzrucy.com
@@ -3183,7 +3168,6 @@ ip dns static add address=127.0.0.1 name=acrossgained.com
 ip dns static add address=127.0.0.1 name=swebanalytics.acs.org
 ip dns static add address=127.0.0.1 name=acs86.com
 ip dns static add address=127.0.0.1 name=acsbap.com
-ip dns static add address=127.0.0.1 name=acsbapp.com
 ip dns static add address=127.0.0.1 name=acscdn.com
 ip dns static add address=127.0.0.1 name=preferences.acspubs.org
 ip dns static add address=127.0.0.1 name=success.act-on.com
@@ -3358,6 +3342,7 @@ ip dns static add address=127.0.0.1 name=segments.adap.tv
 ip dns static add address=127.0.0.1 name=sync.adap.tv
 ip dns static add address=127.0.0.1 name=adapd.com
 ip dns static add address=127.0.0.1 name=adapex.io
+ip dns static add address=127.0.0.1 name=adaptingtova.biz
 ip dns static add address=127.0.0.1 name=adaptiveads.com
 ip dns static add address=127.0.0.1 name=adaranth.com
 ip dns static add address=127.0.0.1 name=adatrix.com
@@ -3465,6 +3450,7 @@ ip dns static add address=127.0.0.1 name=adddyy.com
 ip dns static add address=127.0.0.1 name=addelive.com
 ip dns static add address=127.0.0.1 name=track.addevent.com
 ip dns static add address=127.0.0.1 name=addfreestats.com
+ip dns static add address=127.0.0.1 name=addictedapartlazy.com
 ip dns static add address=127.0.0.1 name=addinto.com
 ip dns static add address=127.0.0.1 name=addiply.com
 ip dns static add address=127.0.0.1 name=additionalmedia.com
@@ -4648,6 +4634,7 @@ ip dns static add address=127.0.0.1 name=aebadu.com
 ip dns static add address=127.0.0.1 name=screencapturewidget.aebn.net
 ip dns static add address=127.0.0.1 name=aec40f9e073ba6.com
 ip dns static add address=127.0.0.1 name=aeckcjy.com
+ip dns static add address=127.0.0.1 name=aeesy.com
 ip dns static add address=127.0.0.1 name=cdn.aegins.com
 ip dns static add address=127.0.0.1 name=uwy4.aegon.es
 ip dns static add address=127.0.0.1 name=tracking.aegpresents.com
@@ -4661,7 +4648,6 @@ ip dns static add address=127.0.0.1 name=aercxy.com
 ip dns static add address=127.0.0.1 name=som.aeroplan.com
 ip dns static add address=127.0.0.1 name=pzxhyp.aeropostale.com
 ip dns static add address=127.0.0.1 name=aeros01.tk
-ip dns static add address=127.0.0.1 name=aeros10.tk
 ip dns static add address=127.0.0.1 name=cookie.aerostatonet.it
 ip dns static add address=127.0.0.1 name=adobeanalytics.aerotek.com
 ip dns static add address=127.0.0.1 name=aes01.com
@@ -4680,6 +4666,7 @@ ip dns static add address=127.0.0.1 name=pixels.afcdn.com
 ip dns static add address=127.0.0.1 name=afcontent.net
 ip dns static add address=127.0.0.1 name=afcyhf.com
 ip dns static add address=127.0.0.1 name=afdads.com
+ip dns static add address=127.0.0.1 name=sudon.afefw.com
 ip dns static add address=127.0.0.1 name=afekiryj.xyz
 ip dns static add address=127.0.0.1 name=aff-online.com
 ip dns static add address=127.0.0.1 name=aff.biz
@@ -4814,6 +4801,7 @@ ip dns static add address=127.0.0.1 name=bento.agoda.com
 ip dns static add address=127.0.0.1 name=agogdebitape.com
 ip dns static add address=127.0.0.1 name=rodo.agora.pl
 ip dns static add address=127.0.0.1 name=agpiysffnuld.com
+ip dns static add address=127.0.0.1 name=agpligj.cn
 ip dns static add address=127.0.0.1 name=agrant.cn
 ip dns static add address=127.0.0.1 name=c.agrant.cn
 ip dns static add address=127.0.0.1 name=static.agrant.cn
@@ -4897,7 +4885,6 @@ ip dns static add address=127.0.0.1 name=sdk-ab-config.aiclk.com
 ip dns static add address=127.0.0.1 name=sdk-globalconfig.aiclk.com
 ip dns static add address=127.0.0.1 name=update0.aiclk.com
 ip dns static add address=127.0.0.1 name=aicontents.net
-ip dns static add address=127.0.0.1 name=aicydb.com
 ip dns static add address=127.0.0.1 name=aid-ad.jp
 ip dns static add address=127.0.0.1 name=aidaicn.com
 ip dns static add address=127.0.0.1 name=aidaigry.com
@@ -5043,7 +5030,6 @@ ip dns static add address=127.0.0.1 name=ajillionmax.com
 ip dns static add address=127.0.0.1 name=m.ajiuc.com
 ip dns static add address=127.0.0.1 name=1.ajiyuming.com
 ip dns static add address=127.0.0.1 name=ajjhtetv87.com
-ip dns static add address=127.0.0.1 name=ajjsffefpooknd.com
 ip dns static add address=127.0.0.1 name=ajkdg3.xyz
 ip dns static add address=127.0.0.1 name=ajkelra.com
 ip dns static add address=127.0.0.1 name=ajkzd9h.com
@@ -5098,6 +5084,7 @@ ip dns static add address=127.0.0.1 name=i2.akjunshi.com
 ip dns static add address=127.0.0.1 name=i5.akjunshi.com
 ip dns static add address=127.0.0.1 name=aklamator.com
 ip dns static add address=127.0.0.1 name=trecker.aklamio.com
+ip dns static add address=127.0.0.1 name=aklm.cc
 ip dns static add address=127.0.0.1 name=akstat.com
 ip dns static add address=127.0.0.1 name=akstat.io
 ip dns static add address=127.0.0.1 name=aktgw4u9z27l.com
@@ -5338,6 +5325,7 @@ ip dns static add address=127.0.0.1 name=allottenuy.club
 ip dns static add address=127.0.0.1 name=analytics.allovoisins.com
 ip dns static add address=127.0.0.1 name=allowfencelist.com
 ip dns static add address=127.0.0.1 name=allowmailbox.com
+ip dns static add address=127.0.0.1 name=allowsscaffold.com
 ip dns static add address=127.0.0.1 name=alloydigital.com
 ip dns static add address=127.0.0.1 name=affiliates.allposters.com
 ip dns static add address=127.0.0.1 name=atrack.allposters.com
@@ -5668,7 +5656,6 @@ ip dns static add address=127.0.0.1 name=marketing.anchorage.net
 ip dns static add address=127.0.0.1 name=ancjmfycf.com
 ip dns static add address=127.0.0.1 name=swa.and.co.uk
 ip dns static add address=127.0.0.1 name=wa.and.co.uk
-ip dns static add address=127.0.0.1 name=andagainanotherthing.com
 ip dns static add address=127.0.0.1 name=andantask.online
 ip dns static add address=127.0.0.1 name=andbaybay.club
 ip dns static add address=127.0.0.1 name=andbeyond.media
@@ -5698,8 +5685,6 @@ ip dns static add address=127.0.0.1 name=angorch-cdr7.com
 ip dns static add address=127.0.0.1 name=angsrvr.com
 ip dns static add address=127.0.0.1 name=angusmemor.info
 ip dns static add address=127.0.0.1 name=anhaochem.com
-ip dns static add address=127.0.0.1 name=anhuilitian.net
-ip dns static add address=127.0.0.1 name=jc.anhuilitian.net
 ip dns static add address=127.0.0.1 name=play.on.animeteatr.ru
 ip dns static add address=127.0.0.1 name=animeteatr.ru
 ip dns static add address=127.0.0.1 name=animits.com
@@ -5717,6 +5702,7 @@ ip dns static add address=127.0.0.1 name=e.anmeilai.net
 ip dns static add address=127.0.0.1 name=m.anmeilai.net
 ip dns static add address=127.0.0.1 name=ann5.net
 ip dns static add address=127.0.0.1 name=anncmq.com
+ip dns static add address=127.0.0.1 name=annelinterv.fun
 ip dns static add address=127.0.0.1 name=anniversarytoothbrush.com
 ip dns static add address=127.0.0.1 name=announcedvillainvaluable.com
 ip dns static add address=127.0.0.1 name=announcement.ru
@@ -5758,6 +5744,7 @@ ip dns static add address=127.0.0.1 name=antidotefoepersecution.com
 ip dns static add address=127.0.0.1 name=antiterroristqueenjolly.com
 ip dns static add address=127.0.0.1 name=antns.com
 ip dns static add address=127.0.0.1 name=antoball.com
+ip dns static add address=127.0.0.1 name=antpeelpiston.com
 ip dns static add address=127.0.0.1 name=antrademic.club
 ip dns static add address=127.0.0.1 name=antvoice.com
 ip dns static add address=127.0.0.1 name=anura.io
@@ -5768,7 +5755,6 @@ ip dns static add address=127.0.0.1 name=anxiousapples.com
 ip dns static add address=127.0.0.1 name=www.anyangruisi.com
 ip dns static add address=127.0.0.1 name=anybest.host
 ip dns static add address=127.0.0.1 name=anybest.pw
-ip dns static add address=127.0.0.1 name=anybest.si
 ip dns static add address=127.0.0.1 name=anybest.site
 ip dns static add address=127.0.0.1 name=anybest.space
 ip dns static add address=127.0.0.1 name=anycdndata.info
@@ -5801,6 +5787,7 @@ ip dns static add address=127.0.0.1 name=aoidf3.com
 ip dns static add address=127.0.0.1 name=ads.aol.co.uk
 ip dns static add address=127.0.0.1 name=b-aws.aol.com
 ip dns static add address=127.0.0.1 name=adinfo.aol.com
+ip dns static add address=127.0.0.1 name=ads.web.aol.com
 ip dns static add address=127.0.0.1 name=advertising.aol.com
 ip dns static add address=127.0.0.1 name=dynamic.aol.com
 ip dns static add address=127.0.0.1 name=free.aol.com
@@ -5840,6 +5827,7 @@ ip dns static add address=127.0.0.1 name=apesstration.top
 ip dns static add address=127.0.0.1 name=apester.com
 ip dns static add address=127.0.0.1 name=events.apester.com
 ip dns static add address=127.0.0.1 name=apestsagai.club
+ip dns static add address=127.0.0.1 name=apex-ad.com
 ip dns static add address=127.0.0.1 name=apexcdn.com
 ip dns static add address=127.0.0.1 name=apexstats.com
 ip dns static add address=127.0.0.1 name=apextag.com
@@ -6103,7 +6091,6 @@ ip dns static add address=127.0.0.1 name=aribcosw.com
 ip dns static add address=127.0.0.1 name=arid5glop.com
 ip dns static add address=127.0.0.1 name=arisoning.club
 ip dns static add address=127.0.0.1 name=arisonoping.club
-ip dns static add address=127.0.0.1 name=click.aristotle.net
 ip dns static add address=127.0.0.1 name=arizona-miner.tk
 ip dns static add address=127.0.0.1 name=arkalealb.site
 ip dns static add address=127.0.0.1 name=arkayne.com
@@ -6216,6 +6203,7 @@ ip dns static add address=127.0.0.1 name=a02342.asianimage.co.uk
 ip dns static add address=127.0.0.1 name=asilslmkcanfm.com
 ip dns static add address=127.0.0.1 name=asingsprxxebsx.com
 ip dns static add address=127.0.0.1 name=asir.vip
+ip dns static add address=127.0.0.1 name=css.asitend.com
 ip dns static add address=127.0.0.1 name=asjdhajsdnweqwasdascxzccsdcsdcsdfewfwefqweqweqw.network
 ip dns static add address=127.0.0.1 name=apnmedia.ask.com
 ip dns static add address=127.0.0.1 name=askallalb.club
@@ -6228,6 +6216,7 @@ ip dns static add address=127.0.0.1 name=askinsoner.club
 ip dns static add address=127.0.0.1 name=m1.asklib.com
 ip dns static add address=127.0.0.1 name=asklots.com
 ip dns static add address=127.0.0.1 name=askspsl.cn
+ip dns static add address=127.0.0.1 name=aslaprason.com
 ip dns static add address=127.0.0.1 name=analytics.asml.com
 ip dns static add address=127.0.0.1 name=swa.asnbank.nl
 ip dns static add address=127.0.0.1 name=count.asnetworks.de
@@ -6292,7 +6281,7 @@ ip dns static add address=127.0.0.1 name=astrouble.club
 ip dns static add address=127.0.0.1 name=asuppsttp.com
 ip dns static add address=127.0.0.1 name=asuydisi.com
 ip dns static add address=127.0.0.1 name=asvatskaymj.club
-ip dns static add address=127.0.0.1 name=aswlx.cn
+ip dns static add address=127.0.0.1 name=asvoxod.ru
 ip dns static add address=127.0.0.1 name=aswpsdkeu.com
 ip dns static add address=127.0.0.1 name=aswpsdkus.com
 ip dns static add address=127.0.0.1 name=asxemfnwbrmpdp.com
@@ -6304,7 +6293,6 @@ ip dns static add address=127.0.0.1 name=atadserver.com
 ip dns static add address=127.0.0.1 name=ataijeeg.net
 ip dns static add address=127.0.0.1 name=atas.io
 ip dns static add address=127.0.0.1 name=atatus.com
-ip dns static add address=127.0.0.1 name=atcanjhcv.com
 ip dns static add address=127.0.0.1 name=testcddc.atclouddev.net
 ip dns static add address=127.0.0.1 name=www.atcryp.com
 ip dns static add address=127.0.0.1 name=atdmt.com
@@ -6603,6 +6591,7 @@ ip dns static add address=127.0.0.1 name=adm1.autoimg.cn
 ip dns static add address=127.0.0.1 name=adm2.autoimg.cn
 ip dns static add address=127.0.0.1 name=adm3.autoimg.cn
 ip dns static add address=127.0.0.1 name=autoline-top.com
+ip dns static add address=127.0.0.1 name=autologica.ga
 ip dns static add address=127.0.0.1 name=automatad.com
 ip dns static add address=127.0.0.1 name=automatedtraffic.com
 ip dns static add address=127.0.0.1 name=automateyourlist.com
@@ -6674,6 +6663,7 @@ ip dns static add address=127.0.0.1 name=j.avz4.com
 ip dns static add address=127.0.0.1 name=awakebird.com
 ip dns static add address=127.0.0.1 name=awakeexterior.com
 ip dns static add address=127.0.0.1 name=awaps.net
+ip dns static add address=127.0.0.1 name=awardpodstab.com
 ip dns static add address=127.0.0.1 name=awarealley.com
 ip dns static add address=127.0.0.1 name=awasete.com
 ip dns static add address=127.0.0.1 name=away-stay.com
@@ -6756,7 +6746,6 @@ ip dns static add address=127.0.0.1 name=ayc0zsm69431gfebd.xyz
 ip dns static add address=127.0.0.1 name=ayfigdhmsypnr.com
 ip dns static add address=127.0.0.1 name=aykcic.com
 ip dns static add address=127.0.0.1 name=ayswrotesre.club
-ip dns static add address=127.0.0.1 name=aysydyqpkg.com
 ip dns static add address=127.0.0.1 name=ayues.com
 ip dns static add address=127.0.0.1 name=e.ayues.com
 ip dns static add address=127.0.0.1 name=m.ayues.com
@@ -6883,7 +6872,6 @@ ip dns static add address=127.0.0.1 name=sstats.backcountry.com
 ip dns static add address=127.0.0.1 name=stats.backcountry.com
 ip dns static add address=127.0.0.1 name=photo.backerbiotech.cn
 ip dns static add address=127.0.0.1 name=backlink-test.de
-ip dns static add address=127.0.0.1 name=backlink-umsonst.de
 ip dns static add address=127.0.0.1 name=backlinkdino.de
 ip dns static add address=127.0.0.1 name=backlinks.com
 ip dns static add address=127.0.0.1 name=backlogtop.xyz
@@ -7892,6 +7880,7 @@ ip dns static add address=127.0.0.1 name=affportal-lb.bevomedia.com
 ip dns static add address=127.0.0.1 name=bewailindigestionunhappy.com
 ip dns static add address=127.0.0.1 name=bewaslac.com
 ip dns static add address=127.0.0.1 name=www.bewaycare.com
+ip dns static add address=127.0.0.1 name=bewhoyouare.gq
 ip dns static add address=127.0.0.1 name=beyanmaan.com
 ip dns static add address=127.0.0.1 name=beyondcompare.cc
 ip dns static add address=127.0.0.1 name=www.beyondcompare.cc
@@ -8246,7 +8235,6 @@ ip dns static add address=127.0.0.1 name=jdg.bjygfd.com
 ip dns static add address=127.0.0.1 name=bjyikao.org
 ip dns static add address=127.0.0.1 name=bjzcbx.com
 ip dns static add address=127.0.0.1 name=bjzywuxian.com
-ip dns static add address=127.0.0.1 name=www.bkdg.net
 ip dns static add address=127.0.0.1 name=bkembwdgujzp.com
 ip dns static add address=127.0.0.1 name=bkjjepbwwgef.com
 ip dns static add address=127.0.0.1 name=bkovnfkkfo.com
@@ -8529,7 +8517,6 @@ ip dns static add address=127.0.0.1 name=a1.bookapka.com
 ip dns static add address=127.0.0.1 name=m.bookben.com
 ip dns static add address=127.0.0.1 name=bookbudd.com
 ip dns static add address=127.0.0.1 name=affiliates.bookdepository.co.uk
-ip dns static add address=127.0.0.1 name=affiliates.bookdepository.com
 ip dns static add address=127.0.0.1 name=iunrts.booking.com
 ip dns static add address=127.0.0.1 name=sstats.bookingbuddy.com
 ip dns static add address=127.0.0.1 name=stats.bookingbuddy.com
@@ -8753,6 +8740,7 @@ ip dns static add address=127.0.0.1 name=britepool.com
 ip dns static add address=127.0.0.1 name=briticatederfd.site
 ip dns static add address=127.0.0.1 name=briticsvocabin.club
 ip dns static add address=127.0.0.1 name=brittleformat.com
+ip dns static add address=127.0.0.1 name=brizads.com
 ip dns static add address=127.0.0.1 name=brlfycvtbo.com
 ip dns static add address=127.0.0.1 name=broadcastbed.com
 ip dns static add address=127.0.0.1 name=broaddoor.com
@@ -8787,13 +8775,13 @@ ip dns static add address=127.0.0.1 name=xdadevelopers.browsi.mobi
 ip dns static add address=127.0.0.1 name=browsiprod.com
 ip dns static add address=127.0.0.1 name=events.browsiprod.com
 ip dns static add address=127.0.0.1 name=browsobsolete.com
+ip dns static add address=127.0.0.1 name=brqvld0p.com
 ip dns static add address=127.0.0.1 name=c0012.brsimg.com
 ip dns static add address=127.0.0.1 name=brsrvr.com
 ip dns static add address=127.0.0.1 name=brtsumthree.com
 ip dns static add address=127.0.0.1 name=brucelead.com
 ip dns static add address=127.0.0.1 name=bruceleadx.com
 ip dns static add address=127.0.0.1 name=bruceleadx1.com
-ip dns static add address=127.0.0.1 name=bruceleadx2.com
 ip dns static add address=127.0.0.1 name=bruceleadx3.com
 ip dns static add address=127.0.0.1 name=bruceleadx4.com
 ip dns static add address=127.0.0.1 name=mbns.bruker.com
@@ -8959,7 +8947,6 @@ ip dns static add address=127.0.0.1 name=butterburst.com
 ip dns static add address=127.0.0.1 name=bux1le001.com
 ip dns static add address=127.0.0.1 name=buxept.com
 ip dns static add address=127.0.0.1 name=buxflow.com
-ip dns static add address=127.0.0.1 name=buxmllzyoxnr.com
 ip dns static add address=127.0.0.1 name=buxp.org
 ip dns static add address=127.0.0.1 name=tracking.shoptogether.buy.com
 ip dns static add address=127.0.0.1 name=stats.buycostumes.com
@@ -9032,7 +9019,6 @@ ip dns static add address=127.0.0.1 name=js.bxwns.com
 ip dns static add address=127.0.0.1 name=js1.bxwns.com
 ip dns static add address=127.0.0.1 name=analytics.contents.by-fw.jp
 ip dns static add address=127.0.0.1 name=pic.by175.com
-ip dns static add address=127.0.0.1 name=byaqcsehcj.com
 ip dns static add address=127.0.0.1 name=bydonline.com
 ip dns static add address=127.0.0.1 name=byebye.ml
 ip dns static add address=127.0.0.1 name=byfgrwrpqjdkj.com
@@ -9069,6 +9055,7 @@ ip dns static add address=127.0.0.1 name=c-rings.net
 ip dns static add address=127.0.0.1 name=c02o3mpych.com
 ip dns static add address=127.0.0.1 name=c0563.com
 ip dns static add address=127.0.0.1 name=c0594.com
+ip dns static add address=127.0.0.1 name=c0c.xyz
 ip dns static add address=127.0.0.1 name=c0metome.com
 ip dns static add address=127.0.0.1 name=c0z.xyz
 ip dns static add address=127.0.0.1 name=c10ed2b8b417880.com
@@ -9292,6 +9279,7 @@ ip dns static add address=127.0.0.1 name=captivate.ai
 ip dns static add address=127.0.0.1 name=captora.com
 ip dns static add address=127.0.0.1 name=capturemedia.network
 ip dns static add address=127.0.0.1 name=capturly.com
+ip dns static add address=127.0.0.1 name=capyestern.com
 ip dns static add address=127.0.0.1 name=metrics.car.com
 ip dns static add address=127.0.0.1 name=car156.net
 ip dns static add address=127.0.0.1 name=analytics.carambatv.ru
@@ -9300,7 +9288,6 @@ ip dns static add address=127.0.0.1 name=carambo.la
 ip dns static add address=127.0.0.1 name=logging.carambo.la
 ip dns static add address=127.0.0.1 name=caramel.press
 ip dns static add address=127.0.0.1 name=metrics.caranddriver.com
-ip dns static add address=127.0.0.1 name=carbian.info
 ip dns static add address=127.0.0.1 name=carbonads.com
 ip dns static add address=127.0.0.1 name=cdn.carbonads.com
 ip dns static add address=127.0.0.1 name=engine.carbonads.com
@@ -9683,8 +9670,6 @@ ip dns static add address=127.0.0.1 name=cfasync.ml
 ip dns static add address=127.0.0.1 name=cfasync.tk
 ip dns static add address=127.0.0.1 name=cfboo.com
 ip dns static add address=127.0.0.1 name=cfcdist.gd
-ip dns static add address=127.0.0.1 name=cfcdist.gdn
-ip dns static add address=127.0.0.1 name=node.cfcdist.gdn
 ip dns static add address=127.0.0.1 name=cfcloudcdn.com
 ip dns static add address=127.0.0.1 name=cfcnet.to
 ip dns static add address=127.0.0.1 name=cfdanet.com
@@ -9982,6 +9967,7 @@ ip dns static add address=127.0.0.1 name=chocohjuanfhdhf.com
 ip dns static add address=127.0.0.1 name=choconart.com
 ip dns static add address=127.0.0.1 name=chofezrj.com
 ip dns static add address=127.0.0.1 name=choinsiden.club
+ip dns static add address=127.0.0.1 name=chongnikeji.com
 ip dns static add address=127.0.0.1 name=choogeet.net
 ip dns static add address=127.0.0.1 name=chooksee.net
 ip dns static add address=127.0.0.1 name=choorgiw.net
@@ -10463,6 +10449,7 @@ ip dns static add address=127.0.0.1 name=d18p8z0ptb8qab.cloudfront.net
 ip dns static add address=127.0.0.1 name=d18t35yyry2k49.cloudfront.net
 ip dns static add address=127.0.0.1 name=d18xeipe1243h6.cloudfront.net
 ip dns static add address=127.0.0.1 name=d191y0yd6d0jy4.cloudfront.net
+ip dns static add address=127.0.0.1 name=d1ac2du043ydir.cloudfront.net
 ip dns static add address=127.0.0.1 name=d1aezk8tun0dhm.cloudfront.net
 ip dns static add address=127.0.0.1 name=d1aqvw7cn4ydzo.cloudfront.net
 ip dns static add address=127.0.0.1 name=d1b240xv9h0q8y.cloudfront.net
@@ -10932,7 +10919,6 @@ ip dns static add address=127.0.0.1 name=a.cntv.cn
 ip dns static add address=127.0.0.1 name=d.cntv.cn
 ip dns static add address=127.0.0.1 name=gridsum-vd.cntv.cn
 ip dns static add address=127.0.0.1 name=terren.cntv.cn
-ip dns static add address=127.0.0.1 name=cntvxymwesggem.com
 ip dns static add address=127.0.0.1 name=counter.cnw.cz
 ip dns static add address=127.0.0.1 name=cnwav.com
 ip dns static add address=127.0.0.1 name=cnwywgyfrm.com
@@ -11280,6 +11266,7 @@ ip dns static add address=127.0.0.1 name=coenr.com
 ip dns static add address=127.0.0.1 name=e.coenr.com
 ip dns static add address=127.0.0.1 name=m.coenr.com
 ip dns static add address=127.0.0.1 name=cb.h5.coffeedak.cn
+ip dns static add address=127.0.0.1 name=coffeedesigningkindle.com
 ip dns static add address=127.0.0.1 name=data.cofinoga.fr
 ip dns static add address=127.0.0.1 name=swa.cofinoga.fr
 ip dns static add address=127.0.0.1 name=cogleapad.com
@@ -11413,7 +11400,6 @@ ip dns static add address=127.0.0.1 name=coll2onf.com
 ip dns static add address=127.0.0.1 name=collarity.com
 ip dns static add address=127.0.0.1 name=evt.collarity.com
 ip dns static add address=127.0.0.1 name=collationssunkenentire.com
-ip dns static add address=127.0.0.1 name=colleable.info
 ip dns static add address=127.0.0.1 name=collecting.click
 ip dns static add address=127.0.0.1 name=collection-day.com
 ip dns static add address=127.0.0.1 name=collectpush.com
@@ -11430,6 +11416,7 @@ ip dns static add address=127.0.0.1 name=sp.coloradoan.com
 ip dns static add address=127.0.0.1 name=colorfulafterthought.com
 ip dns static add address=127.0.0.1 name=colorofgod.cn
 ip dns static add address=127.0.0.1 name=colossusssp.com
+ip dns static add address=127.0.0.1 name=colouredcavity.com
 ip dns static add address=127.0.0.1 name=colpory.com
 ip dns static add address=127.0.0.1 name=coltagainst.pro
 ip dns static add address=127.0.0.1 name=smetrics.columbia.com
@@ -11510,6 +11497,7 @@ ip dns static add address=127.0.0.1 name=compiletormentboats.com
 ip dns static add address=127.0.0.1 name=toolbar.complex.com
 ip dns static add address=127.0.0.1 name=complexmedianetwork.com
 ip dns static add address=127.0.0.1 name=complextoad.com
+ip dns static add address=127.0.0.1 name=complicatedgeneratelens.com
 ip dns static add address=127.0.0.1 name=complicatedtelegraph.com
 ip dns static add address=127.0.0.1 name=complified.club
 ip dns static add address=127.0.0.1 name=composedwatchman.com
@@ -12371,6 +12359,7 @@ ip dns static add address=127.0.0.1 name=cweiwoydalr.com
 ip dns static add address=127.0.0.1 name=cwgads.com
 ip dns static add address=127.0.0.1 name=cwkuki.com
 ip dns static add address=127.0.0.1 name=cwmlm.com
+ip dns static add address=127.0.0.1 name=cwplubzglmfah.com
 ip dns static add address=127.0.0.1 name=cwpush.com
 ip dns static add address=127.0.0.1 name=whu.cwpush.com
 ip dns static add address=127.0.0.1 name=cwsgwqbcdhtk.com
@@ -12492,7 +12481,6 @@ ip dns static add address=127.0.0.1 name=d41.co
 ip dns static add address=127.0.0.1 name=d4a77d8bc81ae17.com
 ip dns static add address=127.0.0.1 name=d4d48974197052ea.com
 ip dns static add address=127.0.0.1 name=d4fed03105c9f65b.com
-ip dns static add address=127.0.0.1 name=d533eecf3a7.com
 ip dns static add address=127.0.0.1 name=d58bf31082fa97.com
 ip dns static add address=127.0.0.1 name=d59fa492f75f520.com
 ip dns static add address=127.0.0.1 name=d5a5a.xyz
@@ -12675,7 +12663,6 @@ ip dns static add address=127.0.0.1 name=endljp.dariknews.bg
 ip dns static add address=127.0.0.1 name=daringprobablywithin.com
 ip dns static add address=127.0.0.1 name=dqs3.darjeeling.fr
 ip dns static add address=127.0.0.1 name=darkenedshrine.com
-ip dns static add address=127.0.0.1 name=darking05.tk
 ip dns static add address=127.0.0.1 name=trk.darkreading.com
 ip dns static add address=127.0.0.1 name=a02342.darlingtonandstocktontimes.co.uk
 ip dns static add address=127.0.0.1 name=dartsirhose.icu
@@ -12694,6 +12681,7 @@ ip dns static add address=127.0.0.1 name=dasheducation.cn
 ip dns static add address=127.0.0.1 name=down.dashendown.com
 ip dns static add address=127.0.0.1 name=dashet.com
 ip dns static add address=127.0.0.1 name=dashgreen.online
+ip dns static add address=127.0.0.1 name=dashingperfect.com
 ip dns static add address=127.0.0.1 name=logs.dashlane.com
 ip dns static add address=127.0.0.1 name=dasimporary.club
 ip dns static add address=127.0.0.1 name=daskm.com
@@ -12725,7 +12713,6 @@ ip dns static add address=127.0.0.1 name=dataperforma.com
 ip dns static add address=127.0.0.1 name=dataprajna.net
 ip dns static add address=127.0.0.1 name=datasecu.download
 ip dns static add address=127.0.0.1 name=www.datasecu.download
-ip dns static add address=127.0.0.1 name=dataservices.download
 ip dns static add address=127.0.0.1 name=saa.datasheets360.com
 ip dns static add address=127.0.0.1 name=datasteam.io
 ip dns static add address=127.0.0.1 name=datawrkz.com
@@ -12783,6 +12770,7 @@ ip dns static add address=127.0.0.1 name=dayadopen.site
 ip dns static add address=127.0.0.1 name=jc1.dayfund.cn
 ip dns static add address=127.0.0.1 name=daylogs.com
 ip dns static add address=127.0.0.1 name=daylskg.cn
+ip dns static add address=127.0.0.1 name=daysaristocracy.com
 ip dns static add address=127.0.0.1 name=pxt.daz3d.com
 ip dns static add address=127.0.0.1 name=dazhantai.com
 ip dns static add address=127.0.0.1 name=ji.dazhantai.com
@@ -12794,6 +12782,8 @@ ip dns static add address=127.0.0.1 name=wtk.db.com
 ip dns static add address=127.0.0.1 name=db03f3c62eb.com
 ip dns static add address=127.0.0.1 name=db52cc91beabf7e8.com
 ip dns static add address=127.0.0.1 name=cs02-pps-drcn.dbankcdn.com
+ip dns static add address=127.0.0.1 name=dbaof.com
+ip dns static add address=127.0.0.1 name=m.dbaof.com
 ip dns static add address=127.0.0.1 name=dbasedolas.club
 ip dns static add address=127.0.0.1 name=union.dbba.cn
 ip dns static add address=127.0.0.1 name=dbbsrv.com
@@ -12805,9 +12795,9 @@ ip dns static add address=127.0.0.1 name=dbncp.com
 ip dns static add address=127.0.0.1 name=v.dbncp.com
 ip dns static add address=127.0.0.1 name=dbojetp.cn
 ip dns static add address=127.0.0.1 name=s.dbojetp.cn
-ip dns static add address=127.0.0.1 name=dbrgmcjuf.com
 ip dns static add address=127.0.0.1 name=dbrxdvqz.com
 ip dns static add address=127.0.0.1 name=stat.dbschenker.com
+ip dns static add address=127.0.0.1 name=dbtlonlnjlnr.com
 ip dns static add address=127.0.0.1 name=dbvault.net
 ip dns static add address=127.0.0.1 name=dbwmjj.com
 ip dns static add address=127.0.0.1 name=dc-storm.com
@@ -12823,7 +12813,6 @@ ip dns static add address=127.0.0.1 name=dcmn.com
 ip dns static add address=127.0.0.1 name=dcmn.io
 ip dns static add address=127.0.0.1 name=dcnqcql.cn
 ip dns static add address=127.0.0.1 name=dcop4khjxsmg.com
-ip dns static add address=127.0.0.1 name=dcqthcwm.com
 ip dns static add address=127.0.0.1 name=dcrecycle.top
 ip dns static add address=127.0.0.1 name=dcrzz.com
 ip dns static add address=127.0.0.1 name=dcuom.com
@@ -13035,7 +13024,6 @@ ip dns static add address=127.0.0.1 name=wsgddl.deporvillage.it
 ip dns static add address=127.0.0.1 name=depotshine.com
 ip dns static add address=127.0.0.1 name=deprivationcorrectioncoats.com
 ip dns static add address=127.0.0.1 name=deprivationzomby.com
-ip dns static add address=127.0.0.1 name=depttake.ga
 ip dns static add address=127.0.0.1 name=deqwas.net
 ip dns static add address=127.0.0.1 name=derbodilehe.top
 ip dns static add address=127.0.0.1 name=track.derbund.ch
@@ -13091,6 +13079,7 @@ ip dns static add address=127.0.0.1 name=detourlearned.com
 ip dns static add address=127.0.0.1 name=sp.detroitnews.com
 ip dns static add address=127.0.0.1 name=sxjfhh.detroitnews.com
 ip dns static add address=127.0.0.1 name=detuns.com
+ip dns static add address=127.0.0.1 name=deturbcordies.com
 ip dns static add address=127.0.0.1 name=cxt.deutsche-bank.de
 ip dns static add address=127.0.0.1 name=wbtrkk.deutschlandcard.de
 ip dns static add address=127.0.0.1 name=devappgrant.space
@@ -13466,6 +13455,7 @@ ip dns static add address=127.0.0.1 name=distrikerkvazar.site
 ip dns static add address=127.0.0.1 name=disturbedquiet.com
 ip dns static add address=127.0.0.1 name=dit-dit-dot.com
 ip dns static add address=127.0.0.1 name=ditdotsol.com
+ip dns static add address=127.0.0.1 name=dithesetha.pro
 ip dns static add address=127.0.0.1 name=ditiesacco.club
 ip dns static add address=127.0.0.1 name=code.ditiezu.net
 ip dns static add address=127.0.0.1 name=ditincoriligh.pro
@@ -13550,6 +13540,7 @@ ip dns static add address=127.0.0.1 name=dlsear.com
 ip dns static add address=127.0.0.1 name=dlski.space
 ip dns static add address=127.0.0.1 name=dlswzw.cn
 ip dns static add address=127.0.0.1 name=dltags.com
+ip dns static add address=127.0.0.1 name=dltinaozs.com
 ip dns static add address=127.0.0.1 name=dlvnxf.cn
 ip dns static add address=127.0.0.1 name=dlycritishmalco.club
 ip dns static add address=127.0.0.1 name=dlyzcopkko.com
@@ -13608,6 +13599,7 @@ ip dns static add address=127.0.0.1 name=dnvod.tv
 ip dns static add address=127.0.0.1 name=dnvus.com
 ip dns static add address=127.0.0.1 name=do-not-tracker.org
 ip dns static add address=127.0.0.1 name=do09.net
+ip dns static add address=127.0.0.1 name=doboacki.net
 ip dns static add address=127.0.0.1 name=info.meihua.docer.com
 ip dns static add address=127.0.0.1 name=news.docer.com
 ip dns static add address=127.0.0.1 name=doceree.com
@@ -13661,6 +13653,7 @@ ip dns static add address=127.0.0.1 name=magnetic.t.domdex.com
 ip dns static add address=127.0.0.1 name=domicileperil.com
 ip dns static add address=127.0.0.1 name=dominantscriptdefinitely.com
 ip dns static add address=127.0.0.1 name=dominateconfinementcompetence.com
+ip dns static add address=127.0.0.1 name=dominionprotectioncandle.com
 ip dns static add address=127.0.0.1 name=dominoad.com
 ip dns static add address=127.0.0.1 name=dominocounter.net
 ip dns static add address=127.0.0.1 name=metrics.dominos.com
@@ -14082,6 +14075,7 @@ ip dns static add address=127.0.0.1 name=www.cfcs1.duckdns.org
 ip dns static add address=127.0.0.1 name=www.jhondi33.duckdns.org
 ip dns static add address=127.0.0.1 name=www.webwidgetz.duckdns.org
 ip dns static add address=127.0.0.1 name=duckspatterncosign.com
+ip dns static add address=127.0.0.1 name=ducmissy.com
 ip dns static add address=127.0.0.1 name=ductstrangledozen.com
 ip dns static add address=127.0.0.1 name=jdgtgb.duden.de
 ip dns static add address=127.0.0.1 name=a02342.dudleynews.co.uk
@@ -14191,11 +14185,14 @@ ip dns static add address=127.0.0.1 name=dwin2.com
 ip dns static add address=127.0.0.1 name=mit.dws.com
 ip dns static add address=127.0.0.1 name=mit.dws.de
 ip dns static add address=127.0.0.1 name=untitled.dwstatic.com
+ip dns static add address=127.0.0.1 name=dwtroouhdh.com
 ip dns static add address=127.0.0.1 name=1.dwx365.com
 ip dns static add address=127.0.0.1 name=mobileads.dx.cn
 ip dns static add address=127.0.0.1 name=somni.dxc.technology
 ip dns static add address=127.0.0.1 name=dxcssc.cn
 ip dns static add address=127.0.0.1 name=aff-jp.dxlive.com
+ip dns static add address=127.0.0.1 name=e.dxmci.com
+ip dns static add address=127.0.0.1 name=m.dxmci.com
 ip dns static add address=127.0.0.1 name=dxpmedia.com
 ip dns static add address=127.0.0.1 name=clk.dxpmedia.com
 ip dns static add address=127.0.0.1 name=map.dxpmedia.com
@@ -14402,6 +14399,7 @@ ip dns static add address=127.0.0.1 name=earnestlybutcheritchy.com
 ip dns static add address=127.0.0.1 name=earnify.com
 ip dns static add address=127.0.0.1 name=cdn.earnify.com
 ip dns static add address=127.0.0.1 name=earnjamdiva.com
+ip dns static add address=127.0.0.1 name=earphonesvehicleexploded.com
 ip dns static add address=127.0.0.1 name=earsagreenj.top
 ip dns static add address=127.0.0.1 name=earsawclearnph.site
 ip dns static add address=127.0.0.1 name=earthincomprehensibleintrepid.com
@@ -14634,7 +14632,6 @@ ip dns static add address=127.0.0.1 name=www.edutalkingdata.cn
 ip dns static add address=127.0.0.1 name=edutalkingdata.com
 ip dns static add address=127.0.0.1 name=www.edutalkingdata.com
 ip dns static add address=127.0.0.1 name=eduzzjy.com
-ip dns static add address=127.0.0.1 name=edvfwlacluo.com
 ip dns static add address=127.0.0.1 name=tracking.edvisors.com
 ip dns static add address=127.0.0.1 name=sm.edweek.org
 ip dns static add address=127.0.0.1 name=edwhitnes.info
@@ -14767,6 +14764,7 @@ ip dns static add address=127.0.0.1 name=einsuran.com.cn
 ip dns static add address=127.0.0.1 name=eiteratebef.top
 ip dns static add address=127.0.0.1 name=eithereda.fun
 ip dns static add address=127.0.0.1 name=eitherewindoor.club
+ip dns static add address=127.0.0.1 name=eitherunkindvapour.com
 ip dns static add address=127.0.0.1 name=ejdkqclkzq.com
 ip dns static add address=127.0.0.1 name=ejectfeudburly.com
 ip dns static add address=127.0.0.1 name=ejee.xyz
@@ -15009,7 +15007,6 @@ ip dns static add address=127.0.0.1 name=tr.enedis-infos.fr
 ip dns static add address=127.0.0.1 name=enelegalreac.space
 ip dns static add address=127.0.0.1 name=enerableoffi.club
 ip dns static add address=127.0.0.1 name=swa.energiedirect.nl
-ip dns static add address=127.0.0.1 name=eneritchmax.info
 ip dns static add address=127.0.0.1 name=count.enet.com.cn
 ip dns static add address=127.0.0.1 name=frame.enet.com.cn
 ip dns static add address=127.0.0.1 name=images.enet.com.cn
@@ -15091,6 +15088,7 @@ ip dns static add address=127.0.0.1 name=enumeraterunnerscommence.com
 ip dns static add address=127.0.0.1 name=enumerfavo.club
 ip dns static add address=127.0.0.1 name=tr.lesmarques.envie-de-bien-manger.com
 ip dns static add address=127.0.0.1 name=tr.mail.enviedebienmanger.fr
+ip dns static add address=127.0.0.1 name=enviousfundraiserbelonged.com
 ip dns static add address=127.0.0.1 name=enviousshape.com
 ip dns static add address=127.0.0.1 name=environymsc.info
 ip dns static add address=127.0.0.1 name=mdws.envisionfinancial.ca
@@ -15265,6 +15263,7 @@ ip dns static add address=127.0.0.1 name=esethodsth.top
 ip dns static add address=127.0.0.1 name=eseventent.info
 ip dns static add address=127.0.0.1 name=esf397vsf1nk.com
 ip dns static add address=127.0.0.1 name=esfrustrides.club
+ip dns static add address=127.0.0.1 name=esheprice.online
 ip dns static add address=127.0.0.1 name=eshncdkjp.com
 ip dns static add address=127.0.0.1 name=eshowever.club
 ip dns static add address=127.0.0.1 name=eshuy.com
@@ -15539,7 +15538,6 @@ ip dns static add address=127.0.0.1 name=exitmonitor.com
 ip dns static add address=127.0.0.1 name=exjozegvbaresw.com
 ip dns static add address=127.0.0.1 name=exlpor.com
 ip dns static add address=127.0.0.1 name=exmarketplace.com
-ip dns static add address=127.0.0.1 name=exmarkt.de
 ip dns static add address=127.0.0.1 name=exobafrgdf.com
 ip dns static add address=127.0.0.1 name=exoclick.com
 ip dns static add address=127.0.0.1 name=a.exoclick.com
@@ -15616,7 +15614,6 @@ ip dns static add address=127.0.0.1 name=extyoasigus.com
 ip dns static add address=127.0.0.1 name=exualpaignp.info
 ip dns static add address=127.0.0.1 name=exusr.com
 ip dns static add address=127.0.0.1 name=m.exusr.com
-ip dns static add address=127.0.0.1 name=exvrvcnlfc.com
 ip dns static add address=127.0.0.1 name=exwcadanpfc.com
 ip dns static add address=127.0.0.1 name=eyaor.com
 ip dns static add address=127.0.0.1 name=eybkcugat.com
@@ -15715,7 +15712,6 @@ ip dns static add address=127.0.0.1 name=f8272.com
 ip dns static add address=127.0.0.1 name=f8316b45436f.com
 ip dns static add address=127.0.0.1 name=f853150605ccb.com
 ip dns static add address=127.0.0.1 name=f92j5.com
-ip dns static add address=127.0.0.1 name=f97f1e91da5e2.com
 ip dns static add address=127.0.0.1 name=j.faacliltate.com
 ip dns static add address=127.0.0.1 name=fabricww.com
 ip dns static add address=127.0.0.1 name=fabrkrup.com
@@ -15760,6 +15756,7 @@ ip dns static add address=127.0.0.1 name=fadspms.com
 ip dns static add address=127.0.0.1 name=fadspmz.com
 ip dns static add address=127.0.0.1 name=fadvindictive.com
 ip dns static add address=127.0.0.1 name=faemzho.cn
+ip dns static add address=127.0.0.1 name=fafgamdtlulo.com
 ip dns static add address=127.0.0.1 name=fagaxesea.com
 ip dns static add address=127.0.0.1 name=fage1.club
 ip dns static add address=127.0.0.1 name=faggrim.com
@@ -15820,6 +15817,7 @@ ip dns static add address=127.0.0.1 name=fancydmp.com
 ip dns static add address=127.0.0.1 name=www.fancydmp.com
 ip dns static add address=127.0.0.1 name=fancydsp.com
 ip dns static add address=127.0.0.1 name=www.fancydsp.com
+ip dns static add address=127.0.0.1 name=fancyfourthvolcano.com
 ip dns static add address=127.0.0.1 name=fancysmp.com
 ip dns static add address=127.0.0.1 name=www.fancysmp.com
 ip dns static add address=127.0.0.1 name=fancysocialtalk.com
@@ -15975,9 +15973,9 @@ ip dns static add address=127.0.0.1 name=analyzer51.fc2.com
 ip dns static add address=127.0.0.1 name=analyzer52.fc2.com
 ip dns static add address=127.0.0.1 name=fc2b9b7ce3165.com
 ip dns static add address=127.0.0.1 name=metrics.fcacert.com
+ip dns static add address=127.0.0.1 name=fccinteractive.com
 ip dns static add address=127.0.0.1 name=itracking.fccinteractive.com
 ip dns static add address=127.0.0.1 name=tracking.fccinteractive.com
-ip dns static add address=127.0.0.1 name=widgets.fccinteractive.com
 ip dns static add address=127.0.0.1 name=fccxgjg.com
 ip dns static add address=127.0.0.1 name=fcfd5de4b3be3.com
 ip dns static add address=127.0.0.1 name=fcfhjuyanmlvgb.com
@@ -16143,6 +16141,7 @@ ip dns static add address=127.0.0.1 name=feraciumus.com
 ip dns static add address=127.0.0.1 name=ferank.fr
 ip dns static add address=127.0.0.1 name=ferentshugge.top
 ip dns static add address=127.0.0.1 name=img.ferlie.net
+ip dns static add address=127.0.0.1 name=fermolo.info
 ip dns static add address=127.0.0.1 name=fernomius.com
 ip dns static add address=127.0.0.1 name=fernthumbjoin.com
 ip dns static add address=127.0.0.1 name=track.ferrari.com
@@ -16150,7 +16149,6 @@ ip dns static add address=127.0.0.1 name=track.ferraridealers.com
 ip dns static add address=127.0.0.1 name=ferritors.club
 ip dns static add address=127.0.0.1 name=ferrpictak.com
 ip dns static add address=127.0.0.1 name=fertilizeranaemiaupcoming.com
-ip dns static add address=127.0.0.1 name=fesrsxtmkjgms.com
 ip dns static add address=127.0.0.1 name=fessmegilscha.info
 ip dns static add address=127.0.0.1 name=fessoovy.com
 ip dns static add address=127.0.0.1 name=festaporno.com
@@ -16182,6 +16180,7 @@ ip dns static add address=127.0.0.1 name=ffjk.space
 ip dns static add address=127.0.0.1 name=ffkdxymyji.com
 ip dns static add address=127.0.0.1 name=fflsn.com
 ip dns static add address=127.0.0.1 name=ffmobi.com
+ip dns static add address=127.0.0.1 name=ffonavzh.com
 ip dns static add address=127.0.0.1 name=ffpp.xyz
 ip dns static add address=127.0.0.1 name=ffre.ffrepair.com
 ip dns static add address=127.0.0.1 name=fftpzrscirdagr.com
@@ -16211,7 +16210,6 @@ ip dns static add address=127.0.0.1 name=fhixhde.cn
 ip dns static add address=127.0.0.1 name=fhkfffnepwia.com
 ip dns static add address=127.0.0.1 name=fhluqrhmqs.com
 ip dns static add address=127.0.0.1 name=fhoa365.com
-ip dns static add address=127.0.0.1 name=fhoexcvjspuh.com
 ip dns static add address=127.0.0.1 name=fhvdwhbnl.com
 ip dns static add address=127.0.0.1 name=m.fhxiaoshuo.com
 ip dns static add address=127.0.0.1 name=aexz.rm.fhxiaoshuo.com
@@ -16321,6 +16319,7 @@ ip dns static add address=127.0.0.1 name=fitanalytics.com
 ip dns static add address=127.0.0.1 name=iedc.fitbit.com
 ip dns static add address=127.0.0.1 name=as.fitbook.de
 ip dns static add address=127.0.0.1 name=fitbxtqgneq.com
+ip dns static add address=127.0.0.1 name=fitfulrigorous.com
 ip dns static add address=127.0.0.1 name=tracking.fits.me
 ip dns static add address=127.0.0.1 name=stats.fittkaumaass.de
 ip dns static add address=127.0.0.1 name=webbc.fivecdm.com
@@ -16350,8 +16349,6 @@ ip dns static add address=127.0.0.1 name=fjs056.cn
 ip dns static add address=127.0.0.1 name=fjshxzyyxgs.cn
 ip dns static add address=127.0.0.1 name=fjsjsj.com
 ip dns static add address=127.0.0.1 name=adv.fjtv.net
-ip dns static add address=127.0.0.1 name=fjtzjy.com
-ip dns static add address=127.0.0.1 name=jyz.fjtzjy.com
 ip dns static add address=127.0.0.1 name=fjxyo.com
 ip dns static add address=127.0.0.1 name=fjylcy.com
 ip dns static add address=127.0.0.1 name=jyd.fjzdmy.com
@@ -16436,6 +16433,7 @@ ip dns static add address=127.0.0.1 name=promos.fling.com
 ip dns static add address=127.0.0.1 name=sexy.fling.com
 ip dns static add address=127.0.0.1 name=ad-beta.flipboard.com
 ip dns static add address=127.0.0.1 name=ad.flipboard.com
+ip dns static add address=127.0.0.1 name=fliplotincreasingly.com
 ip dns static add address=127.0.0.1 name=flipp.com
 ip dns static add address=127.0.0.1 name=flippantreprehensiblecharming.com
 ip dns static add address=127.0.0.1 name=flirt4e.com
@@ -16479,7 +16477,6 @@ ip dns static add address=127.0.0.1 name=flrdra.com
 ip dns static add address=127.0.0.1 name=flstudiochina.com
 ip dns static add address=127.0.0.1 name=www.flstudiochina.com
 ip dns static add address=127.0.0.1 name=xia.flstudiochina.com
-ip dns static add address=127.0.0.1 name=fltfwrhpv.com
 ip dns static add address=127.0.0.1 name=flu.cc
 ip dns static add address=127.0.0.1 name=fluencymedia.com
 ip dns static add address=127.0.0.1 name=fluencymister.com
@@ -16499,7 +16496,6 @@ ip dns static add address=127.0.0.1 name=flushafterwardinteger.com
 ip dns static add address=127.0.0.1 name=ad.flux.com
 ip dns static add address=127.0.0.1 name=flux16.com
 ip dns static add address=127.0.0.1 name=fluxads.com
-ip dns static add address=127.0.0.1 name=watchfree.flv.in
 ip dns static add address=127.0.0.1 name=flvs7ql3l6.com
 ip dns static add address=127.0.0.1 name=flx1.com
 ip dns static add address=127.0.0.1 name=flxargtrgwt.com
@@ -16548,6 +16544,7 @@ ip dns static add address=127.0.0.1 name=fnacgbik9v14.com
 ip dns static add address=127.0.0.1 name=mdws.fnbc.ca
 ip dns static add address=127.0.0.1 name=fnbocll.cn
 ip dns static add address=127.0.0.1 name=sanalytics.fnbodirect.com
+ip dns static add address=127.0.0.1 name=fnbsrxtemj.com
 ip dns static add address=127.0.0.1 name=fncash.com
 ip dns static add address=127.0.0.1 name=fncnet1.com
 ip dns static add address=127.0.0.1 name=fnggdlzncynqx.com
@@ -16580,6 +16577,7 @@ ip dns static add address=127.0.0.1 name=fogayeown.com
 ip dns static add address=127.0.0.1 name=fogl1onf.com
 ip dns static add address=127.0.0.1 name=fogspubsoapy.com
 ip dns static add address=127.0.0.1 name=fogzyads.com
+ip dns static add address=127.0.0.1 name=foheltou.com
 ip dns static add address=127.0.0.1 name=fokgwuoft.com
 ip dns static add address=127.0.0.1 name=marketing.folkartlifebornova.com
 ip dns static add address=127.0.0.1 name=folksattunewig.com
@@ -16642,6 +16640,7 @@ ip dns static add address=127.0.0.1 name=forexprostools.com
 ip dns static add address=127.0.0.1 name=forexyard.com
 ip dns static add address=127.0.0.1 name=forgivencardiac.com
 ip dns static add address=127.0.0.1 name=forgivingcynical.com
+ip dns static add address=127.0.0.1 name=forgoprokick.icu
 ip dns static add address=127.0.0.1 name=forgot.mobi
 ip dns static add address=127.0.0.1 name=forkcdn.com
 ip dns static add address=127.0.0.1 name=forkchristian.com
@@ -16707,7 +16706,6 @@ ip dns static add address=127.0.0.1 name=foydnzdtjcjg.com
 ip dns static add address=127.0.0.1 name=fpctraffic2.com
 ip dns static add address=127.0.0.1 name=fpiikkttbl.com
 ip dns static add address=127.0.0.1 name=fpjs.io
-ip dns static add address=127.0.0.1 name=fpomyspwepxxe.com
 ip dns static add address=127.0.0.1 name=statistics.fppressa.ru
 ip dns static add address=127.0.0.1 name=fprnt.com
 ip dns static add address=127.0.0.1 name=fpsekwpfk.com
@@ -16856,6 +16854,7 @@ ip dns static add address=127.0.0.1 name=frestacero.com
 ip dns static add address=127.0.0.1 name=frestime.com
 ip dns static add address=127.0.0.1 name=frevi.net
 ip dns static add address=127.0.0.1 name=freychang.fun
+ip dns static add address=127.0.0.1 name=frgbgwnbjkgco.com
 ip dns static add address=127.0.0.1 name=frhbrkjgerikm2f8mjek09.com
 ip dns static add address=127.0.0.1 name=frhoobwj.com
 ip dns static add address=127.0.0.1 name=friend17.net
@@ -16910,7 +16909,6 @@ ip dns static add address=127.0.0.1 name=fstats.xyz
 ip dns static add address=127.0.0.1 name=fstrk.net
 ip dns static add address=127.0.0.1 name=sp.fsunews.com
 ip dns static add address=127.0.0.1 name=fsvulvfqg.com
-ip dns static add address=127.0.0.1 name=fswinrje.com
 ip dns static add address=127.0.0.1 name=html.fsxinling.com
 ip dns static add address=127.0.0.1 name=image.fsyule.net
 ip dns static add address=127.0.0.1 name=fsyzcs.com
@@ -17050,7 +17048,6 @@ ip dns static add address=127.0.0.1 name=fuzzybasketball.com
 ip dns static add address=127.0.0.1 name=fv99.com
 ip dns static add address=127.0.0.1 name=fvdwltww.com
 ip dns static add address=127.0.0.1 name=fvenxjtzuaxu.com
-ip dns static add address=127.0.0.1 name=fvhyqudibhqgpn.com
 ip dns static add address=127.0.0.1 name=fvkdatbzswo.bid
 ip dns static add address=127.0.0.1 name=fvptlxwm.com
 ip dns static add address=127.0.0.1 name=fvugxwoy.com
@@ -17119,7 +17116,6 @@ ip dns static add address=127.0.0.1 name=fztmn.top
 ip dns static add address=127.0.0.1 name=fzyda.com
 ip dns static add address=127.0.0.1 name=g--o.info
 ip dns static add address=127.0.0.1 name=g-cash.biz
-ip dns static add address=127.0.0.1 name=g-content.bi
 ip dns static add address=127.0.0.1 name=ad.g-content.bid
 ip dns static add address=127.0.0.1 name=g-content.bid
 ip dns static add address=127.0.0.1 name=g-statistic.com
@@ -17230,6 +17226,7 @@ ip dns static add address=127.0.0.1 name=galaks.io
 ip dns static add address=127.0.0.1 name=atxslk.galamart.ru
 ip dns static add address=127.0.0.1 name=galampgab.com
 ip dns static add address=127.0.0.1 name=affiliates.galapartners.co.uk
+ip dns static add address=127.0.0.1 name=galatests.site
 ip dns static add address=127.0.0.1 name=galaxiemedia.fr
 ip dns static add address=127.0.0.1 name=galaxyns.com
 ip dns static add address=127.0.0.1 name=galbrechen.club
@@ -17373,7 +17370,6 @@ ip dns static add address=127.0.0.1 name=gccoetmm.com
 ip dns static add address=127.0.0.1 name=gcctqal.cn
 ip dns static add address=127.0.0.1 name=gcfx777.com
 ip dns static add address=127.0.0.1 name=gcheg.com
-ip dns static add address=127.0.0.1 name=gchhswgagb.com
 ip dns static add address=127.0.0.1 name=metrics.gcimetrics.com
 ip dns static add address=127.0.0.1 name=beacon.gcion.com
 ip dns static add address=127.0.0.1 name=gannett.gcion.com
@@ -17391,6 +17387,7 @@ ip dns static add address=127.0.0.1 name=gd8023.com
 ip dns static add address=127.0.0.1 name=gdaii.com
 ip dns static add address=127.0.0.1 name=gdbly.com
 ip dns static add address=127.0.0.1 name=gdcuixkjhnmot.com
+ip dns static add address=127.0.0.1 name=gdcytv.cn
 ip dns static add address=127.0.0.1 name=gdeih.com
 ip dns static add address=127.0.0.1 name=gdeslon.ru
 ip dns static add address=127.0.0.1 name=gdfc0563.com
@@ -17505,6 +17502,7 @@ ip dns static add address=127.0.0.1 name=pmptrack-youku.gentags.net
 ip dns static add address=127.0.0.1 name=sit.gentags.net
 ip dns static add address=127.0.0.1 name=v-sence.gentags.net
 ip dns static add address=127.0.0.1 name=genuinealiaspuzzled.com
+ip dns static add address=127.0.0.1 name=genuschaseslowly.com
 ip dns static add address=127.0.0.1 name=geo-idm.fr
 ip dns static add address=127.0.0.1 name=geo-targetly.com
 ip dns static add address=127.0.0.1 name=geoaddicted.net
@@ -17615,7 +17613,6 @@ ip dns static add address=127.0.0.1 name=metrics.getvitals.io
 ip dns static add address=127.0.0.1 name=getxml.org
 ip dns static add address=127.0.0.1 name=collector.getyourguide.com
 ip dns static add address=127.0.0.1 name=geuniveruls.top
-ip dns static add address=127.0.0.1 name=geusihivdqkwzf.com
 ip dns static add address=127.0.0.1 name=js.gewuwen.com
 ip dns static add address=127.0.0.1 name=json.gewuwen.com
 ip dns static add address=127.0.0.1 name=biz.gexing.com
@@ -17665,7 +17662,6 @@ ip dns static add address=127.0.0.1 name=jy.ggweb.net
 ip dns static add address=127.0.0.1 name=logs.ggweb.nl
 ip dns static add address=127.0.0.1 name=ggxt.net
 ip dns static add address=127.0.0.1 name=cp.ggyapp.com
-ip dns static add address=127.0.0.1 name=cpv-adv.ggytc.com
 ip dns static add address=127.0.0.1 name=ggz55268.com
 ip dns static add address=127.0.0.1 name=stats.dmp.ghac.cn
 ip dns static add address=127.0.0.1 name=ghnmg.top
@@ -17746,6 +17742,7 @@ ip dns static add address=127.0.0.1 name=www.gj500.com
 ip dns static add address=127.0.0.1 name=gjh111.cn
 ip dns static add address=127.0.0.1 name=gjiai.com
 ip dns static add address=127.0.0.1 name=gjiak.com
+ip dns static add address=127.0.0.1 name=gjqbidroh.com
 ip dns static add address=127.0.0.1 name=gjrswtzjn.com
 ip dns static add address=127.0.0.1 name=gjslebmbiawh.com
 ip dns static add address=127.0.0.1 name=gjw5qbyn93b8.com
@@ -17865,7 +17862,6 @@ ip dns static add address=127.0.0.1 name=confirm-referer.glrsales.com
 ip dns static add address=127.0.0.1 name=gludraus.com
 ip dns static add address=127.0.0.1 name=glumpaul.net
 ip dns static add address=127.0.0.1 name=glumtitu.net
-ip dns static add address=127.0.0.1 name=gluokdhafryxtw.com
 ip dns static add address=127.0.0.1 name=gluwhoas.com
 ip dns static add address=127.0.0.1 name=glvej.com
 ip dns static add address=127.0.0.1 name=mg.glwxw.net
@@ -17991,6 +17987,7 @@ ip dns static add address=127.0.0.1 name=promotion.gomlab.com
 ip dns static add address=127.0.0.1 name=gomnlt.com
 ip dns static add address=127.0.0.1 name=gondolagnome.com
 ip dns static add address=127.0.0.1 name=goneviral.com
+ip dns static add address=127.0.0.1 name=gonextpage.ru
 ip dns static add address=127.0.0.1 name=endljp.gong.bg
 ip dns static add address=127.0.0.1 name=gccode.gongchang.com
 ip dns static add address=127.0.0.1 name=gongeeta.net
@@ -18170,7 +18167,6 @@ ip dns static add address=127.0.0.1 name=sstats2.gq.com
 ip dns static add address=127.0.0.1 name=stats2.gq.com
 ip dns static add address=127.0.0.1 name=metrics.gq.com.au
 ip dns static add address=127.0.0.1 name=gqdvsvt.cn
-ip dns static add address=127.0.0.1 name=gqecfgovxbj.com
 ip dns static add address=127.0.0.1 name=gqjyzoqme.com
 ip dns static add address=127.0.0.1 name=gqqdlckj8y.com
 ip dns static add address=127.0.0.1 name=gqsgcdcxsmxw.com
@@ -18284,6 +18280,7 @@ ip dns static add address=127.0.0.1 name=greetpanda.info
 ip dns static add address=127.0.0.1 name=greetpanda.org
 ip dns static add address=127.0.0.1 name=greget3.com
 ip dns static add address=127.0.0.1 name=info.greif.com
+ip dns static add address=127.0.0.1 name=gremsaup.net
 ip dns static add address=127.0.0.1 name=grenatorkovsh.site
 ip dns static add address=127.0.0.1 name=grensauy.com
 ip dns static add address=127.0.0.1 name=grepdata.com
@@ -18385,7 +18382,6 @@ ip dns static add address=127.0.0.1 name=grupticaje.pro
 ip dns static add address=127.0.0.1 name=grursusy.com
 ip dns static add address=127.0.0.1 name=grutopsathu.pro
 ip dns static add address=127.0.0.1 name=grvmedia.com
-ip dns static add address=127.0.0.1 name=grykuutktgaun.com
 ip dns static add address=127.0.0.1 name=gs307.com
 ip dns static add address=127.0.0.1 name=cp.gs307.com
 ip dns static add address=127.0.0.1 name=gsasolutionssecure.gsa.gov
@@ -18407,6 +18403,7 @@ ip dns static add address=127.0.0.1 name=gsjdzx.com
 ip dns static add address=127.0.0.1 name=gsjgkpnq.com
 ip dns static add address=127.0.0.1 name=gsjlfs.com
 ip dns static add address=127.0.0.1 name=gsmtop.net
+ip dns static add address=127.0.0.1 name=gssdsj.com
 ip dns static add address=127.0.0.1 name=gsspat.jp
 ip dns static add address=127.0.0.1 name=rt.gsspat.jp
 ip dns static add address=127.0.0.1 name=gsspcln.jp
@@ -18650,7 +18647,6 @@ ip dns static add address=127.0.0.1 name=share.gzdsw.com
 ip dns static add address=127.0.0.1 name=5.gzfenda.com
 ip dns static add address=127.0.0.1 name=ethod.gzgmjcx.com
 ip dns static add address=127.0.0.1 name=gzili.com
-ip dns static add address=127.0.0.1 name=gzivryjzal.com
 ip dns static add address=127.0.0.1 name=gzjtfzs.cn
 ip dns static add address=127.0.0.1 name=gzktpf.com
 ip dns static add address=127.0.0.1 name=gzleilin.com
@@ -18671,6 +18667,7 @@ ip dns static add address=127.0.0.1 name=gzrljx.cn
 ip dns static add address=127.0.0.1 name=gzsadlmy.cn
 ip dns static add address=127.0.0.1 name=gzsanxiaomingshi.cn
 ip dns static add address=127.0.0.1 name=c.gzsanxiaomingshi.cn
+ip dns static add address=127.0.0.1 name=api.gzxiongwa.cn
 ip dns static add address=127.0.0.1 name=gzxnlk.com
 ip dns static add address=127.0.0.1 name=www.gzxnlk.com
 ip dns static add address=127.0.0.1 name=gzxxty168.com
@@ -18881,6 +18878,7 @@ ip dns static add address=127.0.0.1 name=haprjb.com
 ip dns static add address=127.0.0.1 name=analytics-production.hapyak.com
 ip dns static add address=127.0.0.1 name=haracticdag.fun
 ip dns static add address=127.0.0.1 name=haractice.club
+ip dns static add address=127.0.0.1 name=m.haradeiu.rocks
 ip dns static add address=127.0.0.1 name=harahero.top
 ip dns static add address=127.0.0.1 name=harassinglimb.com
 ip dns static add address=127.0.0.1 name=harbinbaojia.net
@@ -18919,6 +18917,7 @@ ip dns static add address=127.0.0.1 name=hatagashira.com
 ip dns static add address=127.0.0.1 name=metrics.hatarako.net
 ip dns static add address=127.0.0.1 name=hatchord.com
 ip dns static add address=127.0.0.1 name=b.hatena.ne.jp
+ip dns static add address=127.0.0.1 name=hatevery.info
 ip dns static add address=127.0.0.1 name=sp.hattiesburgamerican.com
 ip dns static add address=127.0.0.1 name=hauchi.com.tw
 ip dns static add address=127.0.0.1 name=drd.hauchi.com.tw
@@ -18944,7 +18943,6 @@ ip dns static add address=127.0.0.1 name=hb-247.com
 ip dns static add address=127.0.0.1 name=hbalx.cn
 ip dns static add address=127.0.0.1 name=hbaog.com
 ip dns static add address=127.0.0.1 name=hbbww.com
-ip dns static add address=127.0.0.1 name=hbeuwgqt.ru
 ip dns static add address=127.0.0.1 name=hbfls.vip
 ip dns static add address=127.0.0.1 name=hbfqcy.com
 ip dns static add address=127.0.0.1 name=hbfxmcgazuail.com
@@ -18969,6 +18967,7 @@ ip dns static add address=127.0.0.1 name=hbssjd.cn
 ip dns static add address=127.0.0.1 name=ws2.hbssjd.cn
 ip dns static add address=127.0.0.1 name=hbttcc.com
 ip dns static add address=127.0.0.1 name=hbtzzlcxfijk.com
+ip dns static add address=127.0.0.1 name=j.hbwcl.com
 ip dns static add address=127.0.0.1 name=hbyingchang.cn
 ip dns static add address=127.0.0.1 name=hbyinzhibao.cn
 ip dns static add address=127.0.0.1 name=ijdl.hbyongwan.cn
@@ -19280,6 +19279,7 @@ ip dns static add address=127.0.0.1 name=hg98089.com
 ip dns static add address=127.0.0.1 name=hgbasics.com
 ip dns static add address=127.0.0.1 name=hgbn.rocks
 ip dns static add address=127.0.0.1 name=hgdat.com
+ip dns static add address=127.0.0.1 name=hgglguotkgfo.com
 ip dns static add address=127.0.0.1 name=hghit.com
 ip dns static add address=127.0.0.1 name=hghm4u7b61.com
 ip dns static add address=127.0.0.1 name=seen.hgo7r.cn
@@ -19323,6 +19323,7 @@ ip dns static add address=127.0.0.1 name=s1.hiapk.com
 ip dns static add address=127.0.0.1 name=s2.hiapk.com
 ip dns static add address=127.0.0.1 name=hiasor.com
 ip dns static add address=127.0.0.1 name=hiblcom.com
+ip dns static add address=127.0.0.1 name=hickunwilling.com
 ip dns static add address=127.0.0.1 name=hicltgxzl.com
 ip dns static add address=127.0.0.1 name=hiconversion.com
 ip dns static add address=127.0.0.1 name=hicpm10.com
@@ -19597,7 +19598,6 @@ ip dns static add address=127.0.0.1 name=hnlsyandeos.com
 ip dns static add address=127.0.0.1 name=hnnuange.com
 ip dns static add address=127.0.0.1 name=hnpjshop.com
 ip dns static add address=127.0.0.1 name=hnpvnnhzazkl.com
-ip dns static add address=127.0.0.1 name=hnrfwtlvlnzumb.com
 ip dns static add address=127.0.0.1 name=hntiantai.cn
 ip dns static add address=127.0.0.1 name=hntymg.com
 ip dns static add address=127.0.0.1 name=hnwjlhg.cn
@@ -19699,6 +19699,7 @@ ip dns static add address=127.0.0.1 name=hooify.com
 ip dns static add address=127.0.0.1 name=hookupbucks.com
 ip dns static add address=127.0.0.1 name=hoolyfy.com
 ip dns static add address=127.0.0.1 name=hoood.info
+ip dns static add address=127.0.0.1 name=hoophaub.com
 ip dns static add address=127.0.0.1 name=hooptaik.net
 ip dns static add address=127.0.0.1 name=hoortols.org
 ip dns static add address=127.0.0.1 name=hoosorie.com
@@ -19770,6 +19771,7 @@ ip dns static add address=127.0.0.1 name=www.hostingcloud.party
 ip dns static add address=127.0.0.1 name=hostingcloud.party
 ip dns static add address=127.0.0.1 name=www.hostingcloud.racing
 ip dns static add address=127.0.0.1 name=hostingcloud.racing
+ip dns static add address=127.0.0.1 name=hostingcloud.review
 ip dns static add address=127.0.0.1 name=www.hostingcloud.science
 ip dns static add address=127.0.0.1 name=hostingcloud.science
 ip dns static add address=127.0.0.1 name=hostingcloud.stream
@@ -19827,6 +19829,7 @@ ip dns static add address=127.0.0.1 name=houdaolj.com
 ip dns static add address=127.0.0.1 name=houdodoo.net
 ip dns static add address=127.0.0.1 name=houfang8.com
 ip dns static add address=127.0.0.1 name=houghtdespe.fun
+ip dns static add address=127.0.0.1 name=hougonw.com
 ip dns static add address=127.0.0.1 name=wxtz.houmags.com
 ip dns static add address=127.0.0.1 name=hounicuy.com
 ip dns static add address=127.0.0.1 name=hourselflosu.site
@@ -19908,7 +19911,6 @@ ip dns static add address=127.0.0.1 name=hrcmzp.cn
 ip dns static add address=127.0.0.1 name=hrgbolmbxmovli.com
 ip dns static add address=127.0.0.1 name=hriaaim06kts.com
 ip dns static add address=127.0.0.1 name=hrjg.com.cn
-ip dns static add address=127.0.0.1 name=hrklcreflssza.com
 ip dns static add address=127.0.0.1 name=sosc.hrs.com
 ip dns static add address=127.0.0.1 name=tracking.hrs.de
 ip dns static add address=127.0.0.1 name=hrsddepycjmvdd.com
@@ -19962,7 +19964,6 @@ ip dns static add address=127.0.0.1 name=htjsk.com
 ip dns static add address=127.0.0.1 name=htl.bid
 ip dns static add address=127.0.0.1 name=htlbid.com
 ip dns static add address=127.0.0.1 name=htm1.ch
-ip dns static add address=127.0.0.1 name=tracking.html5games.com
 ip dns static add address=127.0.0.1 name=htmonster.com
 ip dns static add address=127.0.0.1 name=htnote.info
 ip dns static add address=127.0.0.1 name=htopensationclie.info
@@ -20021,6 +20022,7 @@ ip dns static add address=127.0.0.1 name=hubtraffic.com
 ip dns static add address=127.0.0.1 name=hubturn.info
 ip dns static add address=127.0.0.1 name=hubvisor.io
 ip dns static add address=127.0.0.1 name=hubvotrpjios.com
+ip dns static add address=127.0.0.1 name=hubzozo.com
 ip dns static add address=127.0.0.1 name=h0.hucdn.com
 ip dns static add address=127.0.0.1 name=huctgggrvw.com
 ip dns static add address=127.0.0.1 name=hudb.pl
@@ -20171,7 +20173,6 @@ ip dns static add address=127.0.0.1 name=hxadt.com
 ip dns static add address=127.0.0.1 name=hxbvxmyldlt.com
 ip dns static add address=127.0.0.1 name=www.hxcav77.com
 ip dns static add address=127.0.0.1 name=gz.hxdaka.com
-ip dns static add address=127.0.0.1 name=hxhymfdpmgs.com
 ip dns static add address=127.0.0.1 name=hxiak.com
 ip dns static add address=127.0.0.1 name=hxlif.com
 ip dns static add address=127.0.0.1 name=ssh.hxlif.com
@@ -20293,7 +20294,6 @@ ip dns static add address=127.0.0.1 name=hzxma.com
 ip dns static add address=127.0.0.1 name=sdn.hzxma.com
 ip dns static add address=127.0.0.1 name=hzyuw.com
 ip dns static add address=127.0.0.1 name=www.hzyuw.com
-ip dns static add address=127.0.0.1 name=hzyxmywj.com
 ip dns static add address=127.0.0.1 name=hzyyhz.cn
 ip dns static add address=127.0.0.1 name=hzzevwlmjji.com
 ip dns static add address=127.0.0.1 name=hzzfan.com
@@ -20428,6 +20428,7 @@ ip dns static add address=127.0.0.1 name=c.iche88.cn
 ip dns static add address=127.0.0.1 name=v.iche88.cn
 ip dns static add address=127.0.0.1 name=ichecknotifyfriends.info
 ip dns static add address=127.0.0.1 name=static.ichehome.com
+ip dns static add address=127.0.0.1 name=ichimaip.net
 ip dns static add address=127.0.0.1 name=f1.ichong123.com
 ip dns static add address=127.0.0.1 name=goto.www.iciba.com
 ip dns static add address=127.0.0.1 name=info.iciba.com
@@ -20597,7 +20598,6 @@ ip dns static add address=127.0.0.1 name=logconf.iflytek.com
 ip dns static add address=127.0.0.1 name=ifocus.cn
 ip dns static add address=127.0.0.1 name=di.ifolor.net
 ip dns static add address=127.0.0.1 name=analytics.ifood.tv
-ip dns static add address=127.0.0.1 name=ifovxnjbsqcnc.com
 ip dns static add address=127.0.0.1 name=ifriends.net
 ip dns static add address=127.0.0.1 name=ifrwam.com
 ip dns static add address=127.0.0.1 name=ifsmatbeg.site
@@ -20660,7 +20660,7 @@ ip dns static add address=127.0.0.1 name=owss.ihs.com
 ip dns static add address=127.0.0.1 name=wass.ihsmarkit.com
 ip dns static add address=127.0.0.1 name=ihuajian.com
 ip dns static add address=127.0.0.1 name=ihualun.com
-ip dns static add address=127.0.0.1 name=ihzwuzeslfh.com
+ip dns static add address=127.0.0.1 name=www.ihuanmei.com
 ip dns static add address=127.0.0.1 name=iiad.com
 ip dns static add address=127.0.0.1 name=iibahmd.cn
 ip dns static add address=127.0.0.1 name=iicheewi.com
@@ -20845,6 +20845,7 @@ ip dns static add address=127.0.0.1 name=implementtransmitted.com
 ip dns static add address=127.0.0.1 name=implicationdownloadpercy.com
 ip dns static add address=127.0.0.1 name=implishing.club
 ip dns static add address=127.0.0.1 name=implix.com
+ip dns static add address=127.0.0.1 name=impoliteyarddisciplinary.com
 ip dns static add address=127.0.0.1 name=impore.com
 ip dns static add address=127.0.0.1 name=importedincrease.com
 ip dns static add address=127.0.0.1 name=importedinsect.com
@@ -21077,7 +21078,6 @@ ip dns static add address=127.0.0.1 name=76.ingenioustech.biz
 ip dns static add address=127.0.0.1 name=barcelo.ingenioustech.biz
 ip dns static add address=127.0.0.1 name=ingenioustech.biz
 ip dns static add address=127.0.0.1 name=ingoinghitchstick.com
-ip dns static add address=127.0.0.1 name=ingorob.com
 ip dns static add address=127.0.0.1 name=ingratitudedaintyblockade.com
 ip dns static add address=127.0.0.1 name=mon.ingservices.nl
 ip dns static add address=127.0.0.1 name=inheart.ru
@@ -21186,6 +21186,7 @@ ip dns static add address=127.0.0.1 name=insnative.com
 ip dns static add address=127.0.0.1 name=insolencewalter.com
 ip dns static add address=127.0.0.1 name=insomn.pro
 ip dns static add address=127.0.0.1 name=inspectlet.com
+ip dns static add address=127.0.0.1 name=inspectorstrongerpill.com
 ip dns static add address=127.0.0.1 name=tracking.insperity.com
 ip dns static add address=127.0.0.1 name=inspikon.com
 ip dns static add address=127.0.0.1 name=eventlog.inspsearchapi.com
@@ -21438,7 +21439,6 @@ ip dns static add address=127.0.0.1 name=ad.ipadview.com
 ip dns static add address=127.0.0.1 name=fugger.ipage.com
 ip dns static add address=127.0.0.1 name=ipapi.co
 ip dns static add address=127.0.0.1 name=ipaypay.cn
-ip dns static add address=127.0.0.1 name=ipbiydocgvllrg.com
 ip dns static add address=127.0.0.1 name=ipcatch.com
 ip dns static add address=127.0.0.1 name=ipchinatelecom.com
 ip dns static add address=127.0.0.1 name=ipcount.net
@@ -21760,11 +21760,11 @@ ip dns static add address=127.0.0.1 name=ivhqsuhrqvhlke.com
 ip dns static add address=127.0.0.1 name=ivitrack.com
 ip dns static add address=127.0.0.1 name=ivjkdyrjjgxhch.com
 ip dns static add address=127.0.0.1 name=ivjtgtjcizwh.com
-ip dns static add address=127.0.0.1 name=ivqxarewpk.com
 ip dns static add address=127.0.0.1 name=ivsdajtjh.com
 ip dns static add address=127.0.0.1 name=ivstracker.net
 ip dns static add address=127.0.0.1 name=ivwbox.de
 ip dns static add address=127.0.0.1 name=ivwtqfbmkwen.com
+ip dns static add address=127.0.0.1 name=iwampeasw.com
 ip dns static add address=127.0.0.1 name=iwansf.com
 ip dns static add address=127.0.0.1 name=shop.iwantclips.com
 ip dns static add address=127.0.0.1 name=iwanttodeliver.com
@@ -21822,7 +21822,6 @@ ip dns static add address=127.0.0.1 name=j07773.com
 ip dns static add address=127.0.0.1 name=j1503.com
 ip dns static add address=127.0.0.1 name=j1ybkf.cn
 ip dns static add address=127.0.0.1 name=j200d3.cn
-ip dns static add address=127.0.0.1 name=j2k9.in
 ip dns static add address=127.0.0.1 name=ee.j5s9b.cn
 ip dns static add address=127.0.0.1 name=m.j5s9b.cn
 ip dns static add address=127.0.0.1 name=j5sq8.com
@@ -22162,6 +22161,8 @@ ip dns static add address=127.0.0.1 name=m.jieyixiu.com
 ip dns static add address=127.0.0.1 name=jif5o70u.pro
 ip dns static add address=127.0.0.1 name=jifeidandar.com
 ip dns static add address=127.0.0.1 name=jigdigtry.com
+ip dns static add address=127.0.0.1 name=jighucme.com
+ip dns static add address=127.0.0.1 name=jigsawpopcorn.com
 ip dns static add address=127.0.0.1 name=jiguang.cn
 ip dns static add address=127.0.0.1 name=update.sdk.jiguang.cn
 ip dns static add address=127.0.0.1 name=jiguangzhuisu.com
@@ -22319,7 +22320,6 @@ ip dns static add address=127.0.0.1 name=jjz666.cn
 ip dns static add address=127.0.0.1 name=jk939.com
 ip dns static add address=127.0.0.1 name=jkeimcstp.com
 ip dns static add address=127.0.0.1 name=jkgnplk.cn
-ip dns static add address=127.0.0.1 name=jkifsaeaqkupu.com
 ip dns static add address=127.0.0.1 name=nw5.jkjjkj.top
 ip dns static add address=127.0.0.1 name=www5.jkjjkj.top
 ip dns static add address=127.0.0.1 name=jkjkeithc.com
@@ -22476,6 +22476,7 @@ ip dns static add address=127.0.0.1 name=jpenk.com
 ip dns static add address=127.0.0.1 name=jphlsnzlxdz.com
 ip dns static add address=127.0.0.1 name=jppbyrkkgpgo.com
 ip dns static add address=127.0.0.1 name=jppolid-track.trackprod.integration.jppol.dk
+ip dns static add address=127.0.0.1 name=jpqgxy.com
 ip dns static add address=127.0.0.1 name=bjuser.jpush.cn
 ip dns static add address=127.0.0.1 name=ce3e75d5.jpush.cn
 ip dns static add address=127.0.0.1 name=fcapi.jpush.cn
@@ -22522,7 +22523,6 @@ ip dns static add address=127.0.0.1 name=smetrics.jre-travel.com
 ip dns static add address=127.0.0.1 name=www.jrhaigou.com
 ip dns static add address=127.0.0.1 name=8.jrj.com
 ip dns static add address=127.0.0.1 name=8.jrj.com.cn
-ip dns static add address=127.0.0.1 name=same.jrj.com.cn
 ip dns static add address=127.0.0.1 name=jroqvbvw.info
 ip dns static add address=127.0.0.1 name=jrpt.jrptweb.org
 ip dns static add address=127.0.0.1 name=jrtswekysc.com
@@ -22548,7 +22548,6 @@ ip dns static add address=127.0.0.1 name=jsfeedadsget.com
 ip dns static add address=127.0.0.1 name=jsfeedget.com
 ip dns static add address=127.0.0.1 name=jsfuz.com
 ip dns static add address=127.0.0.1 name=www.jshonghuadq.com
-ip dns static add address=127.0.0.1 name=jshosting.bi
 ip dns static add address=127.0.0.1 name=jshosting.science
 ip dns static add address=127.0.0.1 name=www.jshosting.win
 ip dns static add address=127.0.0.1 name=jshosting.win
@@ -22766,7 +22765,6 @@ ip dns static add address=127.0.0.1 name=jwplayer.space
 ip dns static add address=127.0.0.1 name=jwqj.net
 ip dns static add address=127.0.0.1 name=jwt8e5vzc1.com
 ip dns static add address=127.0.0.1 name=jwvwak1a.com
-ip dns static add address=127.0.0.1 name=jwwhsqz.ru
 ip dns static add address=127.0.0.1 name=jx.cn
 ip dns static add address=127.0.0.1 name=jx118114.net
 ip dns static add address=127.0.0.1 name=jx1999.com
@@ -22868,6 +22866,7 @@ ip dns static add address=127.0.0.1 name=e.kafka8.com
 ip dns static add address=127.0.0.1 name=m.kafka8.com
 ip dns static add address=127.0.0.1 name=analytics.kaggle.io
 ip dns static add address=127.0.0.1 name=kagrooxa.net
+ip dns static add address=127.0.0.1 name=kaifiluk.com
 ip dns static add address=127.0.0.1 name=kaihutai.cn
 ip dns static add address=127.0.0.1 name=kaiphapt.net
 ip dns static add address=127.0.0.1 name=kaipuyun.cn
@@ -22900,7 +22899,6 @@ ip dns static add address=127.0.0.1 name=kalespurhoes.com
 ip dns static add address=127.0.0.1 name=kalipasindra.online
 ip dns static add address=127.0.0.1 name=kalmloda.com
 ip dns static add address=127.0.0.1 name=events.kaloo.ga
-ip dns static add address=127.0.0.1 name=geo.kaloo.ga
 ip dns static add address=127.0.0.1 name=analytics.kaltura.com
 ip dns static add address=127.0.0.1 name=kalstats.kaltura.com
 ip dns static add address=127.0.0.1 name=livestats.kaltura.com
@@ -23020,6 +23018,7 @@ ip dns static add address=127.0.0.1 name=kdcmgzgxears.com
 ip dns static add address=127.0.0.1 name=ad.kddi-fs.com
 ip dns static add address=127.0.0.1 name=biz1.kddi.com
 ip dns static add address=127.0.0.1 name=kddlearn.cn
+ip dns static add address=127.0.0.1 name=kdfumeftulzzpp.com
 ip dns static add address=127.0.0.1 name=kdh8.com
 ip dns static add address=127.0.0.1 name=kdieu.com
 ip dns static add address=127.0.0.1 name=kdly.net
@@ -23070,7 +23069,6 @@ ip dns static add address=127.0.0.1 name=m.kejet.net
 ip dns static add address=127.0.0.1 name=rtb-p.kejet.net
 ip dns static add address=127.0.0.1 name=a.kejixun.com
 ip dns static add address=127.0.0.1 name=kele4.com
-ip dns static add address=127.0.0.1 name=t.kelkoogroup.net
 ip dns static add address=127.0.0.1 name=kelt-195b.com
 ip dns static add address=127.0.0.1 name=kelun13.top
 ip dns static add address=127.0.0.1 name=kelxznqntfk.com
@@ -23150,6 +23148,7 @@ ip dns static add address=127.0.0.1 name=kfi8.com
 ip dns static add address=127.0.0.1 name=jsnywl.kfi8.com
 ip dns static add address=127.0.0.1 name=kfluoa.com
 ip dns static add address=127.0.0.1 name=kfptslry.com
+ip dns static add address=127.0.0.1 name=kfrnlaiqm.com
 ip dns static add address=127.0.0.1 name=kfuih.cn
 ip dns static add address=127.0.0.1 name=kfuiprtjuqntp.com
 ip dns static add address=127.0.0.1 name=image.kfw.de
@@ -23175,7 +23174,6 @@ ip dns static add address=127.0.0.1 name=khg97644rvbg.com
 ip dns static add address=127.0.0.1 name=khgj.cn
 ip dns static add address=127.0.0.1 name=s.khgj.cn
 ip dns static add address=127.0.0.1 name=khidhfrk.com
-ip dns static add address=127.0.0.1 name=kho3au7l4z.me
 ip dns static add address=127.0.0.1 name=khufaw2.com
 ip dns static add address=127.0.0.1 name=khuoy.com
 ip dns static add address=127.0.0.1 name=e.khuoy.com
@@ -23337,7 +23335,6 @@ ip dns static add address=127.0.0.1 name=klqwhndhm.com
 ip dns static add address=127.0.0.1 name=klsadm.com
 ip dns static add address=127.0.0.1 name=klsdee.com
 ip dns static add address=127.0.0.1 name=klsdmr.com
-ip dns static add address=127.0.0.1 name=klwdbmowf.com
 ip dns static add address=127.0.0.1 name=klz28.com
 ip dns static add address=127.0.0.1 name=km-sea.net
 ip dns static add address=127.0.0.1 name=tjjs.km.com
@@ -23394,6 +23391,7 @@ ip dns static add address=127.0.0.1 name=kodicdn.com
 ip dns static add address=127.0.0.1 name=koertf.com
 ip dns static add address=127.0.0.1 name=kofcq5.cn
 ip dns static add address=127.0.0.1 name=link.kogan.com
+ip dns static add address=127.0.0.1 name=kogutcho.net
 ip dns static add address=127.0.0.1 name=kohlermetrics.kohler.com
 ip dns static add address=127.0.0.1 name=kohlermetricssecure.kohler.com
 ip dns static add address=127.0.0.1 name=ww8.kohls.com
@@ -23462,15 +23460,14 @@ ip dns static add address=127.0.0.1 name=kozoysnsx.com
 ip dns static add address=127.0.0.1 name=adxwxw.kp.ru
 ip dns static add address=127.0.0.1 name=xiaoshuo.kp53.cn
 ip dns static add address=127.0.0.1 name=mastertag.kpcustomer.de
-ip dns static add address=127.0.0.1 name=kpfrihmnxnayo.com
 ip dns static add address=127.0.0.1 name=kpirog.com
 ip dns static add address=127.0.0.1 name=tr.news.kpmgnet.fr
 ip dns static add address=127.0.0.1 name=omsc.kpn.com
 ip dns static add address=127.0.0.1 name=kpr2exp21.com
 ip dns static add address=127.0.0.1 name=kpxbctywsa.com
-ip dns static add address=127.0.0.1 name=kpyxcbdaftlxt.com
 ip dns static add address=127.0.0.1 name=kqbigsdyqtdh.com
 ip dns static add address=127.0.0.1 name=kqiaq.com
+ip dns static add address=127.0.0.1 name=kqpkigli.com
 ip dns static add address=127.0.0.1 name=kqzyfj.com
 ip dns static add address=127.0.0.1 name=kr3vinsx.com
 ip dns static add address=127.0.0.1 name=kraciecojp-ebis.kracie.co.jp
@@ -23944,6 +23941,7 @@ ip dns static add address=127.0.0.1 name=lauk.icu
 ip dns static add address=127.0.0.1 name=launchbit.com
 ip dns static add address=127.0.0.1 name=events.launchdarkly.com
 ip dns static add address=127.0.0.1 name=launchers.network
+ip dns static add address=127.0.0.1 name=launchingsulk.com
 ip dns static add address=127.0.0.1 name=nym5c.laura.ca
 ip dns static add address=127.0.0.1 name=lauriegrowingdrops.com
 ip dns static add address=127.0.0.1 name=lauwhada.com
@@ -24273,7 +24271,6 @@ ip dns static add address=127.0.0.1 name=lfouz.com
 ip dns static add address=127.0.0.1 name=lfov.net
 ip dns static add address=127.0.0.1 name=lfstmedia.com
 ip dns static add address=127.0.0.1 name=lftqch650apz.com
-ip dns static add address=127.0.0.1 name=lfztmoamieum.com
 ip dns static add address=127.0.0.1 name=lfzxcp.com
 ip dns static add address=127.0.0.1 name=omniture.lg.com
 ip dns static add address=127.0.0.1 name=soxnwz.lg.com
@@ -24291,7 +24288,6 @@ ip dns static add address=127.0.0.1 name=jc.lgtianma.cn
 ip dns static add address=127.0.0.1 name=lguir.com
 ip dns static add address=127.0.0.1 name=lh5lg.top
 ip dns static add address=127.0.0.1 name=lhafy.com
-ip dns static add address=127.0.0.1 name=lhaieyfsvi.com
 ip dns static add address=127.0.0.1 name=lhengilin.com
 ip dns static add address=127.0.0.1 name=lhkbqytz.com
 ip dns static add address=127.0.0.1 name=lhljbgevp.com
@@ -24389,6 +24385,7 @@ ip dns static add address=127.0.0.1 name=lifzpefv.com
 ip dns static add address=127.0.0.1 name=ligadx.com
 ip dns static add address=127.0.0.1 name=ligatus.com
 ip dns static add address=127.0.0.1 name=lightblue.red
+ip dns static add address=127.0.0.1 name=lighterplumberlimits.com
 ip dns static add address=127.0.0.1 name=lightiesenco.space
 ip dns static add address=127.0.0.1 name=somniture.lightingdirect.com
 ip dns static add address=127.0.0.1 name=fkdaik.lightinthebox.com
@@ -24415,6 +24412,7 @@ ip dns static add address=127.0.0.1 name=lilithgame.info
 ip dns static add address=127.0.0.1 name=liliy9aydje10.com
 ip dns static add address=127.0.0.1 name=te.limango.de
 ip dns static add address=127.0.0.1 name=tp.limango.de
+ip dns static add address=127.0.0.1 name=limbloyal.com
 ip dns static add address=127.0.0.1 name=limei.com
 ip dns static add address=127.0.0.1 name=res.limei.com
 ip dns static add address=127.0.0.1 name=limetreenearly.com
@@ -24596,6 +24594,7 @@ ip dns static add address=127.0.0.1 name=liveintent.com
 ip dns static add address=127.0.0.1 name=creatives.livejasmin.com
 ip dns static add address=127.0.0.1 name=livejasmin.com
 ip dns static add address=127.0.0.1 name=livejasmin.tv
+ip dns static add address=127.0.0.1 name=livelyoffers.club
 ip dns static add address=127.0.0.1 name=app.livemarketshoppers.com
 ip dns static add address=127.0.0.1 name=cookies.livepartners.com
 ip dns static add address=127.0.0.1 name=liveprivates.com
@@ -24816,8 +24815,6 @@ ip dns static add address=127.0.0.1 name=lnueliai.com
 ip dns static add address=127.0.0.1 name=lnxbv.work
 ip dns static add address=127.0.0.1 name=lnxsrmsebsd.com
 ip dns static add address=127.0.0.1 name=lnymd.com
-ip dns static add address=127.0.0.1 name=c6.lnymd.com
-ip dns static add address=127.0.0.1 name=z2.lnymd.com
 ip dns static add address=127.0.0.1 name=lnzangcha.com
 ip dns static add address=127.0.0.1 name=loa-traffic.com
 ip dns static add address=127.0.0.1 name=load44ont.online
@@ -25036,7 +25033,6 @@ ip dns static add address=127.0.0.1 name=lqpkjasgqjve.com
 ip dns static add address=127.0.0.1 name=lqw.me
 ip dns static add address=127.0.0.1 name=lqydocphrf.com
 ip dns static add address=127.0.0.1 name=lr96.top
-ip dns static add address=127.0.0.1 name=lrghpuvvo.com
 ip dns static add address=127.0.0.1 name=lrswl.com
 ip dns static add address=127.0.0.1 name=veim.lrswl.com
 ip dns static add address=127.0.0.1 name=wm.lrswl.com
@@ -25111,7 +25107,6 @@ ip dns static add address=127.0.0.1 name=lumpylumber.com
 ip dns static add address=127.0.0.1 name=lumreckle.fun
 ip dns static add address=127.0.0.1 name=metrixlablw.customers.luna.net
 ip dns static add address=127.0.0.1 name=lunio.net
-ip dns static add address=127.0.0.1 name=vvv.lunqudai.com
 ip dns static add address=127.0.0.1 name=luntan588.space
 ip dns static add address=127.0.0.1 name=luntanx18.info
 ip dns static add address=127.0.0.1 name=luodiye01.cn
@@ -25196,7 +25191,6 @@ ip dns static add address=127.0.0.1 name=lxqcgj.com
 ip dns static add address=127.0.0.1 name=lxting.com
 ip dns static add address=127.0.0.1 name=lxtrack.com
 ip dns static add address=127.0.0.1 name=ly5200.cn
-ip dns static add address=127.0.0.1 name=lyaaikspui.com
 ip dns static add address=127.0.0.1 name=lyadu.com
 ip dns static add address=127.0.0.1 name=lyaeccn.com
 ip dns static add address=127.0.0.1 name=lyaustrymich.club
@@ -25233,6 +25227,7 @@ ip dns static add address=127.0.0.1 name=e.lyjz001.com
 ip dns static add address=127.0.0.1 name=m.lyjz001.com
 ip dns static add address=127.0.0.1 name=lylfj.cn
 ip dns static add address=127.0.0.1 name=lylibertleveni.site
+ip dns static add address=127.0.0.1 name=lylifa.com
 ip dns static add address=127.0.0.1 name=lymstsc.com
 ip dns static add address=127.0.0.1 name=do.lymstsc.com
 ip dns static add address=127.0.0.1 name=affiliates.lynda.com
@@ -25392,7 +25387,6 @@ ip dns static add address=127.0.0.1 name=magiq.com
 ip dns static add address=127.0.0.1 name=kllyys.magizoo.ru
 ip dns static add address=127.0.0.1 name=rbc.magna.ru
 ip dns static add address=127.0.0.1 name=magnetairport.com
-ip dns static add address=127.0.0.1 name=magnetbay.eu
 ip dns static add address=127.0.0.1 name=magnetisemedia.com
 ip dns static add address=127.0.0.1 name=tracking.magnetmail.net
 ip dns static add address=127.0.0.1 name=magnetmail1.net
@@ -25504,6 +25498,7 @@ ip dns static add address=127.0.0.1 name=mamydirect.com
 ip dns static add address=127.0.0.1 name=metrics.mamypoko.com
 ip dns static add address=127.0.0.1 name=smetrics.mamypoko.com
 ip dns static add address=127.0.0.1 name=man7777.com
+ip dns static add address=127.0.0.1 name=managemeasuredcypress.com
 ip dns static add address=127.0.0.1 name=yx1.managershare.com
 ip dns static add address=127.0.0.1 name=ahhrtt.managertoday.com.tw
 ip dns static add address=127.0.0.1 name=managesdancing.com
@@ -25574,7 +25569,6 @@ ip dns static add address=127.0.0.1 name=marinsm.com
 ip dns static add address=127.0.0.1 name=tracker.marinsoftware.com
 ip dns static add address=127.0.0.1 name=sp.marionstar.com
 ip dns static add address=127.0.0.1 name=marisappear.pro
-ip dns static add address=127.0.0.1 name=mariuspetrescu.gq
 ip dns static add address=127.0.0.1 name=mariyadarg.fun
 ip dns static add address=127.0.0.1 name=markable.club
 ip dns static add address=127.0.0.1 name=smetrics.markandgraham.com
@@ -25670,7 +25664,6 @@ ip dns static add address=127.0.0.1 name=mastedyel.club
 ip dns static add address=127.0.0.1 name=tags.master-perf-tools.com
 ip dns static add address=127.0.0.1 name=master-push.com
 ip dns static add address=127.0.0.1 name=master-push.net
-ip dns static add address=127.0.0.1 name=masterads.org
 ip dns static add address=127.0.0.1 name=ad.masteranime.es
 ip dns static add address=127.0.0.1 name=masterbate.pro
 ip dns static add address=127.0.0.1 name=metrics.mastercard.com
@@ -26051,13 +26044,13 @@ ip dns static add address=127.0.0.1 name=promos.meetlocals.com
 ip dns static add address=127.0.0.1 name=meetrics.com
 ip dns static add address=127.0.0.1 name=meetrics.net
 ip dns static add address=127.0.0.1 name=meetsexygirls.org
+ip dns static add address=127.0.0.1 name=meetsourhig.biz
 ip dns static add address=127.0.0.1 name=meezauch.net
 ip dns static add address=127.0.0.1 name=mega-fla.com
 ip dns static add address=127.0.0.1 name=mega-stats.com
 ip dns static add address=127.0.0.1 name=megaad.nz
 ip dns static add address=127.0.0.1 name=go.megabanners.cf
 ip dns static add address=127.0.0.1 name=megabanners.cf
-ip dns static add address=127.0.0.1 name=megacpm.com
 ip dns static add address=127.0.0.1 name=counter.megaindex.ru
 ip dns static add address=127.0.0.1 name=megajoy.com
 ip dns static add address=127.0.0.1 name=megapopads.com
@@ -26203,7 +26196,6 @@ ip dns static add address=127.0.0.1 name=mercy.ga
 ip dns static add address=127.0.0.1 name=go2.mercy.ga
 ip dns static add address=127.0.0.1 name=mercyusuallylikewise.com
 ip dns static add address=127.0.0.1 name=merdpspl.com
-ip dns static add address=127.0.0.1 name=analytics.video.meredithcorp.io
 ip dns static add address=127.0.0.1 name=meredthou.fun
 ip dns static add address=127.0.0.1 name=count.merian.de
 ip dns static add address=127.0.0.1 name=analytics00.meride.tv
@@ -26296,6 +26288,7 @@ ip dns static add address=127.0.0.1 name=mgldzcls.com
 ip dns static add address=127.0.0.1 name=mglvqian.com
 ip dns static add address=127.0.0.1 name=affiliates.mgmmirage.com
 ip dns static add address=127.0.0.1 name=smetrics.mgmresorts.com
+ip dns static add address=127.0.0.1 name=mgnkokxa.com
 ip dns static add address=127.0.0.1 name=mgogo.com
 ip dns static add address=127.0.0.1 name=m.mgogo.com
 ip dns static add address=127.0.0.1 name=m1.mgogo.com
@@ -26478,7 +26471,6 @@ ip dns static add address=127.0.0.1 name=aoohaq.micromania.fr
 ip dns static add address=127.0.0.1 name=microscoperestriction.com
 ip dns static add address=127.0.0.1 name=microscopeundertakingprowl.com
 ip dns static add address=127.0.0.1 name=crl.microsoft.com
-ip dns static add address=127.0.0.1 name=glbdns.microsoft.com
 ip dns static add address=127.0.0.1 name=rad.microsoft.com
 ip dns static add address=127.0.0.1 name=watson.microsoft.com
 ip dns static add address=127.0.0.1 name=telemetry.microsoft.com
@@ -26637,6 +26629,7 @@ ip dns static add address=127.0.0.1 name=cdn.minescripts.info
 ip dns static add address=127.0.0.1 name=minessetion.info
 ip dns static add address=127.0.0.1 name=minewhat.com
 ip dns static add address=127.0.0.1 name=minexmr.com
+ip dns static add address=127.0.0.1 name=minexmr.stream
 ip dns static add address=127.0.0.1 name=mingboxieye.com
 ip dns static add address=127.0.0.1 name=affiliates.minglematch.com
 ip dns static add address=127.0.0.1 name=minglongtea.cn
@@ -26683,7 +26676,6 @@ ip dns static add address=127.0.0.1 name=mintme.ga
 ip dns static add address=127.0.0.1 name=mintme.gq
 ip dns static add address=127.0.0.1 name=mintme.ml
 ip dns static add address=127.0.0.1 name=data.minute.ly
-ip dns static add address=127.0.0.1 name=plumbus.minutemediaservices.com
 ip dns static add address=127.0.0.1 name=rum.minutemediaservices.com
 ip dns static add address=127.0.0.1 name=minutesbitter.com
 ip dns static add address=127.0.0.1 name=minwear.com.cn
@@ -26705,6 +26697,7 @@ ip dns static add address=127.0.0.1 name=mirrorpersonalinjury.co.uk
 ip dns static add address=127.0.0.1 name=mirtesen.ru
 ip dns static add address=127.0.0.1 name=target.mirtesen.ru
 ip dns static add address=127.0.0.1 name=misc1bulk.com
+ip dns static add address=127.0.0.1 name=miscellaneouspiledrely.com
 ip dns static add address=127.0.0.1 name=mischiefdiscount.com
 ip dns static add address=127.0.0.1 name=misdem.pro
 ip dns static add address=127.0.0.1 name=miserincarnatestack.com
@@ -26788,8 +26781,6 @@ ip dns static add address=127.0.0.1 name=mixmarket.biz
 ip dns static add address=127.0.0.1 name=udata.mixmarket.biz
 ip dns static add address=127.0.0.1 name=mixpanel.com
 ip dns static add address=127.0.0.1 name=mixpo.com
-ip dns static add address=127.0.0.1 name=mixturehopeful.com
-ip dns static add address=127.0.0.1 name=mixuaeielbnlg.com
 ip dns static add address=127.0.0.1 name=a.miyudaquan.top
 ip dns static add address=127.0.0.1 name=miyudaquan.top
 ip dns static add address=127.0.0.1 name=smetrics.mizuno.jp
@@ -26818,6 +26809,7 @@ ip dns static add address=127.0.0.1 name=mkt51.net
 ip dns static add address=127.0.0.1 name=mkt6333.com
 ip dns static add address=127.0.0.1 name=mkt941.com
 ip dns static add address=127.0.0.1 name=mktoresp.com
+ip dns static add address=127.0.0.1 name=mkyrxfftdmqx.com
 ip dns static add address=127.0.0.1 name=emjs.mkzhan.com
 ip dns static add address=127.0.0.1 name=ml-attr.com
 ip dns static add address=127.0.0.1 name=etui.fs.ml.com
@@ -26917,7 +26909,6 @@ ip dns static add address=127.0.0.1 name=mnetads.com
 ip dns static add address=127.0.0.1 name=mnfiiphpwzyncr.com
 ip dns static add address=127.0.0.1 name=mng-ads.com
 ip dns static add address=127.0.0.1 name=mno.link
-ip dns static add address=127.0.0.1 name=mnozqjxzrhko.com
 ip dns static add address=127.0.0.1 name=mnptinibfbv.com
 ip dns static add address=127.0.0.1 name=mnrywnesslkmdy.com
 ip dns static add address=127.0.0.1 name=mntzr11.net
@@ -27015,12 +27006,14 @@ ip dns static add address=127.0.0.1 name=debugreport.mobiledissector.com
 ip dns static add address=127.0.0.1 name=img.ads.mobilefuse.net
 ip dns static add address=127.0.0.1 name=mobilehdmi.com
 ip dns static add address=127.0.0.1 name=widgets.mobilelocalnews.com
+ip dns static add address=127.0.0.1 name=jobs.mobilemarketingreads.com
 ip dns static add address=127.0.0.1 name=mobileoffers-al-download.com
 ip dns static add address=127.0.0.1 name=mobilerevenu.com
 ip dns static add address=127.0.0.1 name=mobilityware.com
 ip dns static add address=127.0.0.1 name=ads.mobilityware.com
 ip dns static add address=127.0.0.1 name=apps.mobilityware.com
 ip dns static add address=127.0.0.1 name=mobiorg8.com
+ip dns static add address=127.0.0.1 name=mobipromote.com
 ip dns static add address=127.0.0.1 name=mobiright.com
 ip dns static add address=127.0.0.1 name=mobisage.cn
 ip dns static add address=127.0.0.1 name=config.mobisage.cn
@@ -27147,6 +27140,7 @@ ip dns static add address=127.0.0.1 name=moncoerbb.com
 ip dns static add address=127.0.0.1 name=tr.mail.moncoupdepouce.com
 ip dns static add address=127.0.0.1 name=mondayunauthorized.com
 ip dns static add address=127.0.0.1 name=marketing.net.monedo.pl
+ip dns static add address=127.0.0.1 name=moneone.ga
 ip dns static add address=127.0.0.1 name=monerise.com
 ip dns static add address=127.0.0.1 name=monero-miner.com
 ip dns static add address=127.0.0.1 name=www.monero-miner.com
@@ -27154,12 +27148,12 @@ ip dns static add address=127.0.0.1 name=monero-miner.net
 ip dns static add address=127.0.0.1 name=www.monero.how
 ip dns static add address=127.0.0.1 name=monerominer.rocks
 ip dns static add address=127.0.0.1 name=moneroocean.stream
+ip dns static add address=127.0.0.1 name=xfo.monesyy.com
 ip dns static add address=127.0.0.1 name=smetrics.moneta.cz
 ip dns static add address=127.0.0.1 name=monetate.net
 ip dns static add address=127.0.0.1 name=monetizer101.com
 ip dns static add address=127.0.0.1 name=monetizze.com.br
 ip dns static add address=127.0.0.1 name=stat-ssl.money-viva.jp
-ip dns static add address=127.0.0.1 name=money4ads.com
 ip dns static add address=127.0.0.1 name=moneycosmos.com
 ip dns static add address=127.0.0.1 name=moneymakercdn.com
 ip dns static add address=127.0.0.1 name=metrics.moneymart.ca
@@ -27215,7 +27209,6 @@ ip dns static add address=127.0.0.1 name=moonads.net
 ip dns static add address=127.0.0.1 name=moonicorn.network
 ip dns static add address=127.0.0.1 name=moonify.io
 ip dns static add address=127.0.0.1 name=moonlightingapi-ads.com
-ip dns static add address=127.0.0.1 name=moonsade.com
 ip dns static add address=127.0.0.1 name=moontuftboy.com
 ip dns static add address=127.0.0.1 name=moonwish.com.cn
 ip dns static add address=127.0.0.1 name=smetrics.moony.com
@@ -27256,6 +27249,7 @@ ip dns static add address=127.0.0.1 name=sync.morgdm.ru
 ip dns static add address=127.0.0.1 name=morguecountryportray.com
 ip dns static add address=127.0.0.1 name=srnzdl.morhipo.com
 ip dns static add address=127.0.0.1 name=moritava.com
+ip dns static add address=127.0.0.1 name=morningdigit.com
 ip dns static add address=127.0.0.1 name=morningsophisticatedcenter.com
 ip dns static add address=127.0.0.1 name=elqtrk.morningstar.be
 ip dns static add address=127.0.0.1 name=elqtrk.morningstar.ca
@@ -27408,7 +27402,6 @@ ip dns static add address=127.0.0.1 name=mpwe.net
 ip dns static add address=127.0.0.1 name=mpyiiswvgxz.com
 ip dns static add address=127.0.0.1 name=www.mpzw.com
 ip dns static add address=127.0.0.1 name=mqcwr.cn
-ip dns static add address=127.0.0.1 name=mqhubpjjlhszv.com
 ip dns static add address=127.0.0.1 name=mqies.com
 ip dns static add address=127.0.0.1 name=mql5.com
 ip dns static add address=127.0.0.1 name=stat.mql5.com
@@ -27535,8 +27528,6 @@ ip dns static add address=127.0.0.1 name=log2.mtime.cn
 ip dns static add address=127.0.0.1 name=logx.mtime.cn
 ip dns static add address=127.0.0.1 name=logx.mtime.com
 ip dns static add address=127.0.0.1 name=advert.mting.info
-ip dns static add address=127.0.0.1 name=ee.mtmfjdo.cn
-ip dns static add address=127.0.0.1 name=m.mtmfjdo.cn
 ip dns static add address=127.0.0.1 name=mtmob.com
 ip dns static add address=127.0.0.1 name=mtmuhcmpz.com
 ip dns static add address=127.0.0.1 name=mtoor.com
@@ -27772,7 +27763,6 @@ ip dns static add address=127.0.0.1 name=sourcepoint-mms.mylifetime.com
 ip dns static add address=127.0.0.1 name=mylikechat.com
 ip dns static add address=127.0.0.1 name=mylinkbox.com
 ip dns static add address=127.0.0.1 name=images.mylot.com
-ip dns static add address=127.0.0.1 name=mynativeads.com
 ip dns static add address=127.0.0.1 name=yfrbtc.mynet.com
 ip dns static add address=127.0.0.1 name=mynewcounter.com
 ip dns static add address=127.0.0.1 name=mynsystems.com
@@ -28085,6 +28075,7 @@ ip dns static add address=127.0.0.1 name=ncoyqc.com
 ip dns static add address=127.0.0.1 name=www.ncoyqc.com
 ip dns static add address=127.0.0.1 name=nctionclarkingcu.fun
 ip dns static add address=127.0.0.1 name=stats.nctm.org
+ip dns static add address=127.0.0.1 name=ncurqchw.com
 ip dns static add address=127.0.0.1 name=ncwckj.com
 ip dns static add address=127.0.0.1 name=ncydissalc.club
 ip dns static add address=127.0.0.1 name=nda3456.com
@@ -28180,7 +28171,6 @@ ip dns static add address=127.0.0.1 name=neoffic.com
 ip dns static add address=127.0.0.1 name=neocounter.neoworx-blog-tools.net
 ip dns static add address=127.0.0.1 name=nepobedimiy2kot11jf.com
 ip dns static add address=127.0.0.1 name=info.neptune-software.com
-ip dns static add address=127.0.0.1 name=nepyhecawr.com
 ip dns static add address=127.0.0.1 name=ner-de-mi-nis-6.info
 ip dns static add address=127.0.0.1 name=nerbulsterme.club
 ip dns static add address=127.0.0.1 name=nerdorium.org
@@ -28500,7 +28490,6 @@ ip dns static add address=127.0.0.1 name=fpcdallasstars.nhl.com
 ip dns static add address=127.0.0.1 name=nhpfvdlbjg.com
 ip dns static add address=127.0.0.1 name=nhqxzqvkj.com
 ip dns static add address=127.0.0.1 name=nhrivytyo.com
-ip dns static add address=127.0.0.1 name=nhtkbvafhre.com
 ip dns static add address=127.0.0.1 name=nsmetrics.ni.com
 ip dns static add address=127.0.0.1 name=smetrics.ni.com
 ip dns static add address=127.0.0.1 name=ni22.com
@@ -28799,7 +28788,6 @@ ip dns static add address=127.0.0.1 name=nkjwmb.com
 ip dns static add address=127.0.0.1 name=nkk31jjp.com
 ip dns static add address=127.0.0.1 name=nklrfqgz.com
 ip dns static add address=127.0.0.1 name=nklwgj.com
-ip dns static add address=127.0.0.1 name=nklwltrpzhy.com
 ip dns static add address=127.0.0.1 name=nkmarxpzacidhn.com
 ip dns static add address=127.0.0.1 name=nkmsite.com
 ip dns static add address=127.0.0.1 name=nknxugrndmf.com
@@ -28853,6 +28841,7 @@ ip dns static add address=127.0.0.1 name=m1.nn670.com
 ip dns static add address=127.0.0.1 name=tben.nnchangyi.com
 ip dns static add address=127.0.0.1 name=nnfgfuhecdfls.com
 ip dns static add address=127.0.0.1 name=nnfiy.com
+ip dns static add address=127.0.0.1 name=zlsw.nnjxqd.com
 ip dns static add address=127.0.0.1 name=nnmmdhpi.com
 ip dns static add address=127.0.0.1 name=nnna.ru
 ip dns static add address=127.0.0.1 name=nnolljzcxzud.com
@@ -28868,7 +28857,7 @@ ip dns static add address=127.0.0.1 name=noaloheb.com
 ip dns static add address=127.0.0.1 name=noamiagainst.pro
 ip dns static add address=127.0.0.1 name=noamiscience.pro
 ip dns static add address=127.0.0.1 name=noaptauw.com
-ip dns static add address=127.0.0.1 name=noberlmall.com
+ip dns static add address=127.0.0.1 name=noawhupt.net
 ip dns static add address=127.0.0.1 name=api.nobeta.com.br
 ip dns static add address=127.0.0.1 name=noble55.com
 ip dns static add address=127.0.0.1 name=noblefun.net
@@ -29155,6 +29144,7 @@ ip dns static add address=127.0.0.1 name=nszmz.com
 ip dns static add address=127.0.0.1 name=tracking.omniture.nt.se
 ip dns static add address=127.0.0.1 name=ntadnddfgogpse.com
 ip dns static add address=127.0.0.1 name=ntalker.com
+ip dns static add address=127.0.0.1 name=ntbtvdbomevgzs.com
 ip dns static add address=127.0.0.1 name=ntdvjlvau.com
 ip dns static add address=127.0.0.1 name=ntedporchite.info
 ip dns static add address=127.0.0.1 name=ntent.com
@@ -29291,6 +29281,7 @@ ip dns static add address=127.0.0.1 name=ny5159.com
 ip dns static add address=127.0.0.1 name=ny8yoo2ro5aa.com
 ip dns static add address=127.0.0.1 name=nyacampwk.com
 ip dns static add address=127.0.0.1 name=nyadmcncserve-05y06a.com
+ip dns static add address=127.0.0.1 name=nyadra.com
 ip dns static add address=127.0.0.1 name=smetrics.nyandcompany.com
 ip dns static add address=127.0.0.1 name=nyceov.life.ru
 ip dns static add address=127.0.0.1 name=smetrics.nycgo.com
@@ -29362,6 +29353,7 @@ ip dns static add address=127.0.0.1 name=o626b32etkg6.com
 ip dns static add address=127.0.0.1 name=o6ek91ag15.com
 ip dns static add address=127.0.0.1 name=qkcl.o7z0k.cn
 ip dns static add address=127.0.0.1 name=z1.o8h7d.cn
+ip dns static add address=127.0.0.1 name=oackoubs.com
 ip dns static add address=127.0.0.1 name=oadaheba.net
 ip dns static add address=127.0.0.1 name=oadz.com
 ip dns static add address=127.0.0.1 name=1116.oadz.com
@@ -29454,6 +29446,7 @@ ip dns static add address=127.0.0.1 name=marketing.net.ocm.de
 ip dns static add address=127.0.0.1 name=ocmhood.com
 ip dns static add address=127.0.0.1 name=oconner.biz
 ip dns static add address=127.0.0.1 name=oconner.link
+ip dns static add address=127.0.0.1 name=ocphuulbithyyd.com
 ip dns static add address=127.0.0.1 name=metrics.octanner.com
 ip dns static add address=127.0.0.1 name=octavius.rocks
 ip dns static add address=127.0.0.1 name=octomarket.com
@@ -29533,6 +29526,7 @@ ip dns static add address=127.0.0.1 name=ofreadingand.biz
 ip dns static add address=127.0.0.1 name=t.ofsys.com
 ip dns static add address=127.0.0.1 name=ofttanmob.site
 ip dns static add address=127.0.0.1 name=ofy3m0gp.com
+ip dns static add address=127.0.0.1 name=ogdzyxly.com
 ip dns static add address=127.0.0.1 name=ogercron.com
 ip dns static add address=127.0.0.1 name=oggifinogi.com
 ip dns static add address=127.0.0.1 name=oghub.io
@@ -29642,7 +29636,6 @@ ip dns static add address=127.0.0.1 name=oldqsuoemchpr.com
 ip dns static add address=127.0.0.1 name=oldrummarim.club
 ip dns static add address=127.0.0.1 name=ole7o.cn
 ip dns static add address=127.0.0.1 name=olecintri.com
-ip dns static add address=127.0.0.1 name=olfkptkfop.com
 ip dns static add address=127.0.0.1 name=olgtex.com
 ip dns static add address=127.0.0.1 name=olhupniause.com
 ip dns static add address=127.0.0.1 name=olibenelading.xyz
@@ -29712,7 +29705,6 @@ ip dns static add address=127.0.0.1 name=tmobilehome-stage.hb-api.omtrdc.net
 ip dns static add address=127.0.0.1 name=turnerresearch1.hb-api.omtrdc.net
 ip dns static add address=127.0.0.1 name=omtvxcle.com
 ip dns static add address=127.0.0.1 name=omynews.net
-ip dns static add address=127.0.0.1 name=omzwbcsev.com
 ip dns static add address=127.0.0.1 name=on-line.lv
 ip dns static add address=127.0.0.1 name=on-push.com
 ip dns static add address=127.0.0.1 name=on1q0.cn
@@ -29998,7 +29990,6 @@ ip dns static add address=127.0.0.1 name=www.optaim.com
 ip dns static add address=127.0.0.1 name=opteama.com
 ip dns static add address=127.0.0.1 name=opter.co
 ip dns static add address=127.0.0.1 name=optiads.org
-ip dns static add address=127.0.0.1 name=go.optifuze.com
 ip dns static add address=127.0.0.1 name=optify.net
 ip dns static add address=127.0.0.1 name=analytics.optilead.co.uk
 ip dns static add address=127.0.0.1 name=optimahub.com
@@ -30105,7 +30096,6 @@ ip dns static add address=127.0.0.1 name=orrecede.top
 ip dns static add address=127.0.0.1 name=ortymarvin.top
 ip dns static add address=127.0.0.1 name=orvibum.cn
 ip dns static add address=127.0.0.1 name=somni.orvis.com
-ip dns static add address=127.0.0.1 name=orvzvaqig.com
 ip dns static add address=127.0.0.1 name=os-data.com
 ip dns static add address=127.0.0.1 name=os.tc
 ip dns static add address=127.0.0.1 name=cmp.osano.com
@@ -30136,7 +30126,6 @@ ip dns static add address=127.0.0.1 name=otaijing.com
 ip dns static add address=127.0.0.1 name=otaserve.net
 ip dns static add address=127.0.0.1 name=otcbuqxriuht.com
 ip dns static add address=127.0.0.1 name=otclick-adv.ru
-ip dns static add address=127.0.0.1 name=otcxzgcu.com
 ip dns static add address=127.0.0.1 name=otdsngganpsgru.com
 ip dns static add address=127.0.0.1 name=otentieschoo.site
 ip dns static add address=127.0.0.1 name=otesreviou.club
@@ -30146,6 +30135,7 @@ ip dns static add address=127.0.0.1 name=otherprofit.com
 ip dns static add address=127.0.0.1 name=othersonline.com
 ip dns static add address=127.0.0.1 name=othesarialiber.club
 ip dns static add address=127.0.0.1 name=othyightmare.club
+ip dns static add address=127.0.0.1 name=otmyoesv.com
 ip dns static add address=127.0.0.1 name=otnolabttmup.com
 ip dns static add address=127.0.0.1 name=otnolatrnup.com
 ip dns static add address=127.0.0.1 name=otoshiana.com
@@ -31219,6 +31209,7 @@ ip dns static add address=127.0.0.1 name=www.pjbjzf.com
 ip dns static add address=127.0.0.1 name=pjchkuksy.com
 ip dns static add address=127.0.0.1 name=pjcn.org
 ip dns static add address=127.0.0.1 name=pjnjskdvmbnup.com
+ip dns static add address=127.0.0.1 name=ssl86.pjshw.cn
 ip dns static add address=127.0.0.1 name=pjtra.com
 ip dns static add address=127.0.0.1 name=pv.pjtsu.com
 ip dns static add address=127.0.0.1 name=pjtymy.cn
@@ -31291,7 +31282,6 @@ ip dns static add address=127.0.0.1 name=playcvn.com
 ip dns static add address=127.0.0.1 name=somni.playdium.com
 ip dns static add address=127.0.0.1 name=weblogger-dynamic-lb.playdom.com
 ip dns static add address=127.0.0.1 name=hwt.player888.cn
-ip dns static add address=127.0.0.1 name=playerassets.info
 ip dns static add address=127.0.0.1 name=playercdn.net
 ip dns static add address=127.0.0.1 name=playerseo.club
 ip dns static add address=127.0.0.1 name=playertraffic.com
@@ -31328,6 +31318,7 @@ ip dns static add address=127.0.0.1 name=plexop.com
 ip dns static add address=127.0.0.1 name=plexop.net
 ip dns static add address=127.0.0.1 name=plexworks.de
 ip dns static add address=127.0.0.1 name=plgrrkpxnjrvac.com
+ip dns static add address=127.0.0.1 name=plhielbsmvlm.com
 ip dns static add address=127.0.0.1 name=plified.pro
 ip dns static add address=127.0.0.1 name=plightmoanshock.com
 ip dns static add address=127.0.0.1 name=tr.spain.plimsoll.es
@@ -31719,6 +31710,7 @@ ip dns static add address=127.0.0.1 name=pqlveeoq.com
 ip dns static add address=127.0.0.1 name=pqmfbegdsuwqiz.com
 ip dns static add address=127.0.0.1 name=pqpuraoxacaxw.com
 ip dns static add address=127.0.0.1 name=pqtiqpfyeeayjk.com
+ip dns static add address=127.0.0.1 name=pqvnjgeimffiu.com
 ip dns static add address=127.0.0.1 name=pqwtrq.xyz
 ip dns static add address=127.0.0.1 name=pqxadekhqotwkv.com
 ip dns static add address=127.0.0.1 name=pr-chart.com
@@ -31793,6 +31785,7 @@ ip dns static add address=127.0.0.1 name=preparesecretary.com
 ip dns static add address=127.0.0.1 name=prepenseprepensedefiance.com
 ip dns static add address=127.0.0.1 name=presatisfy.com
 ip dns static add address=127.0.0.1 name=presearchity.site
+ip dns static add address=127.0.0.1 name=presentationsportsman.com
 ip dns static add address=127.0.0.1 name=presentlyarch.com
 ip dns static add address=127.0.0.1 name=presentsh.club
 ip dns static add address=127.0.0.1 name=registration.presonus.com
@@ -31823,6 +31816,7 @@ ip dns static add address=127.0.0.1 name=prfctmney.com
 ip dns static add address=127.0.0.1 name=prfdesk.pro
 ip dns static add address=127.0.0.1 name=tr.price.com.hk
 ip dns static add address=127.0.0.1 name=pricedinfo.com
+ip dns static add address=127.0.0.1 name=pricefbcf.gq
 ip dns static add address=127.0.0.1 name=ifnyop.priceline.com
 ip dns static add address=127.0.0.1 name=stat-ssl.priceprice.com
 ip dns static add address=127.0.0.1 name=pplpiq.pricerunner.se
@@ -31983,6 +31977,7 @@ ip dns static add address=127.0.0.1 name=pixel.propublica.org
 ip dns static add address=127.0.0.1 name=stats.propublica.org
 ip dns static add address=127.0.0.1 name=propush.net
 ip dns static add address=127.0.0.1 name=prorentisol.com
+ip dns static add address=127.0.0.1 name=prosecutorcessationdial.com
 ip dns static add address=127.0.0.1 name=pixel.prosieben.de
 ip dns static add address=127.0.0.1 name=prospecteye.com
 ip dns static add address=127.0.0.1 name=mdws.prospera.ca
@@ -32102,6 +32097,7 @@ ip dns static add address=127.0.0.1 name=ptauphie.com
 ip dns static add address=127.0.0.1 name=ptauphiw.net
 ip dns static add address=127.0.0.1 name=ptaussee.net
 ip dns static add address=127.0.0.1 name=ptauvuph.com
+ip dns static add address=127.0.0.1 name=ptauxofi.net
 ip dns static add address=127.0.0.1 name=ptavizap.net
 ip dns static add address=127.0.0.1 name=ptawe.com
 ip dns static add address=127.0.0.1 name=ptawehex.net
@@ -32136,6 +32132,7 @@ ip dns static add address=127.0.0.1 name=ptoafauz.net
 ip dns static add address=127.0.0.1 name=ptoahaistais.com
 ip dns static add address=127.0.0.1 name=ptoangir.com
 ip dns static add address=127.0.0.1 name=ptogheeb.net
+ip dns static add address=127.0.0.1 name=ptonauls.net
 ip dns static add address=127.0.0.1 name=ptongouh.net
 ip dns static add address=127.0.0.1 name=ptookaih.net
 ip dns static add address=127.0.0.1 name=ptoosteg.com
@@ -32219,7 +32216,6 @@ ip dns static add address=127.0.0.1 name=puffypaste.com
 ip dns static add address=127.0.0.1 name=puffypull.com
 ip dns static add address=127.0.0.1 name=puffypurpose.com
 ip dns static add address=127.0.0.1 name=puhtml.com
-ip dns static add address=127.0.0.1 name=pukrazopchatka.com
 ip dns static add address=127.0.0.1 name=pulleymarketing.com
 ip dns static add address=127.0.0.1 name=pulpix.com
 ip dns static add address=127.0.0.1 name=pulpsbarndomed.com
@@ -32444,6 +32440,7 @@ ip dns static add address=127.0.0.1 name=vv1.pyhfxdm.cn
 ip dns static add address=127.0.0.1 name=pyhuiyu.com
 ip dns static add address=127.0.0.1 name=pyjamaican.club
 ip dns static add address=127.0.0.1 name=pymx5.com
+ip dns static add address=127.0.0.1 name=pyqsbuaeqiku.com
 ip dns static add address=127.0.0.1 name=pyroguanites.xyz
 ip dns static add address=127.0.0.1 name=pyxjwks.com
 ip dns static add address=127.0.0.1 name=pyzhtj.com
@@ -32502,6 +32499,7 @@ ip dns static add address=127.0.0.1 name=qbbnixdd.com
 ip dns static add address=127.0.0.1 name=qbcpicrtdje.com
 ip dns static add address=127.0.0.1 name=qbddhjrwe.com
 ip dns static add address=127.0.0.1 name=qbdgame.com
+ip dns static add address=127.0.0.1 name=qbgrlltue.com
 ip dns static add address=127.0.0.1 name=qbj8.com
 ip dns static add address=127.0.0.1 name=qbkzvophvva.com
 ip dns static add address=127.0.0.1 name=qbop.com
@@ -32530,7 +32528,6 @@ ip dns static add address=127.0.0.1 name=track.qcri.org
 ip dns static add address=127.0.0.1 name=qcupup.com
 ip dns static add address=127.0.0.1 name=m.qcw.com
 ip dns static add address=127.0.0.1 name=qd3u5eeuos.com
-ip dns static add address=127.0.0.1 name=qdanzopuyrbf.com
 ip dns static add address=127.0.0.1 name=qdatasales.com
 ip dns static add address=127.0.0.1 name=qdchunyu.com
 ip dns static add address=127.0.0.1 name=qdcode.com
@@ -32627,6 +32624,7 @@ ip dns static add address=127.0.0.1 name=undm.qibulo.com
 ip dns static add address=127.0.0.1 name=qichacha.ink
 ip dns static add address=127.0.0.1 name=qichetiemo.info
 ip dns static add address=127.0.0.1 name=about.qichetiemo.info
+ip dns static add address=127.0.0.1 name=qichetuoyun.com.cn
 ip dns static add address=127.0.0.1 name=qichexin.com
 ip dns static add address=127.0.0.1 name=www.qichexin.com
 ip dns static add address=127.0.0.1 name=path.qidian.com
@@ -32709,6 +32707,7 @@ ip dns static add address=127.0.0.1 name=qivaiw.com
 ip dns static add address=127.0.0.1 name=qivsod.com
 ip dns static add address=127.0.0.1 name=qiximed.com
 ip dns static add address=127.0.0.1 name=qixour.com
+ip dns static add address=127.0.0.1 name=qiyegongqiu1.qiyegongqiu.com
 ip dns static add address=127.0.0.1 name=qiyeit.com.cn
 ip dns static add address=127.0.0.1 name=api.cupid.qiyi.com
 ip dns static add address=127.0.0.1 name=msg2.video.qiyi.com
@@ -32740,7 +32739,6 @@ ip dns static add address=127.0.0.1 name=qjjto.com
 ip dns static add address=127.0.0.1 name=qjkxoniuj.com
 ip dns static add address=127.0.0.1 name=qjnofrpbv.com
 ip dns static add address=127.0.0.1 name=qjqfcsgnjk.com
-ip dns static add address=127.0.0.1 name=qjumbyzsnomwt.com
 ip dns static add address=127.0.0.1 name=qjvdxehyrnxema.com
 ip dns static add address=127.0.0.1 name=qjwaarvwpwic.com
 ip dns static add address=127.0.0.1 name=qjxszp.cn
@@ -32748,7 +32746,6 @@ ip dns static add address=127.0.0.1 name=bdgg.qjy168.com
 ip dns static add address=127.0.0.1 name=qjyzj.cn
 ip dns static add address=127.0.0.1 name=qkbwatmx.com
 ip dns static add address=127.0.0.1 name=qkkjd.com
-ip dns static add address=127.0.0.1 name=qkpmdadu.com
 ip dns static add address=127.0.0.1 name=qkptx.com
 ip dns static add address=127.0.0.1 name=qkrcmiwa289z.com
 ip dns static add address=127.0.0.1 name=qkspafpgg.com
@@ -32783,6 +32780,7 @@ ip dns static add address=127.0.0.1 name=qmname.com
 ip dns static add address=127.0.0.1 name=qmnyjs7jd1jp.com
 ip dns static add address=127.0.0.1 name=qmokxgfz.com
 ip dns static add address=127.0.0.1 name=qmovnrphbgqr.com
+ip dns static add address=127.0.0.1 name=qmripebxljdey.com
 ip dns static add address=127.0.0.1 name=qmvezbh0l28w.com
 ip dns static add address=127.0.0.1 name=qmxkmsmkjxlar.com
 ip dns static add address=127.0.0.1 name=qn-5.com
@@ -32818,7 +32816,6 @@ ip dns static add address=127.0.0.1 name=qpdjucfqezrfcq.com
 ip dns static add address=127.0.0.1 name=qpgjmdlq.com
 ip dns static add address=127.0.0.1 name=qphxgwnqgbkzwh.com
 ip dns static add address=127.0.0.1 name=qpljfpwdpk.com
-ip dns static add address=127.0.0.1 name=qpmsybxqvlje.ru
 ip dns static add address=127.0.0.1 name=qpmue.xyz
 ip dns static add address=127.0.0.1 name=qpmztk.cn
 ip dns static add address=127.0.0.1 name=qpokok.com
@@ -33126,7 +33123,6 @@ ip dns static add address=127.0.0.1 name=qrius.me
 ip dns static add address=127.0.0.1 name=qrksjrjppkam.com
 ip dns static add address=127.0.0.1 name=qrlgcrzmbuy.com
 ip dns static add address=127.0.0.1 name=qrlsx.com
-ip dns static add address=127.0.0.1 name=qrpwaluz.com
 ip dns static add address=127.0.0.1 name=qrtjwa.cn
 ip dns static add address=127.0.0.1 name=qrusnsgwuzgrs.com
 ip dns static add address=127.0.0.1 name=qruwrcenw.com
@@ -33325,7 +33321,6 @@ ip dns static add address=127.0.0.1 name=qydhjirz.com
 ip dns static add address=127.0.0.1 name=hades.qyer.com
 ip dns static add address=127.0.0.1 name=qyhwqie.cn
 ip dns static add address=127.0.0.1 name=qyixifzol.com
-ip dns static add address=127.0.0.1 name=qylxeorawht.com
 ip dns static add address=127.0.0.1 name=qyqc4s.com
 ip dns static add address=127.0.0.1 name=t75.qyqc4s.com
 ip dns static add address=127.0.0.1 name=qysyyg.com
@@ -33346,6 +33341,7 @@ ip dns static add address=127.0.0.1 name=qziqnfwzk.com
 ip dns static add address=127.0.0.1 name=qzkxt.com
 ip dns static add address=127.0.0.1 name=in.qzkxt.com
 ip dns static add address=127.0.0.1 name=s.qzkxt.com
+ip dns static add address=127.0.0.1 name=qzljxgufyvmupa.com
 ip dns static add address=127.0.0.1 name=qzlog.com
 ip dns static add address=127.0.0.1 name=qzmhnk.com
 ip dns static add address=127.0.0.1 name=tzym322.qzmhnk.com
@@ -33435,6 +33431,7 @@ ip dns static add address=127.0.0.1 name=raintwig.com
 ip dns static add address=127.0.0.1 name=rainwealth.com
 ip dns static add address=127.0.0.1 name=raiphupi.com
 ip dns static add address=127.0.0.1 name=raisingglisten.com
+ip dns static add address=127.0.0.1 name=raisingnegligencemanages.com
 ip dns static add address=127.0.0.1 name=raivikod.net
 ip dns static add address=127.0.0.1 name=rakamu.com
 ip dns static add address=127.0.0.1 name=affiliate.rakuten.co.jp
@@ -33636,7 +33633,6 @@ ip dns static add address=127.0.0.1 name=realizerecess.com
 ip dns static add address=127.0.0.1 name=realizevacation.com
 ip dns static add address=127.0.0.1 name=realleguasse.xyz
 ip dns static add address=127.0.0.1 name=realmatch.com
-ip dns static add address=127.0.0.1 name=ad.realmcdn.net
 ip dns static add address=127.0.0.1 name=realmedia.com
 ip dns static add address=127.0.0.1 name=realmpallduns.com
 ip dns static add address=127.0.0.1 name=realpush.media
@@ -34063,7 +34059,6 @@ ip dns static add address=127.0.0.1 name=revivestar.com
 ip dns static add address=127.0.0.1 name=pix.revjet.com
 ip dns static add address=127.0.0.1 name=revmob.com
 ip dns static add address=127.0.0.1 name=revoffers.com
-ip dns static add address=127.0.0.1 name=revolutelyplan.info
 ip dns static add address=127.0.0.1 name=onghfx.revolve.com
 ip dns static add address=127.0.0.1 name=revolvermaps.com
 ip dns static add address=127.0.0.1 name=revprotect.com
@@ -34106,7 +34101,6 @@ ip dns static add address=127.0.0.1 name=rfity.com
 ip dns static add address=127.0.0.1 name=rfksrv.com
 ip dns static add address=127.0.0.1 name=rfmdtsiekds.com
 ip dns static add address=127.0.0.1 name=rfr-69.com
-ip dns static add address=127.0.0.1 name=rgcblgor.com
 ip dns static add address=127.0.0.1 name=rgdhct.cn
 ip dns static add address=127.0.0.1 name=rgdhiucvbtkpou.com
 ip dns static add address=127.0.0.1 name=rgiijsfm.com
@@ -34183,6 +34177,7 @@ ip dns static add address=127.0.0.1 name=rightstats.com
 ip dns static add address=127.0.0.1 name=rigi9bury.com
 ip dns static add address=127.0.0.1 name=beyondmeasure.rigoltech.com
 ip dns static add address=127.0.0.1 name=rigourcrispblaspheme.com
+ip dns static add address=127.0.0.1 name=rigourflickmarketing.com
 ip dns static add address=127.0.0.1 name=rilelogicbuy.com
 ip dns static add address=127.0.0.1 name=riluaneth.com
 ip dns static add address=127.0.0.1 name=smetrics.rimac.com
@@ -34243,7 +34238,6 @@ ip dns static add address=127.0.0.1 name=rjaepduiirw.com
 ip dns static add address=127.0.0.1 name=rjiau.com
 ip dns static add address=127.0.0.1 name=prc.rjje4.com
 ip dns static add address=127.0.0.1 name=rjk1.com
-ip dns static add address=127.0.0.1 name=rjvochbc.com
 ip dns static add address=127.0.0.1 name=rjzwheddxjuk.com
 ip dns static add address=127.0.0.1 name=br.rk.com
 ip dns static add address=127.0.0.1 name=rkauzlyh.com
@@ -34458,7 +34452,6 @@ ip dns static add address=127.0.0.1 name=rpqknedxr.com
 ip dns static add address=127.0.0.1 name=rprgn.cn
 ip dns static add address=127.0.0.1 name=rprygapywrk.com
 ip dns static add address=127.0.0.1 name=rpts.org
-ip dns static add address=127.0.0.1 name=rpuuwsjcu.com
 ip dns static add address=127.0.0.1 name=rqbxfbls.com
 ip dns static add address=127.0.0.1 name=rqgsf.com
 ip dns static add address=127.0.0.1 name=rqhere.com
@@ -34469,7 +34462,6 @@ ip dns static add address=127.0.0.1 name=1.rr95.com
 ip dns static add address=127.0.0.1 name=rrdtjj.top
 ip dns static add address=127.0.0.1 name=rriedskillear.club
 ip dns static add address=127.0.0.1 name=rrimpl.com
-ip dns static add address=127.0.0.1 name=rrjgenyklff.com
 ip dns static add address=127.0.0.1 name=rrriyoomil.com
 ip dns static add address=127.0.0.1 name=rrrwwwa.com
 ip dns static add address=127.0.0.1 name=fozhu.rrsdl.com
@@ -34639,7 +34631,6 @@ ip dns static add address=127.0.0.1 name=ruyidk.com
 ip dns static add address=127.0.0.1 name=ruyiqufu.com
 ip dns static add address=127.0.0.1 name=a6s.ruyiqufu.com
 ip dns static add address=127.0.0.1 name=ruytvzdcavjsjh.com
-ip dns static add address=127.0.0.1 name=rvbibmaixelnq.com
 ip dns static add address=127.0.0.1 name=rvedfxeljxo.com
 ip dns static add address=127.0.0.1 name=rviceschoolr.club
 ip dns static add address=127.0.0.1 name=rvkcpqz.com
@@ -34675,7 +34666,6 @@ ip dns static add address=127.0.0.1 name=ryaqdetppzpw.com
 ip dns static add address=127.0.0.1 name=rybystalfracted.fun
 ip dns static add address=127.0.0.1 name=rydresa.info
 ip dns static add address=127.0.0.1 name=ryfeaturalpe.space
-ip dns static add address=127.0.0.1 name=rygiukfvtos.com
 ip dns static add address=127.0.0.1 name=ryhastille.info
 ip dns static add address=127.0.0.1 name=ryke4peep.com
 ip dns static add address=127.0.0.1 name=ryminos.com
@@ -34796,7 +34786,6 @@ ip dns static add address=127.0.0.1 name=get.sage.com
 ip dns static add address=127.0.0.1 name=sageanalyst.net
 ip dns static add address=127.0.0.1 name=sagetrc.com
 ip dns static add address=127.0.0.1 name=sahishodilitt.info
-ip dns static add address=127.0.0.1 name=sahraex7vah.info
 ip dns static add address=127.0.0.1 name=sail-horizon.com
 ip dns static add address=127.0.0.1 name=sail-personalize.com
 ip dns static add address=127.0.0.1 name=sailcovertend.com
@@ -34915,7 +34904,6 @@ ip dns static add address=127.0.0.1 name=sarcasticlinezomby.com
 ip dns static add address=127.0.0.1 name=sare25.com
 ip dns static add address=127.0.0.1 name=saredithere.club
 ip dns static add address=127.0.0.1 name=eulerian.sarenza.com
-ip dns static add address=127.0.0.1 name=sarimsol.com
 ip dns static add address=127.0.0.1 name=sarjor.pw
 ip dns static add address=127.0.0.1 name=sarov.ws
 ip dns static add address=127.0.0.1 name=sarydrinkletr.site
@@ -34969,7 +34957,6 @@ ip dns static add address=127.0.0.1 name=zug.sbb.ch
 ip dns static add address=127.0.0.1 name=sbbanalytics.com
 ip dns static add address=127.0.0.1 name=sbc7wfnaakau.com
 ip dns static add address=127.0.0.1 name=sbcpower.com
-ip dns static add address=127.0.0.1 name=sbdtds.com
 ip dns static add address=127.0.0.1 name=sbenx.com
 ip dns static add address=127.0.0.1 name=m.sbenx.com
 ip dns static add address=127.0.0.1 name=sbfsdvc.com
@@ -35766,6 +35753,7 @@ ip dns static add address=127.0.0.1 name=shoawhom.com
 ip dns static add address=127.0.0.1 name=shockersheva.com
 ip dns static add address=127.0.0.1 name=shockinggrass.com
 ip dns static add address=127.0.0.1 name=shockingship.com
+ip dns static add address=127.0.0.1 name=shodcryoft.com
 ip dns static add address=127.0.0.1 name=shodroph.net
 ip dns static add address=127.0.0.1 name=ynudoo.shoeby.nl
 ip dns static add address=127.0.0.1 name=metrics.shoedazzle.com
@@ -35919,6 +35907,7 @@ ip dns static add address=127.0.0.1 name=shypqc.com
 ip dns static add address=127.0.0.1 name=shyseed.com
 ip dns static add address=127.0.0.1 name=si1ef.com
 ip dns static add address=127.0.0.1 name=si9377.com
+ip dns static add address=127.0.0.1 name=siamtheo.online
 ip dns static add address=127.0.0.1 name=siamzone.com
 ip dns static add address=127.0.0.1 name=sibautomation.com
 ip dns static add address=127.0.0.1 name=sibilantcliffrecommendation.com
@@ -36174,6 +36163,7 @@ ip dns static add address=127.0.0.1 name=smetrics.sisal.it
 ip dns static add address=127.0.0.1 name=sisewepod.com
 ip dns static add address=127.0.0.1 name=sis8.sisley-paris.com
 ip dns static add address=127.0.0.1 name=sistacked.com
+ip dns static add address=127.0.0.1 name=sisterncoalitical.info
 ip dns static add address=127.0.0.1 name=sitcom24.com
 ip dns static add address=127.0.0.1 name=site-submit.com.ua
 ip dns static add address=127.0.0.1 name=site24x7rum.com
@@ -36259,7 +36249,6 @@ ip dns static add address=127.0.0.1 name=sjscxhknxeek.com
 ip dns static add address=127.0.0.1 name=sjv.io
 ip dns static add address=127.0.0.1 name=sjy-stone.com.cn
 ip dns static add address=127.0.0.1 name=m.sjzhushou.com
-ip dns static add address=127.0.0.1 name=sdksitter.m.sjzhushou.com
 ip dns static add address=127.0.0.1 name=sousuo.xm.sjzhushou.com
 ip dns static add address=127.0.0.1 name=static.m.sjzhushou.com
 ip dns static add address=127.0.0.1 name=sjzqu.com
@@ -36298,7 +36287,6 @@ ip dns static add address=127.0.0.1 name=metrics.sky.it
 ip dns static add address=127.0.0.1 name=sa.sky.it
 ip dns static add address=127.0.0.1 name=smetrics.sky.it
 ip dns static add address=127.0.0.1 name=skyactivate.com
-ip dns static add address=127.0.0.1 name=affiliatehub.skybet.com
 ip dns static add address=127.0.0.1 name=skye6oner.com
 ip dns static add address=127.0.0.1 name=skyglue.com
 ip dns static add address=127.0.0.1 name=skyjh.cn
@@ -36485,7 +36473,6 @@ ip dns static add address=127.0.0.1 name=smetrics.smbcnikko.co.jp
 ip dns static add address=127.0.0.1 name=rs.smc.tf
 ip dns static add address=127.0.0.1 name=smct.co
 ip dns static add address=127.0.0.1 name=trx.smdatalabs.com
-ip dns static add address=127.0.0.1 name=smectapop12.pl
 ip dns static add address=127.0.0.1 name=metrics.smedia.com.au
 ip dns static add address=127.0.0.1 name=smenqskfmpfxnb.bid
 ip dns static add address=127.0.0.1 name=smf82.cn
@@ -36545,6 +36532,7 @@ ip dns static add address=127.0.0.1 name=errors.snackly.co
 ip dns static add address=127.0.0.1 name=logger.snackly.co
 ip dns static add address=127.0.0.1 name=erutinmo.snagajob.com
 ip dns static add address=127.0.0.1 name=erutinmos.snagajob.com
+ip dns static add address=127.0.0.1 name=snagbaudhulas.com
 ip dns static add address=127.0.0.1 name=snaglighter.com
 ip dns static add address=127.0.0.1 name=snammar-jumntal.com
 ip dns static add address=127.0.0.1 name=snap.com
@@ -36561,7 +36549,6 @@ ip dns static add address=127.0.0.1 name=snapsed.club
 ip dns static add address=127.0.0.1 name=snapsmedia.io
 ip dns static add address=127.0.0.1 name=snapwidget.com
 ip dns static add address=127.0.0.1 name=m.snay.top
-ip dns static add address=127.0.0.1 name=snbybgwiyfug.com
 ip dns static add address=127.0.0.1 name=webhit.snd.no
 ip dns static add address=127.0.0.1 name=snd.tc
 ip dns static add address=127.0.0.1 name=sndkorea.co.kr
@@ -36970,8 +36957,6 @@ ip dns static add address=127.0.0.1 name=somn.sonypictures.com
 ip dns static add address=127.0.0.1 name=metrics.jp.sonystyle.com
 ip dns static add address=127.0.0.1 name=ssc.sonystyle.com.cn
 ip dns static add address=127.0.0.1 name=cfhjqg.sonyunara.jp
-ip dns static add address=127.0.0.1 name=s2.soodatmish.com
-ip dns static add address=127.0.0.1 name=soodatmish.com
 ip dns static add address=127.0.0.1 name=soofeest.net
 ip dns static add address=127.0.0.1 name=pass1.soogif.com
 ip dns static add address=127.0.0.1 name=pass2.soogif.com
@@ -36979,6 +36964,7 @@ ip dns static add address=127.0.0.1 name=sooiipveodjxb.com
 ip dns static add address=127.0.0.1 name=soonbigo.com
 ip dns static add address=127.0.0.1 name=soonyou123.com
 ip dns static add address=127.0.0.1 name=soosooka.com
+ip dns static add address=127.0.0.1 name=sootuglyconfer.com
 ip dns static add address=127.0.0.1 name=soperson.com
 ip dns static add address=127.0.0.1 name=sophang8.com
 ip dns static add address=127.0.0.1 name=sophi.io
@@ -37103,6 +37089,7 @@ ip dns static add address=127.0.0.1 name=spectate.com
 ip dns static add address=127.0.0.1 name=spectato.com
 ip dns static add address=127.0.0.1 name=spectram.pro
 ip dns static add address=127.0.0.1 name=elqapp.spectrum.com
+ip dns static add address=127.0.0.1 name=collector.pi.spectrum.net
 ip dns static add address=127.0.0.1 name=specularpro.site
 ip dns static add address=127.0.0.1 name=spedhowusing.com
 ip dns static add address=127.0.0.1 name=speeb.com
@@ -37176,6 +37163,7 @@ ip dns static add address=127.0.0.1 name=sponsorpay.com
 ip dns static add address=127.0.0.1 name=tracking.sponsorpay.com
 ip dns static add address=127.0.0.1 name=sponsorselect.com
 ip dns static add address=127.0.0.1 name=spontaneousguarded.com
+ip dns static add address=127.0.0.1 name=spontaneousshady.com
 ip dns static add address=127.0.0.1 name=spoonslaxoil.com
 ip dns static add address=127.0.0.1 name=ldqbuy.sport-express.ru
 ip dns static add address=127.0.0.1 name=insights.sport1.de
@@ -37361,6 +37349,7 @@ ip dns static add address=127.0.0.1 name=clc.stackoverflow.com
 ip dns static add address=127.0.0.1 name=stackpathdns.com
 ip dns static add address=127.0.0.1 name=countly.stackvaults.com
 ip dns static add address=127.0.0.1 name=stadsvc.com
+ip dns static add address=127.0.0.1 name=staffrural.com
 ip dns static add address=127.0.0.1 name=stagingjobshq.com
 ip dns static add address=127.0.0.1 name=staglance.club
 ip dns static add address=127.0.0.1 name=widget.stagram.com
@@ -37451,7 +37440,6 @@ ip dns static add address=127.0.0.1 name=stat.media
 ip dns static add address=127.0.0.1 name=stat.pl
 ip dns static add address=127.0.0.1 name=s4.hit.stat.pl
 ip dns static add address=127.0.0.1 name=stat.social
-ip dns static add address=127.0.0.1 name=stat0808.info
 ip dns static add address=127.0.0.1 name=stat24.com
 ip dns static add address=127.0.0.1 name=s4.hit.stat24.com
 ip dns static add address=127.0.0.1 name=stat24.ru
@@ -37707,6 +37695,7 @@ ip dns static add address=127.0.0.1 name=gocp.stroeermediabrands.de
 ip dns static add address=127.0.0.1 name=js.stroeermediabrands.de
 ip dns static add address=127.0.0.1 name=strokenail.com
 ip dns static add address=127.0.0.1 name=strongexplain.com
+ip dns static add address=127.0.0.1 name=strongholdtommycouncilman.com
 ip dns static add address=127.0.0.1 name=strossle.it
 ip dns static add address=127.0.0.1 name=stroublederaa.club
 ip dns static add address=127.0.0.1 name=stroublederel.club
@@ -37724,6 +37713,7 @@ ip dns static add address=127.0.0.1 name=data.studybreakmedia.com
 ip dns static add address=127.0.0.1 name=gdpr.studybreakmedia.com
 ip dns static add address=127.0.0.1 name=omniture.stuff.co.nz
 ip dns static add address=127.0.0.1 name=somniture.stuff.co.nz
+ip dns static add address=127.0.0.1 name=stuffedprofessional.com
 ip dns static add address=127.0.0.1 name=stumbledabetsuburb.com
 ip dns static add address=127.0.0.1 name=stunninglover.com
 ip dns static add address=127.0.0.1 name=stuoe.com
@@ -38182,13 +38172,12 @@ ip dns static add address=127.0.0.1 name=szpengliye.com
 ip dns static add address=127.0.0.1 name=szpgzn.com
 ip dns static add address=127.0.0.1 name=szpl0.com
 ip dns static add address=127.0.0.1 name=szprhglyodqj.com
+ip dns static add address=127.0.0.1 name=szpsngbow.com
 ip dns static add address=127.0.0.1 name=szqifu.com
 ip dns static add address=127.0.0.1 name=e.szqifu.com
 ip dns static add address=127.0.0.1 name=m.szqifu.com
 ip dns static add address=127.0.0.1 name=szqipin.cn
 ip dns static add address=127.0.0.1 name=szrk3.com
-ip dns static add address=127.0.0.1 name=szshouzhai.com
-ip dns static add address=127.0.0.1 name=www.szshouzhai.com
 ip dns static add address=127.0.0.1 name=sztbjs.com
 ip dns static add address=127.0.0.1 name=szvr.com
 ip dns static add address=127.0.0.1 name=szwsesc.cn
@@ -38257,7 +38246,6 @@ ip dns static add address=127.0.0.1 name=tabunder.com
 ip dns static add address=127.0.0.1 name=fpb1.tabuzhe.com
 ip dns static add address=127.0.0.1 name=tabwl.com
 ip dns static add address=127.0.0.1 name=tabyee.cn
-ip dns static add address=127.0.0.1 name=tacbljtvygnokv.com
 ip dns static add address=127.0.0.1 name=tacklesuggestindoors.com
 ip dns static add address=127.0.0.1 name=tacoda.net
 ip dns static add address=127.0.0.1 name=tacrater.com
@@ -38315,6 +38303,7 @@ ip dns static add address=127.0.0.1 name=talhundrewr.club
 ip dns static add address=127.0.0.1 name=taljnpgg.com
 ip dns static add address=127.0.0.1 name=talk2none.com
 ip dns static add address=127.0.0.1 name=talk4anyone.com
+ip dns static add address=127.0.0.1 name=talkingaboutfirms.ga
 ip dns static add address=127.0.0.1 name=talkingdata.cn
 ip dns static add address=127.0.0.1 name=www.talkingdata.cn
 ip dns static add address=127.0.0.1 name=talkingdata.com
@@ -38583,7 +38572,6 @@ ip dns static add address=127.0.0.1 name=tbkjttmdcjduhs.com
 ip dns static add address=127.0.0.1 name=cbn.tbn.ru
 ip dns static add address=127.0.0.1 name=service-stat.tbn.ru
 ip dns static add address=127.0.0.1 name=tbnmmjm.com
-ip dns static add address=127.0.0.1 name=cgi.tbs.co.jp
 ip dns static add address=127.0.0.1 name=scis.tbs.co.jp
 ip dns static add address=127.0.0.1 name=analytics.tbs.com
 ip dns static add address=127.0.0.1 name=tbtrck.com
@@ -38891,6 +38879,7 @@ ip dns static add address=127.0.0.1 name=tesvitewbrl.com
 ip dns static add address=127.0.0.1 name=tetfer.com
 ip dns static add address=127.0.0.1 name=tetigi.com
 ip dns static add address=127.0.0.1 name=tetoolbox.com
+ip dns static add address=127.0.0.1 name=teueondocabsu.com
 ip dns static add address=127.0.0.1 name=wbtrkk.teufel.de
 ip dns static add address=127.0.0.1 name=wbtrkk.teufelaudio.at
 ip dns static add address=127.0.0.1 name=wbtrkk.teufelaudio.com
@@ -38912,6 +38901,7 @@ ip dns static add address=127.0.0.1 name=tf2www.com
 ip dns static add address=127.0.0.1 name=tf58.com
 ip dns static add address=127.0.0.1 name=tfa5e.top
 ip dns static add address=127.0.0.1 name=tfaa2.com
+ip dns static add address=127.0.0.1 name=tfaln.com
 ip dns static add address=127.0.0.1 name=tfatalonepres.top
 ip dns static add address=127.0.0.1 name=tfg8.com
 ip dns static add address=127.0.0.1 name=tfiph.com
@@ -38947,11 +38937,13 @@ ip dns static add address=127.0.0.1 name=thaickoo.net
 ip dns static add address=127.0.0.1 name=webstats.thaindian.com
 ip dns static add address=127.0.0.1 name=eulerian.thalasseo.com
 ip dns static add address=127.0.0.1 name=thamsais.com
+ip dns static add address=127.0.0.1 name=thaninncoos.com
 ip dns static add address=127.0.0.1 name=thankfuladdress.com
 ip dns static add address=127.0.0.1 name=thanksinhabitedregretful.com
 ip dns static add address=127.0.0.1 name=thansendmaterial-14.live
 ip dns static add address=127.0.0.1 name=tharbadir.com
 ip dns static add address=127.0.0.1 name=thathislitt.ru
+ip dns static add address=127.0.0.1 name=thaudray.com
 ip dns static add address=127.0.0.1 name=thauftoa.net
 ip dns static add address=127.0.0.1 name=thaveksi.net
 ip dns static add address=127.0.0.1 name=statm.the-adult-company.com
@@ -39142,7 +39134,6 @@ ip dns static add address=127.0.0.1 name=thirstytwig.com
 ip dns static add address=127.0.0.1 name=thiscdn.com
 ip dns static add address=127.0.0.1 name=thishare.com
 ip dns static add address=127.0.0.1 name=thisisacoolthing.com
-ip dns static add address=127.0.0.1 name=thisisanothercoolthing.com
 ip dns static add address=127.0.0.1 name=a02342.thisisthewestcountry.co.uk
 ip dns static add address=127.0.0.1 name=get.thisisvegas.com
 ip dns static add address=127.0.0.1 name=thisiswaldo.com
@@ -39153,7 +39144,6 @@ ip dns static add address=127.0.0.1 name=thnqemehtyfe.com
 ip dns static add address=127.0.0.1 name=thoaltie.net
 ip dns static add address=127.0.0.1 name=thoartuw.com
 ip dns static add address=127.0.0.1 name=thoathie.net
-ip dns static add address=127.0.0.1 name=thodsserentlya.info
 ip dns static add address=127.0.0.1 name=thofandew.com
 ip dns static add address=127.0.0.1 name=thogrypufe.pro
 ip dns static add address=127.0.0.1 name=thomagejut.site
@@ -39211,6 +39201,7 @@ ip dns static add address=127.0.0.1 name=tianhuafund.cn
 ip dns static add address=127.0.0.1 name=fdd.tianhuafund.cn
 ip dns static add address=127.0.0.1 name=tianhuicun.com.cn
 ip dns static add address=127.0.0.1 name=tianji520.cn
+ip dns static add address=127.0.0.1 name=vj.tianji520.cn
 ip dns static add address=127.0.0.1 name=tianjieleather.com
 ip dns static add address=127.0.0.1 name=counter.tianjimedia.com
 ip dns static add address=127.0.0.1 name=media.tianjimedia.com
@@ -39309,6 +39300,7 @@ ip dns static add address=127.0.0.1 name=tiller.co
 ip dns static add address=127.0.0.1 name=tilltucked.com
 ip dns static add address=127.0.0.1 name=metrics.tim.it
 ip dns static add address=127.0.0.1 name=ssl-metrics.tim.it
+ip dns static add address=127.0.0.1 name=timai-mao.com
 ip dns static add address=127.0.0.1 name=timbercooling.com
 ip dns static add address=127.0.0.1 name=metrics.time.com
 ip dns static add address=127.0.0.1 name=smetrics.time.com
@@ -39406,7 +39398,6 @@ ip dns static add address=127.0.0.1 name=tizernet.com
 ip dns static add address=127.0.0.1 name=tiznmktqel.com
 ip dns static add address=127.0.0.1 name=tj-cmys.com
 ip dns static add address=127.0.0.1 name=www.tj-cmys.com
-ip dns static add address=127.0.0.1 name=shj.tjawst.com
 ip dns static add address=127.0.0.1 name=tjec.gov.cn
 ip dns static add address=127.0.0.1 name=tjgxzs.com
 ip dns static add address=127.0.0.1 name=d.tjgxzs.com
@@ -39490,6 +39481,7 @@ ip dns static add address=127.0.0.1 name=tnarzc.com
 ip dns static add address=127.0.0.1 name=tnative.ru
 ip dns static add address=127.0.0.1 name=tnbyhwawsh.com
 ip dns static add address=127.0.0.1 name=tncexvzu.com
+ip dns static add address=127.0.0.1 name=tncomg.com
 ip dns static add address=127.0.0.1 name=tncred.com
 ip dns static add address=127.0.0.1 name=tnctrx.com
 ip dns static add address=127.0.0.1 name=tngmn.com
@@ -39506,6 +39498,7 @@ ip dns static add address=127.0.0.1 name=to8to.com
 ip dns static add address=127.0.0.1 name=toagluji.com
 ip dns static add address=127.0.0.1 name=toalhjpw.com
 ip dns static add address=127.0.0.1 name=toapsira.net
+ip dns static add address=127.0.0.1 name=toateeli.net
 ip dns static add address=127.0.0.1 name=toboads.com
 ip dns static add address=127.0.0.1 name=toc.io
 ip dns static add address=127.0.0.1 name=tochgw.com
@@ -39977,7 +39970,6 @@ ip dns static add address=127.0.0.1 name=transientdeteriorate.com
 ip dns static add address=127.0.0.1 name=eel.transistor.fm
 ip dns static add address=127.0.0.1 name=marketing.translations.com
 ip dns static add address=127.0.0.1 name=transmittericilysunstroke.com
-ip dns static add address=127.0.0.1 name=android-sdk31.transpera.com
 ip dns static add address=127.0.0.1 name=marketing.transperfect.com
 ip dns static add address=127.0.0.1 name=go.transversal.com
 ip dns static add address=127.0.0.1 name=trapasol.com
@@ -39988,7 +39980,6 @@ ip dns static add address=127.0.0.1 name=api.traq.li
 ip dns static add address=127.0.0.1 name=traq.li
 ip dns static add address=127.0.0.1 name=trasholita.com
 ip dns static add address=127.0.0.1 name=tratefirearly.top
-ip dns static add address=127.0.0.1 name=traumasister.tk
 ip dns static add address=127.0.0.1 name=traumaticnoiseless.com
 ip dns static add address=127.0.0.1 name=travangeind.club
 ip dns static add address=127.0.0.1 name=travel-together.cn
@@ -39996,6 +39987,7 @@ ip dns static add address=127.0.0.1 name=wesbgz.travel.co.jp
 ip dns static add address=127.0.0.1 name=traveladvertising.com
 ip dns static add address=127.0.0.1 name=as.travelbook.de
 ip dns static add address=127.0.0.1 name=smetrics.travelchannel.com
+ip dns static add address=127.0.0.1 name=travelinskydream.ga
 ip dns static add address=127.0.0.1 name=marketing.travelks.com
 ip dns static add address=127.0.0.1 name=travelscream.com
 ip dns static add address=127.0.0.1 name=travelmail.traveltek.net
@@ -40024,7 +40016,6 @@ ip dns static add address=127.0.0.1 name=pixel.staging.tree.com
 ip dns static add address=127.0.0.1 name=pixel.tree.com
 ip dns static add address=127.0.0.1 name=widgets.tree.com
 ip dns static add address=127.0.0.1 name=mv.treehousei.com
-ip dns static add address=127.0.0.1 name=statsdev.treesd.com
 ip dns static add address=127.0.0.1 name=trejar.com
 ip dns static add address=127.0.0.1 name=trekmedia.net
 ip dns static add address=127.0.0.1 name=treksol.net
@@ -40040,6 +40031,7 @@ ip dns static add address=127.0.0.1 name=objects.tremormedia.com
 ip dns static add address=127.0.0.1 name=trendcounter.com
 ip dns static add address=127.0.0.1 name=trendcounter.de
 ip dns static add address=127.0.0.1 name=trendemon.com
+ip dns static add address=127.0.0.1 name=trendgodforsaken.com
 ip dns static add address=127.0.0.1 name=collector.trendmd.com
 ip dns static add address=127.0.0.1 name=js.trendmd.com
 ip dns static add address=127.0.0.1 name=cgqkhc.trendyol.com
@@ -40202,6 +40194,7 @@ ip dns static add address=127.0.0.1 name=tswmel.com
 ip dns static add address=127.0.0.1 name=tsyndicate.com
 ip dns static add address=127.0.0.1 name=tsyndolls.com
 ip dns static add address=127.0.0.1 name=tszritnomuy.com
+ip dns static add address=127.0.0.1 name=tsztzjvpex.com
 ip dns static add address=127.0.0.1 name=tt1030.com
 ip dns static add address=127.0.0.1 name=tt114.net
 ip dns static add address=127.0.0.1 name=tj.tt1386.com
@@ -40218,7 +40211,7 @@ ip dns static add address=127.0.0.1 name=ttgikcpmkpul.com
 ip dns static add address=127.0.0.1 name=ttgmjfgldgv9ed10.com
 ip dns static add address=127.0.0.1 name=ttheathereco.site
 ip dns static add address=127.0.0.1 name=smetrics.ttiinc.com
-ip dns static add address=127.0.0.1 name=webtraffic.ttinet.com
+ip dns static add address=127.0.0.1 name=ttinet.com
 ip dns static add address=127.0.0.1 name=ttklg.net
 ip dns static add address=127.0.0.1 name=ttlm.cc
 ip dns static add address=127.0.0.1 name=ttlmodels.com
@@ -40347,6 +40340,7 @@ ip dns static add address=127.0.0.1 name=www.turn.com
 ip dns static add address=127.0.0.1 name=metrics.turner.com
 ip dns static add address=127.0.0.1 name=tenilstats.turner.com
 ip dns static add address=127.0.0.1 name=turnsocial.com
+ip dns static add address=127.0.0.1 name=turtlesootheongoing.com
 ip dns static add address=127.0.0.1 name=tusno.com
 ip dns static add address=127.0.0.1 name=tut-64.com
 ip dns static add address=127.0.0.1 name=tutorinforget.site
@@ -40471,6 +40465,7 @@ ip dns static add address=127.0.0.1 name=vol.txdwc.cn
 ip dns static add address=127.0.0.1 name=txkjad.com
 ip dns static add address=127.0.0.1 name=txn5n0.cn
 ip dns static add address=127.0.0.1 name=txsadql.cn
+ip dns static add address=127.0.0.1 name=txstatic.cn
 ip dns static add address=127.0.0.1 name=txt.eu
 ip dns static add address=127.0.0.1 name=txt2017.com
 ip dns static add address=127.0.0.1 name=h.txt2017.com
@@ -40700,7 +40695,6 @@ ip dns static add address=127.0.0.1 name=udrig.com
 ip dns static add address=127.0.0.1 name=www.udrig.com
 ip dns static add address=127.0.0.1 name=udrivemyr54.com
 ip dns static add address=127.0.0.1 name=event-collector.udsrv.com
-ip dns static add address=127.0.0.1 name=udtekwuh.com
 ip dns static add address=127.0.0.1 name=ue2bm3.cn
 ip dns static add address=127.0.0.1 name=ueadlian.com
 ip dns static add address=127.0.0.1 name=ue.ueadlian.com
@@ -40740,7 +40734,6 @@ ip dns static add address=127.0.0.1 name=c.ugg66.com
 ip dns static add address=127.0.0.1 name=t2.ugg66.com
 ip dns static add address=127.0.0.1 name=ughdqpwtfabsqg.com
 ip dns static add address=127.0.0.1 name=ughhimtoy.com
-ip dns static add address=127.0.0.1 name=ugmfvqsu.ru
 ip dns static add address=127.0.0.1 name=ugmovxfikvhct.com
 ip dns static add address=127.0.0.1 name=ugoooo.com
 ip dns static add address=127.0.0.1 name=ugoupams.com
@@ -40809,7 +40802,6 @@ ip dns static add address=127.0.0.1 name=ukcomparends.pro
 ip dns static add address=127.0.0.1 name=ukeiae.com
 ip dns static add address=127.0.0.1 name=ukfpgaeihxamg.com
 ip dns static add address=127.0.0.1 name=ukgkugxpzqvqk.com
-ip dns static add address=127.0.0.1 name=ukqevyhhs.com
 ip dns static add address=127.0.0.1 name=counter.ukr.net
 ip dns static add address=127.0.0.1 name=target.ukr.net
 ip dns static add address=127.0.0.1 name=mdws.ukrainiancu.com
@@ -40844,7 +40836,6 @@ ip dns static add address=127.0.0.1 name=ultranote.org
 ip dns static add address=127.0.0.1 name=ultunivesrega.fun
 ip dns static add address=127.0.0.1 name=ulukaris.com
 ip dns static add address=127.0.0.1 name=uluswozzel.info
-ip dns static add address=127.0.0.1 name=ulyrpgnqeyo.com
 ip dns static add address=127.0.0.1 name=ulyssianeq.club
 ip dns static add address=127.0.0.1 name=um0.cn
 ip dns static add address=127.0.0.1 name=www.um0.cn
@@ -40859,6 +40850,7 @@ ip dns static add address=127.0.0.1 name=umbbs.cn
 ip dns static add address=127.0.0.1 name=umbel.com
 ip dns static add address=127.0.0.1 name=tracking.umbrella.com
 ip dns static add address=127.0.0.1 name=umcbbt.com
+ip dns static add address=127.0.0.1 name=umdycgbklen.com
 ip dns static add address=127.0.0.1 name=umebiggestern.club
 ip dns static add address=127.0.0.1 name=umehoars.club
 ip dns static add address=127.0.0.1 name=umekana.ru
@@ -41048,6 +41040,7 @@ ip dns static add address=127.0.0.1 name=unseen2020.com
 ip dns static add address=127.0.0.1 name=unskilledsqueakjunk.com
 ip dns static add address=127.0.0.1 name=unta.cn
 ip dns static add address=127.0.0.1 name=untabilityde.site
+ip dns static add address=127.0.0.1 name=untaryes.online
 ip dns static add address=127.0.0.1 name=phoenix.untd.com
 ip dns static add address=127.0.0.1 name=prod.untd.com
 ip dns static add address=127.0.0.1 name=track.untd.com
@@ -41060,6 +41053,7 @@ ip dns static add address=127.0.0.1 name=unumbonum.com
 ip dns static add address=127.0.0.1 name=unwieldyhealth.com
 ip dns static add address=127.0.0.1 name=unwillingcalumny.com
 ip dns static add address=127.0.0.1 name=unwofulcountys.com
+ip dns static add address=127.0.0.1 name=unwyiror.com
 ip dns static add address=127.0.0.1 name=uo12.com
 ip dns static add address=127.0.0.1 name=m.uocb.cn
 ip dns static add address=127.0.0.1 name=uod2quk646.com
@@ -41177,6 +41171,7 @@ ip dns static add address=127.0.0.1 name=urtirepor.com
 ip dns static add address=127.0.0.1 name=uruswan.com
 ip dns static add address=127.0.0.1 name=analytics.urx.io
 ip dns static add address=127.0.0.1 name=urymiseshabe.club
+ip dns static add address=127.0.0.1 name=urynnngdrt.com
 ip dns static add address=127.0.0.1 name=uryobtainlyi.club
 ip dns static add address=127.0.0.1 name=urzkcvnttopr.com
 ip dns static add address=127.0.0.1 name=us.cf
@@ -41241,11 +41236,11 @@ ip dns static add address=127.0.0.1 name=ushooque.net
 ip dns static add address=127.0.0.1 name=usingde.com
 ip dns static add address=127.0.0.1 name=g.usingde.com
 ip dns static add address=127.0.0.1 name=pic.usingde.com
-ip dns static add address=127.0.0.1 name=usjguyybhhtjos.com
 ip dns static add address=127.0.0.1 name=hcjpbc.usmagazine.com
 ip dns static add address=127.0.0.1 name=link.messaging.usnews.com
 ip dns static add address=127.0.0.1 name=usocial.pro
 ip dns static add address=127.0.0.1 name=cookie.sync.usonar.jp
+ip dns static add address=127.0.0.1 name=usounoul.com
 ip dns static add address=127.0.0.1 name=usswrite.com
 ip dns static add address=127.0.0.1 name=mbainfo.ust.hk
 ip dns static add address=127.0.0.1 name=ustbitsoct.top
@@ -41414,7 +41409,6 @@ ip dns static add address=127.0.0.1 name=validclick.com
 ip dns static add address=127.0.0.1 name=analytics.valiuz.com
 ip dns static add address=127.0.0.1 name=vallegalikty.club
 ip dns static add address=127.0.0.1 name=mdws.valleyfirst.com
-ip dns static add address=127.0.0.1 name=valthyra.com
 ip dns static add address=127.0.0.1 name=valuad.cloud
 ip dns static add address=127.0.0.1 name=valuead.com
 ip dns static add address=127.0.0.1 name=valueaffiliate.net
@@ -41467,18 +41461,18 @@ ip dns static add address=127.0.0.1 name=vatlodesim.com
 ip dns static add address=127.0.0.1 name=vatname.info
 ip dns static add address=127.0.0.1 name=vatskaylittl.club
 ip dns static add address=127.0.0.1 name=vaultwrite.com
-ip dns static add address=127.0.0.1 name=vaxaqngzs3.com
 ip dns static add address=127.0.0.1 name=e.vaxyz.com
 ip dns static add address=127.0.0.1 name=m.vaxyz.com
 ip dns static add address=127.0.0.1 name=vaygzgvc.com
 ip dns static add address=127.0.0.1 name=vb4rvq.cn
+ip dns static add address=127.0.0.1 name=e.vbaiu.com
+ip dns static add address=127.0.0.1 name=vbaiu.com
 ip dns static add address=127.0.0.1 name=vbanalytics.com
 ip dns static add address=127.0.0.1 name=vbanm.com
 ip dns static add address=127.0.0.1 name=e.vbanm.com
 ip dns static add address=127.0.0.1 name=m.vbanm.com
 ip dns static add address=127.0.0.1 name=vbaof.com
 ip dns static add address=127.0.0.1 name=vbaou.com
-ip dns static add address=127.0.0.1 name=vbcmgmhfoj.com
 ip dns static add address=127.0.0.1 name=vbds84p3ct02.com
 ip dns static add address=127.0.0.1 name=vbhfrdqskvcvxj.com
 ip dns static add address=127.0.0.1 name=vbieu.com
@@ -41571,6 +41565,7 @@ ip dns static add address=127.0.0.1 name=vendnibtemp.com
 ip dns static add address=127.0.0.1 name=vendri.io
 ip dns static add address=127.0.0.1 name=venetrigni.com
 ip dns static add address=127.0.0.1 name=venonita.com
+ip dns static add address=127.0.0.1 name=venotrouble.biz
 ip dns static add address=127.0.0.1 name=ea.venta-unica.com
 ip dns static add address=127.0.0.1 name=ea.vente-unique.be
 ip dns static add address=127.0.0.1 name=ea.vente-unique.ch
@@ -41655,7 +41650,6 @@ ip dns static add address=127.0.0.1 name=vgkknrbzwfau.com
 ip dns static add address=127.0.0.1 name=click.vgnett.no
 ip dns static add address=127.0.0.1 name=wall.vgr.com
 ip dns static add address=127.0.0.1 name=vgw35hwr4w6x.com
-ip dns static add address=127.0.0.1 name=met.vgwort.de
 ip dns static add address=127.0.0.1 name=ssc.vh1.com
 ip dns static add address=127.0.0.1 name=wt.vhb.de
 ip dns static add address=127.0.0.1 name=vhktunniggbd.com
@@ -41764,7 +41758,6 @@ ip dns static add address=127.0.0.1 name=play.video2.stream.vidzi.tv
 ip dns static add address=127.0.0.1 name=play.vidzi.tv
 ip dns static add address=127.0.0.1 name=vidzi.tv
 ip dns static add address=127.0.0.1 name=salzwerk.viessmann.de
-ip dns static add address=127.0.0.1 name=view-ads.de
 ip dns static add address=127.0.0.1 name=viewablemedia.net
 ip dns static add address=127.0.0.1 name=viewar.org
 ip dns static add address=127.0.0.1 name=viewclc.com
@@ -41781,6 +41774,7 @@ ip dns static add address=127.0.0.1 name=vihtori-analytics.fi
 ip dns static add address=127.0.0.1 name=vihub.ru
 ip dns static add address=127.0.0.1 name=pixel.vihub.ru
 ip dns static add address=127.0.0.1 name=vihwq.com
+ip dns static add address=127.0.0.1 name=viibug.com
 ip dns static add address=127.0.0.1 name=viighj.com
 ip dns static add address=127.0.0.1 name=viihot.com
 ip dns static add address=127.0.0.1 name=viiqx.com
@@ -41822,7 +41816,6 @@ ip dns static add address=127.0.0.1 name=ckg.vipyl.com
 ip dns static add address=127.0.0.1 name=vira.ru
 ip dns static add address=127.0.0.1 name=viral481.com
 ip dns static add address=127.0.0.1 name=viral782.com
-ip dns static add address=127.0.0.1 name=viraladnetwork.net
 ip dns static add address=127.0.0.1 name=viralcpm.com
 ip dns static add address=127.0.0.1 name=viralmediatech.com
 ip dns static add address=127.0.0.1 name=viralninjas.com
@@ -41956,7 +41949,6 @@ ip dns static add address=127.0.0.1 name=al-smetrics.vizio.com
 ip dns static add address=127.0.0.1 name=vizisense.net
 ip dns static add address=127.0.0.1 name=vizury.com
 ip dns static add address=127.0.0.1 name=vizzit.se
-ip dns static add address=127.0.0.1 name=vjcyehtqm9.me
 ip dns static add address=127.0.0.1 name=vjdnbrpqvp.com
 ip dns static add address=127.0.0.1 name=vjiat.com
 ip dns static add address=127.0.0.1 name=vjie.com
@@ -41991,6 +41983,7 @@ ip dns static add address=127.0.0.1 name=vlrzhoueyoxw.com
 ip dns static add address=127.0.0.1 name=vltwox7zl7h1wv.com
 ip dns static add address=127.0.0.1 name=vltxcrkyxtv.com
 ip dns static add address=127.0.0.1 name=vm5apis.com
+ip dns static add address=127.0.0.1 name=hiad.vmall.com
 ip dns static add address=127.0.0.1 name=vmhzvqzx.com
 ip dns static add address=127.0.0.1 name=vmiua.com
 ip dns static add address=127.0.0.1 name=logs.vmixcore.com
@@ -42115,6 +42108,7 @@ ip dns static add address=127.0.0.1 name=vouhecem.net
 ip dns static add address=127.0.0.1 name=vouky.com
 ip dns static add address=127.0.0.1 name=q1scv.vov0.com
 ip dns static add address=127.0.0.1 name=vovhiwr.com
+ip dns static add address=127.0.0.1 name=vowcertainly.com
 ip dns static add address=127.0.0.1 name=vowifeba.xyz
 ip dns static add address=127.0.0.1 name=vownixsofa.cam
 ip dns static add address=127.0.0.1 name=voxfind.com
@@ -42213,7 +42207,6 @@ ip dns static add address=127.0.0.1 name=vtqifk86868.cn
 ip dns static add address=127.0.0.1 name=jc.vtqifk86868.cn
 ip dns static add address=127.0.0.1 name=vtracker.net
 ip dns static add address=127.0.0.1 name=vtracy.de
-ip dns static add address=127.0.0.1 name=vtrjqehu.com
 ip dns static add address=127.0.0.1 name=vtrtl.de
 ip dns static add address=127.0.0.1 name=vuahb.com
 ip dns static add address=127.0.0.1 name=smetrics.vueling.com
@@ -42390,7 +42383,6 @@ ip dns static add address=127.0.0.1 name=wapadv.com
 ip dns static add address=127.0.0.1 name=s.wapadv.com
 ip dns static add address=127.0.0.1 name=wapdollar.in
 ip dns static add address=127.0.0.1 name=waploft.cc
-ip dns static add address=127.0.0.1 name=waploft.com
 ip dns static add address=127.0.0.1 name=waplog.net
 ip dns static add address=127.0.0.1 name=wapoawoo.net
 ip dns static add address=127.0.0.1 name=waps.cn
@@ -42435,7 +42427,6 @@ ip dns static add address=127.0.0.1 name=metrics.washingtonpost.com
 ip dns static add address=127.0.0.1 name=smetrics.washingtonpost.com
 ip dns static add address=127.0.0.1 name=videotracker.washingtonpost.com
 ip dns static add address=127.0.0.1 name=wasm.stream
-ip dns static add address=127.0.0.1 name=wasm24.ru
 ip dns static add address=127.0.0.1 name=wastedcooperate.com
 ip dns static add address=127.0.0.1 name=wastesshimssat.world
 ip dns static add address=127.0.0.1 name=acsystem.wasu.cn
@@ -42490,7 +42481,6 @@ ip dns static add address=127.0.0.1 name=wawpklaws.com
 ip dns static add address=127.0.0.1 name=waxpigbaa.com
 ip dns static add address=127.0.0.1 name=waxtamnit.com
 ip dns static add address=127.0.0.1 name=way2traffic.com
-ip dns static add address=127.0.0.1 name=waycash.net
 ip dns static add address=127.0.0.1 name=t.wayfair.ca
 ip dns static add address=127.0.0.1 name=t.wayfair.co.uk
 ip dns static add address=127.0.0.1 name=px.wayfair.com
@@ -42535,6 +42525,7 @@ ip dns static add address=127.0.0.1 name=wdbqsuukggoyg.com
 ip dns static add address=127.0.0.1 name=wdeie.com
 ip dns static add address=127.0.0.1 name=e.wdeie.com
 ip dns static add address=127.0.0.1 name=m.wdeie.com
+ip dns static add address=127.0.0.1 name=wdeliv.net
 ip dns static add address=127.0.0.1 name=manage.wdfans.cn
 ip dns static add address=127.0.0.1 name=wdfl.co
 ip dns static add address=127.0.0.1 name=wdiur.com
@@ -42590,6 +42581,7 @@ ip dns static add address=127.0.0.1 name=tr.webantenna.info
 ip dns static add address=127.0.0.1 name=webassembly.st
 ip dns static add address=127.0.0.1 name=webassembly.stream
 ip dns static add address=127.0.0.1 name=www.webassembly.stream
+ip dns static add address=127.0.0.1 name=webatam.com
 ip dns static add address=127.0.0.1 name=webcampromo.com
 ip dns static add address=127.0.0.1 name=webcampromotions.com
 ip dns static add address=127.0.0.1 name=webcams.com
@@ -42635,7 +42627,6 @@ ip dns static add address=127.0.0.1 name=counter.webmart.de
 ip dns static add address=127.0.0.1 name=webmasterplan.com
 ip dns static add address=127.0.0.1 name=fc.webmasterpro.de
 ip dns static add address=127.0.0.1 name=webmasterspub.com
-ip dns static add address=127.0.0.1 name=debug-vp.webmd.com
 ip dns static add address=127.0.0.1 name=ssl.o.webmd.com
 ip dns static add address=127.0.0.1 name=std.o.webmd.com
 ip dns static add address=127.0.0.1 name=webmeter.ws
@@ -42643,7 +42634,6 @@ ip dns static add address=127.0.0.1 name=webmine.cz
 ip dns static add address=127.0.0.1 name=www.webmine.cz
 ip dns static add address=127.0.0.1 name=webmine.pro
 ip dns static add address=127.0.0.1 name=webminepool.com
-ip dns static add address=127.0.0.1 name=webminepool.tk
 ip dns static add address=127.0.0.1 name=webminer.pro
 ip dns static add address=127.0.0.1 name=webminerpool.com
 ip dns static add address=127.0.0.1 name=webmining.co
@@ -42790,6 +42780,7 @@ ip dns static add address=127.0.0.1 name=weidianyuedu.com
 ip dns static add address=127.0.0.1 name=ping.weiduofan.com
 ip dns static add address=127.0.0.1 name=weifengtianxia.com
 ip dns static add address=127.0.0.1 name=weiguanwang888.com
+ip dns static add address=127.0.0.1 name=www.weiguizhizuo.com
 ip dns static add address=127.0.0.1 name=weihuiyungou.com
 ip dns static add address=127.0.0.1 name=weiiii.com
 ip dns static add address=127.0.0.1 name=weikefanli.com
@@ -42809,7 +42800,7 @@ ip dns static add address=127.0.0.1 name=weiqiqu.cn
 ip dns static add address=127.0.0.1 name=weixiangzu.cn
 ip dns static add address=127.0.0.1 name=badjs.weixinbridge.com
 ip dns static add address=127.0.0.1 name=weixinfb.cn
-ip dns static add address=127.0.0.1 name=weixingshexiangji.net
+ip dns static add address=127.0.0.1 name=.weixingshexiangji.net
 ip dns static add address=127.0.0.1 name=weixinhuoyuan.com
 ip dns static add address=127.0.0.1 name=weiyajz.cn
 ip dns static add address=127.0.0.1 name=huatuo.weiyun.com
@@ -42922,6 +42913,7 @@ ip dns static add address=127.0.0.1 name=whackmaturityclosure.com
 ip dns static add address=127.0.0.1 name=whadaupo.net
 ip dns static add address=127.0.0.1 name=whafwl.com
 ip dns static add address=127.0.0.1 name=lz.whafwl.com
+ip dns static add address=127.0.0.1 name=whagrolt.com
 ip dns static add address=127.0.0.1 name=whaidruk.com
 ip dns static add address=127.0.0.1 name=whaiweel.com
 ip dns static add address=127.0.0.1 name=whale123.com
@@ -42943,6 +42935,7 @@ ip dns static add address=127.0.0.1 name=sstats.whattopack.com
 ip dns static add address=127.0.0.1 name=whaudsur.net
 ip dns static add address=127.0.0.1 name=whaustou.net
 ip dns static add address=127.0.0.1 name=whautsel.net
+ip dns static add address=127.0.0.1 name=whazugho.com
 ip dns static add address=127.0.0.1 name=whbmy.com
 ip dns static add address=127.0.0.1 name=a-llq.whbmy.com
 ip dns static add address=127.0.0.1 name=whchsvlxch.site
@@ -42962,6 +42955,7 @@ ip dns static add address=127.0.0.1 name=where.com
 ip dns static add address=127.0.0.1 name=ad.where.com
 ip dns static add address=127.0.0.1 name=whereascredentialsurmise.com
 ip dns static add address=127.0.0.1 name=wheredoyoucomefrom.ovh
+ip dns static add address=127.0.0.1 name=whereismommy.gq
 ip dns static add address=127.0.0.1 name=wheshaud.net
 ip dns static add address=127.0.0.1 name=whethere.club
 ip dns static add address=127.0.0.1 name=whetherecyclo.fun
@@ -42995,8 +42989,10 @@ ip dns static add address=127.0.0.1 name=whoclick.cn
 ip dns static add address=127.0.0.1 name=whohuphi.com
 ip dns static add address=127.0.0.1 name=whoisonline.net
 ip dns static add address=127.0.0.1 name=whoisvisiting.com
+ip dns static add address=127.0.0.1 name=wholefreshposts.com
 ip dns static add address=127.0.0.1 name=smetrics.wholesaleclub.ca
 ip dns static add address=127.0.0.1 name=wholesomeindians.com
+ip dns static add address=127.0.0.1 name=whoostoo.net
 ip dns static add address=127.0.0.1 name=whosclickingwho.com
 ip dns static add address=127.0.0.1 name=whoseesyou.com
 ip dns static add address=127.0.0.1 name=whoshood.com
@@ -43040,8 +43036,8 @@ ip dns static add address=127.0.0.1 name=cmsapi.wifi8.com
 ip dns static add address=127.0.0.1 name=www.wifidown.com
 ip dns static add address=127.0.0.1 name=wigetmedia.com
 ip dns static add address=127.0.0.1 name=wigglecrisis.com
-ip dns static add address=127.0.0.1 name=ad-display.wikawika.xyz
 ip dns static add address=127.0.0.1 name=ad-channel.wikawika.xyz
+ip dns static add address=127.0.0.1 name=ad-display.wikawika.xyz
 ip dns static add address=127.0.0.1 name=wikia-beacon.com
 ip dns static add address=127.0.0.1 name=beacon.wikia-services.com
 ip dns static add address=127.0.0.1 name=speed.wikia.net
@@ -43347,9 +43343,11 @@ ip dns static add address=127.0.0.1 name=telemetry.api.wmcdp.io
 ip dns static add address=127.0.0.1 name=wmflabs.org
 ip dns static add address=127.0.0.1 name=metrics.wmg.com
 ip dns static add address=127.0.0.1 name=smetrics.wmg.com
+ip dns static add address=127.0.0.1 name=wmk0099.xyz
 ip dns static add address=127.0.0.1 name=wmmediacorp.com
 ip dns static add address=127.0.0.1 name=wmniqkqrr.com
 ip dns static add address=127.0.0.1 name=wmrmb.cn
+ip dns static add address=127.0.0.1 name=wmruzfvtg.com
 ip dns static add address=127.0.0.1 name=wmtech.website
 ip dns static add address=127.0.0.1 name=bdjiaoben.wmxa.cn
 ip dns static add address=127.0.0.1 name=top.wn.com
@@ -43490,6 +43488,7 @@ ip dns static add address=127.0.0.1 name=wood-pen.com
 ip dns static add address=127.0.0.1 name=marketing.woodtone.com
 ip dns static add address=127.0.0.1 name=woodynoddinghalfbrother.com
 ip dns static add address=127.0.0.1 name=woogoust.com
+ip dns static add address=127.0.0.1 name=woolindigenousdaft.com
 ip dns static add address=127.0.0.1 name=woopra-ns.com
 ip dns static add address=127.0.0.1 name=woopra.com
 ip dns static add address=127.0.0.1 name=data.woosmap.com
@@ -43506,6 +43505,7 @@ ip dns static add address=127.0.0.1 name=stats.wordpress.com
 ip dns static add address=127.0.0.1 name=wordshipopa.club
 ip dns static add address=127.0.0.1 name=tracker.wordstream.com
 ip dns static add address=127.0.0.1 name=woredi.com
+ip dns static add address=127.0.0.1 name=worersie.com
 ip dns static add address=127.0.0.1 name=workbizs.com
 ip dns static add address=127.0.0.1 name=otracks.workday.com
 ip dns static add address=127.0.0.1 name=workedlew.top
@@ -43639,6 +43639,7 @@ ip dns static add address=127.0.0.1 name=writtenorbithalfbaked.com
 ip dns static add address=127.0.0.1 name=wrkdih.com
 ip dns static add address=127.0.0.1 name=wrkl.xyz
 ip dns static add address=127.0.0.1 name=wronpeci.com
+ip dns static add address=127.0.0.1 name=wroteadministercurve.com
 ip dns static add address=127.0.0.1 name=smetrics.wrs.com.sg
 ip dns static add address=127.0.0.1 name=wrvdmh.cn
 ip dns static add address=127.0.0.1 name=ws341.com
@@ -43663,7 +43664,6 @@ ip dns static add address=127.0.0.1 name=wsoue.com
 ip dns static add address=127.0.0.1 name=m.wsoue.com
 ip dns static add address=127.0.0.1 name=wstatslive.com
 ip dns static add address=127.0.0.1 name=wstztt.com
-ip dns static add address=127.0.0.1 name=wswrfjuevvfz.com
 ip dns static add address=127.0.0.1 name=wsxxu.com
 ip dns static add address=127.0.0.1 name=e.wsxxu.com
 ip dns static add address=127.0.0.1 name=m.wsxxu.com
@@ -43671,6 +43671,8 @@ ip dns static add address=127.0.0.1 name=wszzb.top
 ip dns static add address=127.0.0.1 name=wt-eu02.net
 ip dns static add address=127.0.0.1 name=wt-safetag.com
 ip dns static add address=127.0.0.1 name=wt2noay3fgjn.com
+ip dns static add address=127.0.0.1 name=wtastats.com
+ip dns static add address=127.0.0.1 name=wtastats.ro
 ip dns static add address=127.0.0.1 name=wtbtop.cn
 ip dns static add address=127.0.0.1 name=www.wtcpm.com
 ip dns static add address=127.0.0.1 name=wtdome.com
@@ -43706,6 +43708,7 @@ ip dns static add address=127.0.0.1 name=wumii.com
 ip dns static add address=127.0.0.1 name=app.wumii.com
 ip dns static add address=127.0.0.1 name=wundercounter.com
 ip dns static add address=127.0.0.1 name=wunderloop.net
+ip dns static add address=127.0.0.1 name=wuqdebjfhjas.bid
 ip dns static add address=127.0.0.1 name=m.wuqutu.com
 ip dns static add address=127.0.0.1 name=ad.wurangxian.top
 ip dns static add address=127.0.0.1 name=wurtoosy.com
@@ -43731,7 +43734,6 @@ ip dns static add address=127.0.0.1 name=wvhsouzoan.com
 ip dns static add address=127.0.0.1 name=wvs3bmct6mkz.com
 ip dns static add address=127.0.0.1 name=wwads.cn
 ip dns static add address=127.0.0.1 name=www.wwads.cn
-ip dns static add address=127.0.0.1 name=wwbn.com
 ip dns static add address=127.0.0.1 name=wwclicknews.club
 ip dns static add address=127.0.0.1 name=wwclickserv.club
 ip dns static add address=127.0.0.1 name=wwclicktm.club
@@ -43775,7 +43777,6 @@ ip dns static add address=127.0.0.1 name=s.wxktv.cn
 ip dns static add address=127.0.0.1 name=wxlagame.com
 ip dns static add address=127.0.0.1 name=wxmg2016.com
 ip dns static add address=127.0.0.1 name=www1.wxnmh.com
-ip dns static add address=127.0.0.1 name=wxrotkricj.com
 ip dns static add address=127.0.0.1 name=wxs666.cn
 ip dns static add address=127.0.0.1 name=wxsohu.com
 ip dns static add address=127.0.0.1 name=wxspfkln.com
@@ -43886,11 +43887,13 @@ ip dns static add address=127.0.0.1 name=js1.xbaixing.com
 ip dns static add address=127.0.0.1 name=xbaulknerte.club
 ip dns static add address=127.0.0.1 name=xbcnvj2mdk1dn1.com
 ip dns static add address=127.0.0.1 name=xberu.com
+ip dns static add address=127.0.0.1 name=xbnvucutpcq.com
 ip dns static add address=127.0.0.1 name=click.engage.xbox.com
 ip dns static add address=127.0.0.1 name=expbl2ro.xbox.com
 ip dns static add address=127.0.0.1 name=o.xbox.com
 ip dns static add address=127.0.0.1 name=xbtw.com
 ip dns static add address=127.0.0.1 name=xbzpppr.cn
+ip dns static add address=127.0.0.1 name=www.xbzzzx.com
 ip dns static add address=127.0.0.1 name=xcads.cn
 ip dns static add address=127.0.0.1 name=d0.xcar.com.cn
 ip dns static add address=127.0.0.1 name=pv.xcar.com.cn
@@ -44014,6 +44017,7 @@ ip dns static add address=127.0.0.1 name=xgrwjbui.top
 ip dns static add address=127.0.0.1 name=xgubafscfsf.com
 ip dns static add address=127.0.0.1 name=xhamstercams.com
 ip dns static add address=127.0.0.1 name=stat.xhamsterpremium.com
+ip dns static add address=127.0.0.1 name=sc.xhbaihehang.com
 ip dns static add address=127.0.0.1 name=xhbqczl.com
 ip dns static add address=127.0.0.1 name=xhct66.com
 ip dns static add address=127.0.0.1 name=dc.xhct66.com
@@ -44245,7 +44249,6 @@ ip dns static add address=127.0.0.1 name=d.xinshipu.com
 ip dns static add address=127.0.0.1 name=j.xinshipu.com
 ip dns static add address=127.0.0.1 name=xintaizhaoming.com
 ip dns static add address=127.0.0.1 name=xinterface.cn
-ip dns static add address=127.0.0.1 name=xinyijiasc.cn
 ip dns static add address=127.0.0.1 name=xinyikeji.red
 ip dns static add address=127.0.0.1 name=xinyuanstudio.com
 ip dns static add address=127.0.0.1 name=xiongdong.com
@@ -44486,8 +44489,8 @@ ip dns static add address=127.0.0.1 name=xr8wv50k1daj.com
 ip dns static add address=127.0.0.1 name=xrain.net
 ip dns static add address=127.0.0.1 name=xrbmomiow.com
 ip dns static add address=127.0.0.1 name=xrbvsiyyr.com
+ip dns static add address=127.0.0.1 name=j1.ax.xrea.com
 ip dns static add address=127.0.0.1 name=xref.io
-ip dns static add address=127.0.0.1 name=xrgsgywkcvua.com
 ip dns static add address=127.0.0.1 name=xrhobrrgwhtlu.com
 ip dns static add address=127.0.0.1 name=xroun.com
 ip dns static add address=127.0.0.1 name=xrpva.cn
@@ -44699,7 +44702,6 @@ ip dns static add address=127.0.0.1 name=xycnz.com
 ip dns static add address=127.0.0.1 name=xyctmmogcv.com
 ip dns static add address=127.0.0.1 name=xygediwe.xyz
 ip dns static add address=127.0.0.1 name=xylmdm.top
-ip dns static add address=127.0.0.1 name=t.xymj.xyz
 ip dns static add address=127.0.0.1 name=xyqptm.com
 ip dns static add address=127.0.0.1 name=xyqxr.com
 ip dns static add address=127.0.0.1 name=xyrhd.com
@@ -44729,6 +44731,7 @@ ip dns static add address=127.0.0.1 name=zls.xz6d.com
 ip dns static add address=127.0.0.1 name=gzm.xzbu.com
 ip dns static add address=127.0.0.1 name=xzdchl.com
 ip dns static add address=127.0.0.1 name=xzipy.com
+ip dns static add address=127.0.0.1 name=xzixbirtfo.com
 ip dns static add address=127.0.0.1 name=xzlnews.info
 ip dns static add address=127.0.0.1 name=xznykf.org
 ip dns static add address=127.0.0.1 name=xzqxz.net
@@ -44934,7 +44937,6 @@ ip dns static add address=127.0.0.1 name=www.ybtianxi.com
 ip dns static add address=127.0.0.1 name=ybvip1879.vip
 ip dns static add address=127.0.0.1 name=m.ybwmmq.cn
 ip dns static add address=127.0.0.1 name=ybytexer.xyz
-ip dns static add address=127.0.0.1 name=ycasmd.info
 ip dns static add address=127.0.0.1 name=g.yccdn.com
 ip dns static add address=127.0.0.1 name=webtrends.yccdn.com
 ip dns static add address=127.0.0.1 name=ycczhbzoyseg.com
@@ -45056,7 +45058,6 @@ ip dns static add address=127.0.0.1 name=yfi8.com
 ip dns static add address=127.0.0.1 name=n.yfi8.com
 ip dns static add address=127.0.0.1 name=yfibjzosrqrtmv.com
 ip dns static add address=127.0.0.1 name=yfivoqeh.online
-ip dns static add address=127.0.0.1 name=yfnvswrfjw.com
 ip dns static add address=127.0.0.1 name=yfomeimset.com
 ip dns static add address=127.0.0.1 name=track.yfret.com
 ip dns static add address=127.0.0.1 name=yfubi.com
@@ -45207,6 +45208,7 @@ ip dns static add address=127.0.0.1 name=yinooo.com
 ip dns static add address=127.0.0.1 name=360.yinooo.com
 ip dns static add address=127.0.0.1 name=www.yinooo.com
 ip dns static add address=127.0.0.1 name=sina.yinstar.org
+ip dns static add address=127.0.0.1 name=yinsterkneeline.info
 ip dns static add address=127.0.0.1 name=yinvmh.com
 ip dns static add address=127.0.0.1 name=yinyuehu.cn
 ip dns static add address=127.0.0.1 name=w.yinyuehu.cn
@@ -45290,7 +45292,6 @@ ip dns static add address=127.0.0.1 name=yjxqy.com
 ip dns static add address=127.0.0.1 name=yjyjnolllezo.com
 ip dns static add address=127.0.0.1 name=yk0712.com
 ip dns static add address=127.0.0.1 name=ykanx.com
-ip dns static add address=127.0.0.1 name=p2.ykauto.cn
 ip dns static add address=127.0.0.1 name=ykbei.com
 ip dns static add address=127.0.0.1 name=l.ykimg.com
 ip dns static add address=127.0.0.1 name=p-log.ykimg.com
@@ -45315,7 +45316,6 @@ ip dns static add address=127.0.0.1 name=y71.ylems.club
 ip dns static add address=127.0.0.1 name=y76.ylems.club
 ip dns static add address=127.0.0.1 name=ylflwbj.cn
 ip dns static add address=127.0.0.1 name=ylicxdkgkvfc.com
-ip dns static add address=127.0.0.1 name=ylihbkbiefgj.com
 ip dns static add address=127.0.0.1 name=c.ylist.cn
 ip dns static add address=127.0.0.1 name=ylkqw.com
 ip dns static add address=127.0.0.1 name=yllanala.pw
@@ -45670,12 +45670,10 @@ ip dns static add address=127.0.0.1 name=ypuxlzxa.com
 ip dns static add address=127.0.0.1 name=ypwpzgld.com
 ip dns static add address=127.0.0.1 name=ypzhrmspnfmy.com
 ip dns static add address=127.0.0.1 name=ypzhwf.cn
-ip dns static add address=127.0.0.1 name=yqcmuxkd.com
 ip dns static add address=127.0.0.1 name=yqcy988.com
 ip dns static add address=127.0.0.1 name=yqeuu.com
 ip dns static add address=127.0.0.1 name=yqezqofkb1nnmz.com
 ip dns static add address=127.0.0.1 name=yqhlty.com
-ip dns static add address=127.0.0.1 name=yqmhrvvlbm.com
 ip dns static add address=127.0.0.1 name=yqmzhilyjzw.com
 ip dns static add address=127.0.0.1 name=yqorexok.xyz
 ip dns static add address=127.0.0.1 name=yqqlm.vip
@@ -45815,6 +45813,7 @@ ip dns static add address=127.0.0.1 name=daima.yutou123.cn
 ip dns static add address=127.0.0.1 name=yuu360.com
 ip dns static add address=127.0.0.1 name=a1.yuuedu.com
 ip dns static add address=127.0.0.1 name=yuunion.com
+ip dns static add address=127.0.0.1 name=yuuykrunvh.com
 ip dns static add address=127.0.0.1 name=mps.yuwenba.cn
 ip dns static add address=127.0.0.1 name=yuxiangrc.com
 ip dns static add address=127.0.0.1 name=yuxiny.com
@@ -45824,7 +45823,6 @@ ip dns static add address=127.0.0.1 name=m.yuyouge.com
 ip dns static add address=127.0.0.1 name=dows.yuyudl.com
 ip dns static add address=127.0.0.1 name=yuyue008.cn
 ip dns static add address=127.0.0.1 name=yuyueyang.cn
-ip dns static add address=127.0.0.1 name=yuyyio.com
 ip dns static add address=127.0.0.1 name=daima.yuzhulin.com
 ip dns static add address=127.0.0.1 name=yvatswzotstdve.com
 ip dns static add address=127.0.0.1 name=yvebbtqvqvhufs.com
@@ -45848,6 +45846,7 @@ ip dns static add address=127.0.0.1 name=ywidgets.awe.sm
 ip dns static add address=127.0.0.1 name=ywjsgc.com
 ip dns static add address=127.0.0.1 name=ywjxsp168.cn
 ip dns static add address=127.0.0.1 name=gw.d.ywopt.com
+ip dns static add address=127.0.0.1 name=utma.ywpxp.cn
 ip dns static add address=127.0.0.1 name=ywqpgy.com
 ip dns static add address=127.0.0.1 name=ywqum.cn
 ip dns static add address=127.0.0.1 name=ywrjgzs.com
@@ -45855,7 +45854,6 @@ ip dns static add address=127.0.0.1 name=ywwm.net
 ip dns static add address=127.0.0.1 name=ywxi.net
 ip dns static add address=127.0.0.1 name=ywxtmox.cn
 ip dns static add address=127.0.0.1 name=ywywjrlbsuv.com
-ip dns static add address=127.0.0.1 name=adsclick.yx.js.cn
 ip dns static add address=127.0.0.1 name=yx4449.com
 ip dns static add address=127.0.0.1 name=lishi.yxbao.com
 ip dns static add address=127.0.0.1 name=lishi1.yxbao.com
@@ -45902,7 +45900,6 @@ ip dns static add address=127.0.0.1 name=yyp17.com
 ip dns static add address=127.0.0.1 name=yyshow.top
 ip dns static add address=127.0.0.1 name=yyslate.com
 ip dns static add address=127.0.0.1 name=huncai888.yytejg.com
-ip dns static add address=127.0.0.1 name=yywctdppuncv.com
 ip dns static add address=127.0.0.1 name=yyxrezickph.com
 ip dns static add address=127.0.0.1 name=q1.yyxwzx.com
 ip dns static add address=127.0.0.1 name=yyy6999.com
@@ -45989,6 +45986,7 @@ ip dns static add address=127.0.0.1 name=zaugroaw.net
 ip dns static add address=127.0.0.1 name=zaushegi.net
 ip dns static add address=127.0.0.1 name=zav4gln44kez.com
 ip dns static add address=127.0.0.1 name=zavrotfro.com
+ip dns static add address=127.0.0.1 name=zavzlen.ru
 ip dns static add address=127.0.0.1 name=zayac2volk11.com
 ip dns static add address=127.0.0.1 name=zazerygu.pro
 ip dns static add address=127.0.0.1 name=zazhipu.com
@@ -46014,7 +46012,6 @@ ip dns static add address=127.0.0.1 name=e.zcand.com
 ip dns static add address=127.0.0.1 name=m.zcand.com
 ip dns static add address=127.0.0.1 name=zcaod.com
 ip dns static add address=127.0.0.1 name=zcbmn14.com
-ip dns static add address=127.0.0.1 name=zcchbviygqkke.com
 ip dns static add address=127.0.0.1 name=zcdor.com
 ip dns static add address=127.0.0.1 name=zcdsp.com
 ip dns static add address=127.0.0.1 name=rtbstat.zcdsp.com
@@ -46026,7 +46023,6 @@ ip dns static add address=127.0.0.1 name=zcpap.cn
 ip dns static add address=127.0.0.1 name=zcpnq.cn
 ip dns static add address=127.0.0.1 name=zcrtd.com
 ip dns static add address=127.0.0.1 name=static.zctx8.com
-ip dns static add address=127.0.0.1 name=zcwjasfrog.com
 ip dns static add address=127.0.0.1 name=zd6789.com
 ip dns static add address=127.0.0.1 name=zdajdudqfq.com
 ip dns static add address=127.0.0.1 name=zdbb.net
@@ -46073,7 +46069,6 @@ ip dns static add address=127.0.0.1 name=zeesiti.com
 ip dns static add address=127.0.0.1 name=zeewepie.net
 ip dns static add address=127.0.0.1 name=smetrics.zehrs.ca
 ip dns static add address=127.0.0.1 name=audev.zeit.de
-ip dns static add address=127.0.0.1 name=cc.zeit.de
 ip dns static add address=127.0.0.1 name=iiajtl.zeit.de
 ip dns static add address=127.0.0.1 name=zekcgykv.com
 ip dns static add address=127.0.0.1 name=zel-zel-fie.com
@@ -46137,6 +46132,7 @@ ip dns static add address=127.0.0.1 name=zgclmw.cn
 ip dns static add address=127.0.0.1 name=s.zgclmw.cn
 ip dns static add address=127.0.0.1 name=zgczjw.com
 ip dns static add address=127.0.0.1 name=zgdfvih.cn
+ip dns static add address=127.0.0.1 name=zgdfz6h7po.me
 ip dns static add address=127.0.0.1 name=zgdmsj.cn
 ip dns static add address=127.0.0.1 name=zgdtro.com
 ip dns static add address=127.0.0.1 name=zgeuzenogpy.com
@@ -46168,7 +46164,6 @@ ip dns static add address=127.0.0.1 name=zhaibei112.top
 ip dns static add address=127.0.0.1 name=e.zhaibei112.top
 ip dns static add address=127.0.0.1 name=m.zhaibei112.top
 ip dns static add address=127.0.0.1 name=tg.zhan97.com
-ip dns static add address=127.0.0.1 name=xiaoshuo.zhandao.net
 ip dns static add address=127.0.0.1 name=zhandi.cc
 ip dns static add address=127.0.0.1 name=zhangguangzong.com
 ip dns static add address=127.0.0.1 name=qqwx.zhangguangzong.com
@@ -46320,7 +46315,6 @@ ip dns static add address=127.0.0.1 name=zichenit.com
 ip dns static add address=127.0.0.1 name=myjsym.zichenit.com
 ip dns static add address=127.0.0.1 name=mymm.zichenit.com
 ip dns static add address=127.0.0.1 name=zidedge.com
-ip dns static add address=127.0.0.1 name=zidtqsrzosud.com
 ip dns static add address=127.0.0.1 name=ziffdavis.com
 ip dns static add address=127.0.0.1 name=geobar.ziffdavisinternational.com
 ip dns static add address=127.0.0.1 name=zifjgjddpy.com
@@ -46432,6 +46426,7 @@ ip dns static add address=127.0.0.1 name=zmgod.com
 ip dns static add address=127.0.0.1 name=zmhwglwmi.com
 ip dns static add address=127.0.0.1 name=zmkma.com
 ip dns static add address=127.0.0.1 name=zmlled.cn
+ip dns static add address=127.0.0.1 name=zmnkduay.com
 ip dns static add address=127.0.0.1 name=zmyuer.com
 ip dns static add address=127.0.0.1 name=zmzfile.com
 ip dns static add address=127.0.0.1 name=fxbqag.znak.com
@@ -46471,6 +46466,7 @@ ip dns static add address=127.0.0.1 name=pvmsite.zol.com.cn
 ip dns static add address=127.0.0.1 name=pvsite.zol.com.cn
 ip dns static add address=127.0.0.1 name=wappv.zol.com.cn
 ip dns static add address=127.0.0.1 name=ydjs.zol.com.cn
+ip dns static add address=127.0.0.1 name=jumbo.zomato.com
 ip dns static add address=127.0.0.1 name=track.zomato.com
 ip dns static add address=127.0.0.1 name=zona.pl
 ip dns static add address=127.0.0.1 name=zona.plus
@@ -46584,7 +46580,6 @@ ip dns static add address=127.0.0.1 name=www.zshacker.com
 ip dns static add address=127.0.0.1 name=zshbpcqbm.com
 ip dns static add address=127.0.0.1 name=zoom.zshu.net
 ip dns static add address=127.0.0.1 name=img.zsj18.com
-ip dns static add address=127.0.0.1 name=zsjgmnmtgm.com
 ip dns static add address=127.0.0.1 name=zsjyc.top
 ip dns static add address=127.0.0.1 name=abcd.zsrt88.cn
 ip dns static add address=127.0.0.1 name=zstjy.com
@@ -46763,4 +46758,4 @@ ip dns static add address=127.0.0.1 name=zzwflxs.com
 ip dns static add address=127.0.0.1 name=zzwpsm.cn
 ip dns static add address=127.0.0.1 name=zzxhx.com
 ip dns static add address=127.0.0.1 name=zzyanhushi.com
-ip dns static add address=127.0.0.1 name=zzyonghao.comddd
+ip dns static add address=127.0.0.1 name=zzyonghao.com
